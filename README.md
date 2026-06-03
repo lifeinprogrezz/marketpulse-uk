@@ -1,3 +1,5 @@
+> **Note — why this repo exists:** Public showcase copy of a weekend hackathon project (Engineering Hub Barcelona, challenge set by Damm), originally built in a private team repo. Built with the CeltasInProgress team, including [Eddie Allbutt](https://github.com/EddieAllbutt). All trading data here is **synthetic** — no real Damm data.
+
 # MarketPulse UK
 
 > Built for the **DAMM × Engineering Hub Hackathon** (Barcelona, May 2026) — track: **MarketPulse UK (sponsored by Cala)**.
