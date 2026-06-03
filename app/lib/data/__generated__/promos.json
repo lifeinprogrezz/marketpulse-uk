@@ -1,0 +1,6716 @@
+[
+  {
+    "retailer": "Retailer 1",
+    "sku_descr": "Estrella 4x440ml",
+    "start_date": "2026-01-01",
+    "end_date": "2026-01-20",
+    "promo_price": 5.21,
+    "mechanic": null,
+    "depth_pct": 0.052727272727272734
+  },
+  {
+    "retailer": "Retailer 1",
+    "sku_descr": "Estrella 660ml",
+    "start_date": "2026-01-01",
+    "end_date": "2026-01-20",
+    "promo_price": null,
+    "mechanic": "MTB",
+    "depth_pct": null
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-08",
+    "promo_price": 3.5,
+    "mechanic": null,
+    "depth_pct": 0.06666666666666667
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can Locals",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-08",
+    "promo_price": 3.5,
+    "mechanic": null,
+    "depth_pct": 0.06666666666666667
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-08",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can Locals",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-08",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-08",
+    "promo_price": 6,
+    "mechanic": "3 for £6.00",
+    "depth_pct": 0.07692307692307693
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-01-02",
+    "end_date": "2026-01-08",
+    "promo_price": 6,
+    "mechanic": "3 for £6.00",
+    "depth_pct": 0.07692307692307693
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can",
+    "start_date": "2026-01-07",
+    "end_date": "2026-01-13",
+    "promo_price": 3.5,
+    "mechanic": null,
+    "depth_pct": 0.06666666666666667
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can Locals",
+    "start_date": "2026-01-07",
+    "end_date": "2026-01-13",
+    "promo_price": 3.5,
+    "mechanic": null,
+    "depth_pct": 0.06666666666666667
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can",
+    "start_date": "2026-01-07",
+    "end_date": "2026-01-13",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can Locals",
+    "start_date": "2026-01-07",
+    "end_date": "2026-01-13",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-01-07",
+    "end_date": "2026-01-13",
+    "promo_price": 6,
+    "mechanic": "3 for £6.00",
+    "depth_pct": 0.07692307692307693
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-01-07",
+    "end_date": "2026-01-13",
+    "promo_price": 6,
+    "mechanic": "3 for £6.00",
+    "depth_pct": 0.07692307692307693
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20",
+    "promo_price": 3.5,
+    "mechanic": null,
+    "depth_pct": 0.06666666666666667
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can Locals",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20",
+    "promo_price": 3.5,
+    "mechanic": null,
+    "depth_pct": 0.06666666666666667
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can Locals",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20",
+    "promo_price": 6,
+    "mechanic": "3 for £6.00",
+    "depth_pct": 0.07692307692307693
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-01-14",
+    "end_date": "2026-01-20",
+    "promo_price": 6,
+    "mechanic": "3 for £6.00",
+    "depth_pct": 0.07692307692307693
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-01-21",
+    "end_date": "2026-01-27",
+    "promo_price": 6,
+    "mechanic": "3 for £6.00",
+    "depth_pct": 0.07692307692307693
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-01-21",
+    "end_date": "2026-01-27",
+    "promo_price": 6,
+    "mechanic": "3 for £6.00",
+    "depth_pct": 0.07692307692307693
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-01-28",
+    "end_date": "2026-02-03",
+    "promo_price": 6,
+    "mechanic": "3 for £6.00",
+    "depth_pct": 0.07692307692307693
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-01-28",
+    "end_date": "2026-02-03",
+    "promo_price": 6,
+    "mechanic": "3 for £6.00",
+    "depth_pct": 0.07692307692307693
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-02-04",
+    "end_date": "2026-02-10",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-02-04",
+    "end_date": "2026-02-10",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 1",
+    "sku_descr": "Estrella 10x440ml (CAN)",
+    "start_date": "2026-02-11",
+    "end_date": "2026-03-17",
+    "promo_price": 13,
+    "mechanic": "WIGIG £13",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can",
+    "start_date": "2026-02-11",
+    "end_date": "2026-02-17",
+    "promo_price": 3.5,
+    "mechanic": null,
+    "depth_pct": 0.06666666666666667
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can Locals",
+    "start_date": "2026-02-11",
+    "end_date": "2026-02-17",
+    "promo_price": 3.5,
+    "mechanic": null,
+    "depth_pct": 0.06666666666666667
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Daura Damm NRB / Can",
+    "start_date": "2026-02-11",
+    "end_date": "2026-02-17",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-02-11",
+    "end_date": "2026-02-17",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.4782608695652174
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can Locals",
+    "start_date": "2026-02-11",
+    "end_date": "2026-02-17",
+    "promo_price": 12.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-02-11",
+    "end_date": "2026-02-17",
+    "promo_price": 13,
+    "mechanic": null,
+    "depth_pct": 0.037037037037037035
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can",
+    "start_date": "2026-02-11",
+    "end_date": "2026-02-17",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can Locals",
+    "start_date": "2026-02-11",
+    "end_date": "2026-02-17",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can",
+    "start_date": "2026-02-11",
+    "end_date": "2026-02-17",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can Locals",
+    "start_date": "2026-02-11",
+    "end_date": "2026-02-17",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.08333333333333333
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-02-11",
+    "end_date": "2026-02-17",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Rosa Blanca 4x440ml Can",
+    "start_date": "2026-02-11",
+    "end_date": "2026-02-17",
+    "promo_price": 3.5,
+    "mechanic": null,
+    "depth_pct": 0.06666666666666667
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-02-11",
+    "end_date": "2026-02-17",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can",
+    "start_date": "2026-02-18",
+    "end_date": "2026-02-24",
+    "promo_price": 3.5,
+    "mechanic": null,
+    "depth_pct": 0.06666666666666667
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can Locals",
+    "start_date": "2026-02-18",
+    "end_date": "2026-02-24",
+    "promo_price": 3.5,
+    "mechanic": null,
+    "depth_pct": 0.06666666666666667
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Daura Damm NRB / Can",
+    "start_date": "2026-02-18",
+    "end_date": "2026-02-24",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-02-18",
+    "end_date": "2026-02-24",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.4782608695652174
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can Locals",
+    "start_date": "2026-02-18",
+    "end_date": "2026-02-24",
+    "promo_price": 12.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-02-18",
+    "end_date": "2026-02-24",
+    "promo_price": 13,
+    "mechanic": null,
+    "depth_pct": 0.037037037037037035
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can",
+    "start_date": "2026-02-18",
+    "end_date": "2026-02-24",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can Locals",
+    "start_date": "2026-02-18",
+    "end_date": "2026-02-24",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can",
+    "start_date": "2026-02-18",
+    "end_date": "2026-02-24",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can Locals",
+    "start_date": "2026-02-18",
+    "end_date": "2026-02-24",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.08333333333333333
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-02-18",
+    "end_date": "2026-02-24",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Rosa Blanca 4x440ml Can",
+    "start_date": "2026-02-18",
+    "end_date": "2026-02-24",
+    "promo_price": 3.5,
+    "mechanic": null,
+    "depth_pct": 0.06666666666666667
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-02-18",
+    "end_date": "2026-02-24",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 10x330ml Can",
+    "start_date": "2026-02-23",
+    "end_date": "2026-03-01",
+    "promo_price": 10,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-02-23",
+    "end_date": "2026-03-01",
+    "promo_price": 17.5,
+    "mechanic": null,
+    "depth_pct": 0.027777777777777776
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-02-23",
+    "end_date": "2026-03-01",
+    "promo_price": 5.75,
+    "mechanic": null,
+    "depth_pct": 0.23333333333333334
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-02-23",
+    "end_date": "2026-03-01",
+    "promo_price": 6.5,
+    "mechanic": null,
+    "depth_pct": 0.07142857142857142
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-02-23",
+    "end_date": "2026-03-01",
+    "promo_price": 5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can Locals",
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-03",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.02040816326530612
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-03",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Rosa Blanca 4x440ml Can",
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-03",
+    "promo_price": 3.5,
+    "mechanic": null,
+    "depth_pct": 0.06666666666666667
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-02-25",
+    "end_date": "2026-03-03",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 10x330ml Can",
+    "start_date": "2026-03-02",
+    "end_date": "2026-03-08",
+    "promo_price": 10,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-03-02",
+    "end_date": "2026-03-08",
+    "promo_price": 17.5,
+    "mechanic": null,
+    "depth_pct": 0.027777777777777776
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-03-02",
+    "end_date": "2026-03-08",
+    "promo_price": 5.75,
+    "mechanic": null,
+    "depth_pct": 0.23333333333333334
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-03-02",
+    "end_date": "2026-03-08",
+    "promo_price": 6.5,
+    "mechanic": null,
+    "depth_pct": 0.07142857142857142
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-03-02",
+    "end_date": "2026-03-08",
+    "promo_price": 5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can Locals",
+    "start_date": "2026-03-04",
+    "end_date": "2026-03-10",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.02040816326530612
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-03-04",
+    "end_date": "2026-03-10",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Rosa Blanca 4x440ml Can",
+    "start_date": "2026-03-04",
+    "end_date": "2026-03-10",
+    "promo_price": 3.5,
+    "mechanic": null,
+    "depth_pct": 0.06666666666666667
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-03-04",
+    "end_date": "2026-03-10",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 10x330ml Can",
+    "start_date": "2026-03-09",
+    "end_date": "2026-03-15",
+    "promo_price": 10,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-03-09",
+    "end_date": "2026-03-15",
+    "promo_price": 17.5,
+    "mechanic": null,
+    "depth_pct": 0.027777777777777776
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-03-09",
+    "end_date": "2026-03-15",
+    "promo_price": 5.75,
+    "mechanic": null,
+    "depth_pct": 0.23333333333333334
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-03-09",
+    "end_date": "2026-03-15",
+    "promo_price": 6.5,
+    "mechanic": null,
+    "depth_pct": 0.07142857142857142
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-03-09",
+    "end_date": "2026-03-15",
+    "promo_price": 5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 1",
+    "sku_descr": "Estrella 10x440ml (CAN)",
+    "start_date": "2026-03-11",
+    "end_date": "2026-04-07",
+    "promo_price": 12,
+    "mechanic": "RB £12/2 for £20",
+    "depth_pct": 0.07692307692307693
+  },
+  {
+    "retailer": "Retailer 1",
+    "sku_descr": "Estrella 4x440ml",
+    "start_date": "2026-03-11",
+    "end_date": "2026-04-07",
+    "promo_price": 5.21,
+    "mechanic": null,
+    "depth_pct": 0.052727272727272734
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can Locals",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.02040816326530612
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Rosa Blanca 4x440ml Can",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17",
+    "promo_price": 3.5,
+    "mechanic": null,
+    "depth_pct": 0.06666666666666667
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-03-11",
+    "end_date": "2026-03-17",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 10x330ml Can",
+    "start_date": "2026-03-16",
+    "end_date": "2026-03-22",
+    "promo_price": 10,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-03-16",
+    "end_date": "2026-03-22",
+    "promo_price": 13,
+    "mechanic": null,
+    "depth_pct": 0.2777777777777778
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-03-16",
+    "end_date": "2026-03-22",
+    "promo_price": 5.75,
+    "mechanic": null,
+    "depth_pct": 0.23333333333333334
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-03-16",
+    "end_date": "2026-03-22",
+    "promo_price": 6.5,
+    "mechanic": null,
+    "depth_pct": 0.07142857142857142
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-03-16",
+    "end_date": "2026-03-22",
+    "promo_price": 5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24",
+    "promo_price": 3.5,
+    "mechanic": null,
+    "depth_pct": 0.06666666666666667
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Daura Damm NRB / Can",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24",
+    "promo_price": 23,
+    "mechanic": "2 for £23",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can Locals",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24",
+    "promo_price": 12.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24",
+    "promo_price": 13.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can Locals",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-24",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 10x330ml Can",
+    "start_date": "2026-03-23",
+    "end_date": "2026-03-29",
+    "promo_price": 10,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-03-23",
+    "end_date": "2026-03-29",
+    "promo_price": 13,
+    "mechanic": null,
+    "depth_pct": 0.2777777777777778
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-03-23",
+    "end_date": "2026-03-29",
+    "promo_price": 7.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-03-23",
+    "end_date": "2026-03-29",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.21428571428571427
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-03-23",
+    "end_date": "2026-03-29",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can",
+    "start_date": "2026-03-25",
+    "end_date": "2026-03-31",
+    "promo_price": 3.5,
+    "mechanic": null,
+    "depth_pct": 0.06666666666666667
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Daura Damm NRB / Can",
+    "start_date": "2026-03-25",
+    "end_date": "2026-03-31",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-03-25",
+    "end_date": "2026-03-31",
+    "promo_price": 23,
+    "mechanic": "2 for £23",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can Locals",
+    "start_date": "2026-03-25",
+    "end_date": "2026-03-31",
+    "promo_price": 12.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-03-25",
+    "end_date": "2026-03-31",
+    "promo_price": 13.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can",
+    "start_date": "2026-03-25",
+    "end_date": "2026-03-31",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can Locals",
+    "start_date": "2026-03-25",
+    "end_date": "2026-03-31",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can",
+    "start_date": "2026-03-25",
+    "end_date": "2026-03-31",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-03-25",
+    "end_date": "2026-03-31",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-03-25",
+    "end_date": "2026-03-31",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 10x330ml Can",
+    "start_date": "2026-03-30",
+    "end_date": "2026-04-05",
+    "promo_price": 10,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-03-30",
+    "end_date": "2026-04-05",
+    "promo_price": 13,
+    "mechanic": null,
+    "depth_pct": 0.2777777777777778
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-03-30",
+    "end_date": "2026-04-05",
+    "promo_price": 7.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-03-30",
+    "end_date": "2026-04-05",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.21428571428571427
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-03-30",
+    "end_date": "2026-04-05",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can",
+    "start_date": "2026-04-01",
+    "end_date": "2026-04-07",
+    "promo_price": 3.5,
+    "mechanic": null,
+    "depth_pct": 0.06666666666666667
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Daura Damm NRB / Can",
+    "start_date": "2026-04-01",
+    "end_date": "2026-04-07",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-04-01",
+    "end_date": "2026-04-07",
+    "promo_price": 23,
+    "mechanic": "2 for £23",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can Locals",
+    "start_date": "2026-04-01",
+    "end_date": "2026-04-07",
+    "promo_price": 12.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-04-01",
+    "end_date": "2026-04-07",
+    "promo_price": 13.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can",
+    "start_date": "2026-04-01",
+    "end_date": "2026-04-07",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can Locals",
+    "start_date": "2026-04-01",
+    "end_date": "2026-04-07",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can",
+    "start_date": "2026-04-01",
+    "end_date": "2026-04-07",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-04-01",
+    "end_date": "2026-04-07",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-04-01",
+    "end_date": "2026-04-07",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 10x330ml Can",
+    "start_date": "2026-04-06",
+    "end_date": "2026-04-12",
+    "promo_price": 10,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-04-06",
+    "end_date": "2026-04-12",
+    "promo_price": 13,
+    "mechanic": null,
+    "depth_pct": 0.2777777777777778
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-04-06",
+    "end_date": "2026-04-12",
+    "promo_price": 7.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-04-06",
+    "end_date": "2026-04-12",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.21428571428571427
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-04-06",
+    "end_date": "2026-04-12",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 1",
+    "sku_descr": "Damm Lemon 4x330ml",
+    "start_date": "2026-04-08",
+    "end_date": "2026-05-05",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 1",
+    "sku_descr": "Daura 4x330ml (Can)",
+    "start_date": "2026-04-08",
+    "end_date": "2026-05-05",
+    "promo_price": null,
+    "mechanic": "SKU replacement",
+    "depth_pct": null
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can Locals",
+    "start_date": "2026-04-08",
+    "end_date": "2026-04-14",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-04-08",
+    "end_date": "2026-04-14",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.4782608695652174
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can Locals",
+    "start_date": "2026-04-08",
+    "end_date": "2026-04-14",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-04-08",
+    "end_date": "2026-04-14",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Rosa Blanca 4x440ml Can",
+    "start_date": "2026-04-08",
+    "end_date": "2026-04-14",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-04-08",
+    "end_date": "2026-04-14",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 10x330ml Can",
+    "start_date": "2026-04-13",
+    "end_date": "2026-04-19",
+    "promo_price": 10,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-04-13",
+    "end_date": "2026-04-19",
+    "promo_price": 13,
+    "mechanic": null,
+    "depth_pct": 0.2777777777777778
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-04-13",
+    "end_date": "2026-04-19",
+    "promo_price": 7.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-04-13",
+    "end_date": "2026-04-19",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.21428571428571427
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-04-13",
+    "end_date": "2026-04-19",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can Locals",
+    "start_date": "2026-04-15",
+    "end_date": "2026-04-21",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-04-15",
+    "end_date": "2026-04-21",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.4782608695652174
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can Locals",
+    "start_date": "2026-04-15",
+    "end_date": "2026-04-21",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-04-15",
+    "end_date": "2026-04-21",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Rosa Blanca 4x440ml Can",
+    "start_date": "2026-04-15",
+    "end_date": "2026-04-21",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-04-15",
+    "end_date": "2026-04-21",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 10x330ml Can",
+    "start_date": "2026-04-20",
+    "end_date": "2026-04-26",
+    "promo_price": 10,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-04-20",
+    "end_date": "2026-04-26",
+    "promo_price": 13,
+    "mechanic": null,
+    "depth_pct": 0.2777777777777778
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-04-20",
+    "end_date": "2026-04-26",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-04-20",
+    "end_date": "2026-04-26",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.21428571428571427
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-04-20",
+    "end_date": "2026-04-26",
+    "promo_price": 5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-04-20",
+    "end_date": "2026-04-26",
+    "promo_price": 11,
+    "mechanic": null,
+    "depth_pct": 0.34328358208955223
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-04-20",
+    "end_date": "2026-04-26",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0.13793103448275862
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can",
+    "start_date": "2026-04-22",
+    "end_date": "2026-04-28",
+    "promo_price": 3.45,
+    "mechanic": null,
+    "depth_pct": 0.07999999999999995
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can Locals",
+    "start_date": "2026-04-22",
+    "end_date": "2026-04-28",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-04-22",
+    "end_date": "2026-04-28",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.4782608695652174
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can",
+    "start_date": "2026-04-22",
+    "end_date": "2026-04-28",
+    "promo_price": 5.25,
+    "mechanic": null,
+    "depth_pct": 0.045454545454545456
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can Locals",
+    "start_date": "2026-04-22",
+    "end_date": "2026-04-28",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-04-22",
+    "end_date": "2026-04-28",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Rosa Blanca 4x440ml Can",
+    "start_date": "2026-04-22",
+    "end_date": "2026-04-28",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-04-22",
+    "end_date": "2026-04-28",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 10x330ml Can",
+    "start_date": "2026-04-27",
+    "end_date": "2026-05-03",
+    "promo_price": 10,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-04-27",
+    "end_date": "2026-05-03",
+    "promo_price": 18,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-04-27",
+    "end_date": "2026-05-03",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-04-27",
+    "end_date": "2026-05-03",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.21428571428571427
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-04-27",
+    "end_date": "2026-05-03",
+    "promo_price": 5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-04-27",
+    "end_date": "2026-05-03",
+    "promo_price": 11,
+    "mechanic": null,
+    "depth_pct": 0.34328358208955223
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-04-27",
+    "end_date": "2026-05-03",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0.13793103448275862
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can",
+    "start_date": "2026-04-29",
+    "end_date": "2026-05-05",
+    "promo_price": 3.45,
+    "mechanic": null,
+    "depth_pct": 0.07999999999999995
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-04-29",
+    "end_date": "2026-05-05",
+    "promo_price": 23,
+    "mechanic": "2 for £23",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can Locals",
+    "start_date": "2026-04-29",
+    "end_date": "2026-05-05",
+    "promo_price": 12.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-04-29",
+    "end_date": "2026-05-05",
+    "promo_price": 13,
+    "mechanic": null,
+    "depth_pct": 0.037037037037037035
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can",
+    "start_date": "2026-04-29",
+    "end_date": "2026-05-05",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can Locals",
+    "start_date": "2026-04-29",
+    "end_date": "2026-05-05",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can",
+    "start_date": "2026-04-29",
+    "end_date": "2026-05-05",
+    "promo_price": 5.25,
+    "mechanic": null,
+    "depth_pct": 0.045454545454545456
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-04-29",
+    "end_date": "2026-05-05",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-04-29",
+    "end_date": "2026-05-05",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 10x330ml Can",
+    "start_date": "2026-05-04",
+    "end_date": "2026-05-10",
+    "promo_price": 10,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-05-04",
+    "end_date": "2026-05-10",
+    "promo_price": 18,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-05-04",
+    "end_date": "2026-05-10",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-05-04",
+    "end_date": "2026-05-10",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.21428571428571427
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-05-04",
+    "end_date": "2026-05-10",
+    "promo_price": 5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-05-04",
+    "end_date": "2026-05-10",
+    "promo_price": 11,
+    "mechanic": null,
+    "depth_pct": 0.34328358208955223
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-05-04",
+    "end_date": "2026-05-10",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0.13793103448275862
+  },
+  {
+    "retailer": "Retailer 1",
+    "sku_descr": "Damm Lemon 4x330ml",
+    "start_date": "2026-05-06",
+    "end_date": "2026-06-02",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 1",
+    "sku_descr": "Estrella 4x440ml",
+    "start_date": "2026-05-06",
+    "end_date": "2026-06-02",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can",
+    "start_date": "2026-05-06",
+    "end_date": "2026-05-12",
+    "promo_price": 3.45,
+    "mechanic": null,
+    "depth_pct": 0.07999999999999995
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-05-06",
+    "end_date": "2026-05-12",
+    "promo_price": 23,
+    "mechanic": "2 for £23",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can Locals",
+    "start_date": "2026-05-06",
+    "end_date": "2026-05-12",
+    "promo_price": 12.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-05-06",
+    "end_date": "2026-05-12",
+    "promo_price": 13,
+    "mechanic": null,
+    "depth_pct": 0.037037037037037035
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can",
+    "start_date": "2026-05-06",
+    "end_date": "2026-05-12",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can Locals",
+    "start_date": "2026-05-06",
+    "end_date": "2026-05-12",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can",
+    "start_date": "2026-05-06",
+    "end_date": "2026-05-12",
+    "promo_price": 5.25,
+    "mechanic": null,
+    "depth_pct": 0.045454545454545456
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-05-06",
+    "end_date": "2026-05-12",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-05-06",
+    "end_date": "2026-05-12",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 10x330ml Can",
+    "start_date": "2026-05-11",
+    "end_date": "2026-05-17",
+    "promo_price": 10,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-05-11",
+    "end_date": "2026-05-17",
+    "promo_price": 18,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-05-11",
+    "end_date": "2026-05-17",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-05-11",
+    "end_date": "2026-05-17",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.21428571428571427
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-05-11",
+    "end_date": "2026-05-17",
+    "promo_price": 5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-05-11",
+    "end_date": "2026-05-17",
+    "promo_price": 11,
+    "mechanic": null,
+    "depth_pct": 0.34328358208955223
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-05-11",
+    "end_date": "2026-05-17",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0.13793103448275862
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can",
+    "start_date": "2026-05-13",
+    "end_date": "2026-05-19",
+    "promo_price": 3.45,
+    "mechanic": null,
+    "depth_pct": 0.07999999999999995
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-05-13",
+    "end_date": "2026-05-19",
+    "promo_price": 23,
+    "mechanic": "2 for £23",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can Locals",
+    "start_date": "2026-05-13",
+    "end_date": "2026-05-19",
+    "promo_price": 12.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-05-13",
+    "end_date": "2026-05-19",
+    "promo_price": 13,
+    "mechanic": null,
+    "depth_pct": 0.037037037037037035
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can",
+    "start_date": "2026-05-13",
+    "end_date": "2026-05-19",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can Locals",
+    "start_date": "2026-05-13",
+    "end_date": "2026-05-19",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can",
+    "start_date": "2026-05-13",
+    "end_date": "2026-05-19",
+    "promo_price": 5.25,
+    "mechanic": null,
+    "depth_pct": 0.045454545454545456
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-05-13",
+    "end_date": "2026-05-19",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-05-13",
+    "end_date": "2026-05-19",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-05-18",
+    "end_date": "2026-05-24",
+    "promo_price": 18,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-05-18",
+    "end_date": "2026-05-24",
+    "promo_price": 7.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-05-18",
+    "end_date": "2026-05-24",
+    "promo_price": 6.5,
+    "mechanic": null,
+    "depth_pct": 0.07142857142857142
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-05-18",
+    "end_date": "2026-05-24",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-05-18",
+    "end_date": "2026-05-24",
+    "promo_price": 11,
+    "mechanic": null,
+    "depth_pct": 0.34328358208955223
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-05-18",
+    "end_date": "2026-05-24",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0.13793103448275862
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can Locals",
+    "start_date": "2026-05-20",
+    "end_date": "2026-05-26",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-05-20",
+    "end_date": "2026-05-26",
+    "promo_price": 13,
+    "mechanic": null,
+    "depth_pct": 0.037037037037037035
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can Locals",
+    "start_date": "2026-05-20",
+    "end_date": "2026-05-26",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-05-20",
+    "end_date": "2026-05-26",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Rosa Blanca 4x440ml Can",
+    "start_date": "2026-05-20",
+    "end_date": "2026-05-26",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-05-25",
+    "end_date": "2026-05-31",
+    "promo_price": 18,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-05-25",
+    "end_date": "2026-05-31",
+    "promo_price": 7.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-05-25",
+    "end_date": "2026-05-31",
+    "promo_price": 6.5,
+    "mechanic": null,
+    "depth_pct": 0.07142857142857142
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-05-25",
+    "end_date": "2026-05-31",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-05-25",
+    "end_date": "2026-05-31",
+    "promo_price": 11,
+    "mechanic": null,
+    "depth_pct": 0.34328358208955223
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-05-25",
+    "end_date": "2026-05-31",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0.13793103448275862
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can Locals",
+    "start_date": "2026-05-27",
+    "end_date": "2026-06-02",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-05-27",
+    "end_date": "2026-06-02",
+    "promo_price": 13,
+    "mechanic": null,
+    "depth_pct": 0.037037037037037035
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can Locals",
+    "start_date": "2026-05-27",
+    "end_date": "2026-06-02",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-05-27",
+    "end_date": "2026-06-02",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Rosa Blanca 4x440ml Can",
+    "start_date": "2026-05-27",
+    "end_date": "2026-06-02",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-05-27",
+    "end_date": "2026-06-02",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-06-01",
+    "end_date": "2026-06-07",
+    "promo_price": 18,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-06-01",
+    "end_date": "2026-06-07",
+    "promo_price": 7.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-06-01",
+    "end_date": "2026-06-07",
+    "promo_price": 6.5,
+    "mechanic": null,
+    "depth_pct": 0.07142857142857142
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-06-01",
+    "end_date": "2026-06-07",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-06-01",
+    "end_date": "2026-06-07",
+    "promo_price": 11,
+    "mechanic": null,
+    "depth_pct": 0.34328358208955223
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-06-01",
+    "end_date": "2026-06-07",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0.13793103448275862
+  },
+  {
+    "retailer": "Retailer 1",
+    "sku_descr": "Estrella 10x440ml (CAN)",
+    "start_date": "2026-06-03",
+    "end_date": "2026-06-30",
+    "promo_price": 13,
+    "mechanic": "RB £13/2 for £20",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can Locals",
+    "start_date": "2026-06-03",
+    "end_date": "2026-06-09",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-06-03",
+    "end_date": "2026-06-09",
+    "promo_price": 13,
+    "mechanic": null,
+    "depth_pct": 0.037037037037037035
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can Locals",
+    "start_date": "2026-06-03",
+    "end_date": "2026-06-09",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-06-03",
+    "end_date": "2026-06-09",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Rosa Blanca 4x440ml Can",
+    "start_date": "2026-06-03",
+    "end_date": "2026-06-09",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-06-03",
+    "end_date": "2026-06-09",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-06-08",
+    "end_date": "2026-06-14",
+    "promo_price": 18,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-06-08",
+    "end_date": "2026-06-14",
+    "promo_price": 7.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-06-08",
+    "end_date": "2026-06-14",
+    "promo_price": 6.5,
+    "mechanic": null,
+    "depth_pct": 0.07142857142857142
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-06-08",
+    "end_date": "2026-06-14",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-06-08",
+    "end_date": "2026-06-14",
+    "promo_price": 11,
+    "mechanic": null,
+    "depth_pct": 0.34328358208955223
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-06-08",
+    "end_date": "2026-06-14",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0.13793103448275862
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 10x440ml Can",
+    "start_date": "2026-06-10",
+    "end_date": "2026-06-16",
+    "promo_price": 10.5,
+    "mechanic": null,
+    "depth_pct": 0.475
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can",
+    "start_date": "2026-06-10",
+    "end_date": "2026-06-16",
+    "promo_price": 3.5,
+    "mechanic": null,
+    "depth_pct": 0.06666666666666667
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-06-10",
+    "end_date": "2026-06-16",
+    "promo_price": 11,
+    "mechanic": null,
+    "depth_pct": 0.5217391304347826
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can Locals",
+    "start_date": "2026-06-10",
+    "end_date": "2026-06-16",
+    "promo_price": 12.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can",
+    "start_date": "2026-06-10",
+    "end_date": "2026-06-16",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can Locals",
+    "start_date": "2026-06-10",
+    "end_date": "2026-06-16",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can",
+    "start_date": "2026-06-10",
+    "end_date": "2026-06-16",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-06-10",
+    "end_date": "2026-06-16",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-06-10",
+    "end_date": "2026-06-16",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-06-15",
+    "end_date": "2026-06-21",
+    "promo_price": 13,
+    "mechanic": null,
+    "depth_pct": 0.2777777777777778
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-06-15",
+    "end_date": "2026-06-21",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-06-15",
+    "end_date": "2026-06-21",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.21428571428571427
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-06-15",
+    "end_date": "2026-06-21",
+    "promo_price": 5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-06-15",
+    "end_date": "2026-06-21",
+    "promo_price": 11,
+    "mechanic": null,
+    "depth_pct": 0.34328358208955223
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-06-15",
+    "end_date": "2026-06-21",
+    "promo_price": 7.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 10x440ml Can",
+    "start_date": "2026-06-17",
+    "end_date": "2026-06-23",
+    "promo_price": 10.5,
+    "mechanic": null,
+    "depth_pct": 0.475
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can",
+    "start_date": "2026-06-17",
+    "end_date": "2026-06-23",
+    "promo_price": 3.5,
+    "mechanic": null,
+    "depth_pct": 0.06666666666666667
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-06-17",
+    "end_date": "2026-06-23",
+    "promo_price": 11,
+    "mechanic": null,
+    "depth_pct": 0.5217391304347826
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can Locals",
+    "start_date": "2026-06-17",
+    "end_date": "2026-06-23",
+    "promo_price": 12.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can",
+    "start_date": "2026-06-17",
+    "end_date": "2026-06-23",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can Locals",
+    "start_date": "2026-06-17",
+    "end_date": "2026-06-23",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can",
+    "start_date": "2026-06-17",
+    "end_date": "2026-06-23",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-06-17",
+    "end_date": "2026-06-23",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-06-17",
+    "end_date": "2026-06-23",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-06-22",
+    "end_date": "2026-06-28",
+    "promo_price": 13,
+    "mechanic": null,
+    "depth_pct": 0.2777777777777778
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-06-22",
+    "end_date": "2026-06-28",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-06-22",
+    "end_date": "2026-06-28",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.21428571428571427
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-06-22",
+    "end_date": "2026-06-28",
+    "promo_price": 5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-06-22",
+    "end_date": "2026-06-28",
+    "promo_price": 16.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-06-22",
+    "end_date": "2026-06-28",
+    "promo_price": 7.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 10x440ml Can",
+    "start_date": "2026-06-24",
+    "end_date": "2026-06-30",
+    "promo_price": 10.5,
+    "mechanic": null,
+    "depth_pct": 0.475
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can",
+    "start_date": "2026-06-24",
+    "end_date": "2026-06-30",
+    "promo_price": 3.5,
+    "mechanic": null,
+    "depth_pct": 0.06666666666666667
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-06-24",
+    "end_date": "2026-06-30",
+    "promo_price": 11,
+    "mechanic": null,
+    "depth_pct": 0.5217391304347826
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can Locals",
+    "start_date": "2026-06-24",
+    "end_date": "2026-06-30",
+    "promo_price": 12.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can",
+    "start_date": "2026-06-24",
+    "end_date": "2026-06-30",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can Locals",
+    "start_date": "2026-06-24",
+    "end_date": "2026-06-30",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can",
+    "start_date": "2026-06-24",
+    "end_date": "2026-06-30",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-06-24",
+    "end_date": "2026-06-30",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-06-24",
+    "end_date": "2026-06-30",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-06-29",
+    "end_date": "2026-07-05",
+    "promo_price": 13,
+    "mechanic": null,
+    "depth_pct": 0.2777777777777778
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-06-29",
+    "end_date": "2026-07-05",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-06-29",
+    "end_date": "2026-07-05",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.21428571428571427
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-06-29",
+    "end_date": "2026-07-05",
+    "promo_price": 5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-06-29",
+    "end_date": "2026-07-05",
+    "promo_price": 16.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-06-29",
+    "end_date": "2026-07-05",
+    "promo_price": 7.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 1",
+    "sku_descr": "Damm Lemon 4x330ml",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-28",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 1",
+    "sku_descr": "Estrella 4x440ml",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-28",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 10x440ml Can",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-07",
+    "promo_price": 20,
+    "mechanic": "2 for £20",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can Locals",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-07",
+    "promo_price": 3.5,
+    "mechanic": null,
+    "depth_pct": 0.06666666666666667
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-07",
+    "promo_price": 20,
+    "mechanic": "2 for £20",
+    "depth_pct": 0.13043478260869565
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-07",
+    "promo_price": 13,
+    "mechanic": null,
+    "depth_pct": 0.037037037037037035
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can Locals",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-07",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.08333333333333333
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-07",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Kirin Ichiban 4x440ml Can",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-07",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-07",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-07-06",
+    "end_date": "2026-07-12",
+    "promo_price": 13,
+    "mechanic": null,
+    "depth_pct": 0.2777777777777778
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-07-06",
+    "end_date": "2026-07-12",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-07-06",
+    "end_date": "2026-07-12",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.21428571428571427
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-07-06",
+    "end_date": "2026-07-12",
+    "promo_price": 5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-07-06",
+    "end_date": "2026-07-12",
+    "promo_price": 16.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-07-06",
+    "end_date": "2026-07-12",
+    "promo_price": 7.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 10x440ml Can",
+    "start_date": "2026-07-08",
+    "end_date": "2026-07-14",
+    "promo_price": 20,
+    "mechanic": "2 for £20",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can Locals",
+    "start_date": "2026-07-08",
+    "end_date": "2026-07-14",
+    "promo_price": 3.5,
+    "mechanic": null,
+    "depth_pct": 0.06666666666666667
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-07-08",
+    "end_date": "2026-07-14",
+    "promo_price": 20,
+    "mechanic": "2 for £20",
+    "depth_pct": 0.13043478260869565
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-07-08",
+    "end_date": "2026-07-14",
+    "promo_price": 13,
+    "mechanic": null,
+    "depth_pct": 0.037037037037037035
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can Locals",
+    "start_date": "2026-07-08",
+    "end_date": "2026-07-14",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.08333333333333333
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-07-08",
+    "end_date": "2026-07-14",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Kirin Ichiban 4x440ml Can",
+    "start_date": "2026-07-08",
+    "end_date": "2026-07-14",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-07-08",
+    "end_date": "2026-07-14",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-07-13",
+    "end_date": "2026-07-19",
+    "promo_price": 18,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-07-13",
+    "end_date": "2026-07-19",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-07-13",
+    "end_date": "2026-07-19",
+    "promo_price": 6.5,
+    "mechanic": null,
+    "depth_pct": 0.07142857142857142
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-07-13",
+    "end_date": "2026-07-19",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-07-13",
+    "end_date": "2026-07-19",
+    "promo_price": 11,
+    "mechanic": null,
+    "depth_pct": 0.34328358208955223
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-07-13",
+    "end_date": "2026-07-19",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0.13793103448275862
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 10x440ml Can",
+    "start_date": "2026-07-15",
+    "end_date": "2026-07-21",
+    "promo_price": 20,
+    "mechanic": "2 for £20",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can Locals",
+    "start_date": "2026-07-15",
+    "end_date": "2026-07-21",
+    "promo_price": 3.5,
+    "mechanic": null,
+    "depth_pct": 0.06666666666666667
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-07-15",
+    "end_date": "2026-07-21",
+    "promo_price": 20,
+    "mechanic": "2 for £20",
+    "depth_pct": 0.13043478260869565
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-07-15",
+    "end_date": "2026-07-21",
+    "promo_price": 13,
+    "mechanic": null,
+    "depth_pct": 0.037037037037037035
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can Locals",
+    "start_date": "2026-07-15",
+    "end_date": "2026-07-21",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.08333333333333333
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-07-15",
+    "end_date": "2026-07-21",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Kirin Ichiban 4x440ml Can",
+    "start_date": "2026-07-15",
+    "end_date": "2026-07-21",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-07-15",
+    "end_date": "2026-07-21",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-07-20",
+    "end_date": "2026-07-26",
+    "promo_price": 18,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-07-20",
+    "end_date": "2026-07-26",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-07-20",
+    "end_date": "2026-07-26",
+    "promo_price": 6.5,
+    "mechanic": null,
+    "depth_pct": 0.07142857142857142
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-07-20",
+    "end_date": "2026-07-26",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-07-20",
+    "end_date": "2026-07-26",
+    "promo_price": 11,
+    "mechanic": null,
+    "depth_pct": 0.34328358208955223
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-07-20",
+    "end_date": "2026-07-26",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0.13793103448275862
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can",
+    "start_date": "2026-07-22",
+    "end_date": "2026-07-28",
+    "promo_price": 3.5,
+    "mechanic": null,
+    "depth_pct": 0.06666666666666667
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Daura Damm NRB / Can",
+    "start_date": "2026-07-22",
+    "end_date": "2026-07-28",
+    "promo_price": 5.75,
+    "mechanic": null,
+    "depth_pct": 0.041666666666666664
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-07-22",
+    "end_date": "2026-07-28",
+    "promo_price": 11,
+    "mechanic": null,
+    "depth_pct": 0.5217391304347826
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can Locals",
+    "start_date": "2026-07-22",
+    "end_date": "2026-07-28",
+    "promo_price": 12.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can",
+    "start_date": "2026-07-22",
+    "end_date": "2026-07-28",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can Locals",
+    "start_date": "2026-07-22",
+    "end_date": "2026-07-28",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can",
+    "start_date": "2026-07-22",
+    "end_date": "2026-07-28",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-07-22",
+    "end_date": "2026-07-28",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-07-22",
+    "end_date": "2026-07-28",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-07-27",
+    "end_date": "2026-08-02",
+    "promo_price": 18,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-07-27",
+    "end_date": "2026-08-02",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-07-27",
+    "end_date": "2026-08-02",
+    "promo_price": 6.5,
+    "mechanic": null,
+    "depth_pct": 0.07142857142857142
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-07-27",
+    "end_date": "2026-08-02",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-07-27",
+    "end_date": "2026-08-02",
+    "promo_price": 11,
+    "mechanic": null,
+    "depth_pct": 0.34328358208955223
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-07-27",
+    "end_date": "2026-08-02",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0.13793103448275862
+  },
+  {
+    "retailer": "Retailer 1",
+    "sku_descr": "Daura 4x330ml (Can)",
+    "start_date": "2026-07-29",
+    "end_date": "2026-08-25",
+    "promo_price": null,
+    "mechanic": "LAUNCH",
+    "depth_pct": null
+  },
+  {
+    "retailer": "Retailer 1",
+    "sku_descr": "Estrella 0% 10x440ml",
+    "start_date": "2026-07-29",
+    "end_date": "2026-08-25",
+    "promo_price": null,
+    "mechanic": "LAUNCH?",
+    "depth_pct": null
+  },
+  {
+    "retailer": "Retailer 1",
+    "sku_descr": "Estrella 0% 4x440ml",
+    "start_date": "2026-07-29",
+    "end_date": "2026-08-25",
+    "promo_price": null,
+    "mechanic": "LAUNCH",
+    "depth_pct": null
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can",
+    "start_date": "2026-07-29",
+    "end_date": "2026-08-04",
+    "promo_price": 3.5,
+    "mechanic": null,
+    "depth_pct": 0.06666666666666667
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Daura Damm NRB / Can",
+    "start_date": "2026-07-29",
+    "end_date": "2026-08-04",
+    "promo_price": 5.75,
+    "mechanic": null,
+    "depth_pct": 0.041666666666666664
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-07-29",
+    "end_date": "2026-08-04",
+    "promo_price": 11,
+    "mechanic": null,
+    "depth_pct": 0.5217391304347826
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can Locals",
+    "start_date": "2026-07-29",
+    "end_date": "2026-08-04",
+    "promo_price": 12.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can",
+    "start_date": "2026-07-29",
+    "end_date": "2026-08-04",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can Locals",
+    "start_date": "2026-07-29",
+    "end_date": "2026-08-04",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can",
+    "start_date": "2026-07-29",
+    "end_date": "2026-08-04",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-07-29",
+    "end_date": "2026-08-04",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-07-29",
+    "end_date": "2026-08-04",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-08-03",
+    "end_date": "2026-08-09",
+    "promo_price": 18,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-08-03",
+    "end_date": "2026-08-09",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-08-03",
+    "end_date": "2026-08-09",
+    "promo_price": 6.5,
+    "mechanic": null,
+    "depth_pct": 0.07142857142857142
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-08-03",
+    "end_date": "2026-08-09",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-08-03",
+    "end_date": "2026-08-09",
+    "promo_price": 11,
+    "mechanic": null,
+    "depth_pct": 0.34328358208955223
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-08-03",
+    "end_date": "2026-08-09",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0.13793103448275862
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can",
+    "start_date": "2026-08-05",
+    "end_date": "2026-08-11",
+    "promo_price": 3.5,
+    "mechanic": null,
+    "depth_pct": 0.06666666666666667
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Daura Damm NRB / Can",
+    "start_date": "2026-08-05",
+    "end_date": "2026-08-11",
+    "promo_price": 5.75,
+    "mechanic": null,
+    "depth_pct": 0.041666666666666664
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-08-05",
+    "end_date": "2026-08-11",
+    "promo_price": 11,
+    "mechanic": null,
+    "depth_pct": 0.5217391304347826
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can Locals",
+    "start_date": "2026-08-05",
+    "end_date": "2026-08-11",
+    "promo_price": 12.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can",
+    "start_date": "2026-08-05",
+    "end_date": "2026-08-11",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can Locals",
+    "start_date": "2026-08-05",
+    "end_date": "2026-08-11",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can",
+    "start_date": "2026-08-05",
+    "end_date": "2026-08-11",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-08-05",
+    "end_date": "2026-08-11",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-08-05",
+    "end_date": "2026-08-11",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-08-10",
+    "end_date": "2026-08-16",
+    "promo_price": 13.5,
+    "mechanic": null,
+    "depth_pct": 0.25
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-08-10",
+    "end_date": "2026-08-16",
+    "promo_price": 7.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-08-10",
+    "end_date": "2026-08-16",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.21428571428571427
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-08-10",
+    "end_date": "2026-08-16",
+    "promo_price": 5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-08-10",
+    "end_date": "2026-08-16",
+    "promo_price": 16.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-08-10",
+    "end_date": "2026-08-16",
+    "promo_price": 7.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can Locals",
+    "start_date": "2026-08-12",
+    "end_date": "2026-08-18",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can 0.0%",
+    "start_date": "2026-08-12",
+    "end_date": "2026-08-18",
+    "promo_price": 9.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-08-12",
+    "end_date": "2026-08-18",
+    "promo_price": 13,
+    "mechanic": null,
+    "depth_pct": 0.037037037037037035
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can Locals",
+    "start_date": "2026-08-12",
+    "end_date": "2026-08-18",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.08333333333333333
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-08-12",
+    "end_date": "2026-08-18",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Kirin Ichiban 4x440ml Can",
+    "start_date": "2026-08-12",
+    "end_date": "2026-08-18",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-08-12",
+    "end_date": "2026-08-18",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-08-17",
+    "end_date": "2026-08-23",
+    "promo_price": 13.5,
+    "mechanic": null,
+    "depth_pct": 0.25
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-08-17",
+    "end_date": "2026-08-23",
+    "promo_price": 7.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-08-17",
+    "end_date": "2026-08-23",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.21428571428571427
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-08-17",
+    "end_date": "2026-08-23",
+    "promo_price": 5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-08-17",
+    "end_date": "2026-08-23",
+    "promo_price": 16.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-08-17",
+    "end_date": "2026-08-23",
+    "promo_price": 7.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can Locals",
+    "start_date": "2026-08-19",
+    "end_date": "2026-08-25",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can 0.0%",
+    "start_date": "2026-08-19",
+    "end_date": "2026-08-25",
+    "promo_price": 9.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-08-19",
+    "end_date": "2026-08-25",
+    "promo_price": 13,
+    "mechanic": null,
+    "depth_pct": 0.037037037037037035
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can Locals",
+    "start_date": "2026-08-19",
+    "end_date": "2026-08-25",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.08333333333333333
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-08-19",
+    "end_date": "2026-08-25",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Kirin Ichiban 4x440ml Can",
+    "start_date": "2026-08-19",
+    "end_date": "2026-08-25",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-08-19",
+    "end_date": "2026-08-25",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-08-24",
+    "end_date": "2026-08-30",
+    "promo_price": 13.5,
+    "mechanic": null,
+    "depth_pct": 0.25
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-08-24",
+    "end_date": "2026-08-30",
+    "promo_price": 7.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-08-24",
+    "end_date": "2026-08-30",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.21428571428571427
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-08-24",
+    "end_date": "2026-08-30",
+    "promo_price": 5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-08-24",
+    "end_date": "2026-08-30",
+    "promo_price": 16.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-08-24",
+    "end_date": "2026-08-30",
+    "promo_price": 7.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 1",
+    "sku_descr": "Damm Lemon 4x330ml",
+    "start_date": "2026-08-26",
+    "end_date": "2026-09-22",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 1",
+    "sku_descr": "Daura 4x330ml (Can)",
+    "start_date": "2026-08-26",
+    "end_date": "2026-09-22",
+    "promo_price": 5.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 1",
+    "sku_descr": "Estrella 0% 4x440ml",
+    "start_date": "2026-08-26",
+    "end_date": "2026-09-22",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 1",
+    "sku_descr": "Estrella 10x440ml (CAN)",
+    "start_date": "2026-08-26",
+    "end_date": "2026-09-22",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.07692307692307693
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can Locals",
+    "start_date": "2026-08-26",
+    "end_date": "2026-09-01",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can 0.0%",
+    "start_date": "2026-08-26",
+    "end_date": "2026-09-01",
+    "promo_price": 9.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-08-26",
+    "end_date": "2026-09-01",
+    "promo_price": 13,
+    "mechanic": null,
+    "depth_pct": 0.037037037037037035
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can Locals",
+    "start_date": "2026-08-26",
+    "end_date": "2026-09-01",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.08333333333333333
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-08-26",
+    "end_date": "2026-09-01",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Kirin Ichiban 4x440ml Can",
+    "start_date": "2026-08-26",
+    "end_date": "2026-09-01",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-08-26",
+    "end_date": "2026-09-01",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-08-31",
+    "end_date": "2026-09-06",
+    "promo_price": 13.5,
+    "mechanic": null,
+    "depth_pct": 0.25
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-08-31",
+    "end_date": "2026-09-06",
+    "promo_price": 7.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-08-31",
+    "end_date": "2026-09-06",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.21428571428571427
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-08-31",
+    "end_date": "2026-09-06",
+    "promo_price": 5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-08-31",
+    "end_date": "2026-09-06",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.2835820895522388
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-08-31",
+    "end_date": "2026-09-06",
+    "promo_price": 7.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can",
+    "start_date": "2026-09-02",
+    "end_date": "2026-09-08",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Daura Damm NRB / Can",
+    "start_date": "2026-09-02",
+    "end_date": "2026-09-08",
+    "promo_price": 5.75,
+    "mechanic": null,
+    "depth_pct": 0.041666666666666664
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-09-02",
+    "end_date": "2026-09-08",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.4782608695652174
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can Locals",
+    "start_date": "2026-09-02",
+    "end_date": "2026-09-08",
+    "promo_price": 12.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can",
+    "start_date": "2026-09-02",
+    "end_date": "2026-09-08",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can Locals",
+    "start_date": "2026-09-02",
+    "end_date": "2026-09-08",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can",
+    "start_date": "2026-09-02",
+    "end_date": "2026-09-08",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-09-02",
+    "end_date": "2026-09-08",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-09-02",
+    "end_date": "2026-09-08",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-09-07",
+    "end_date": "2026-09-13",
+    "promo_price": 18,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-09-07",
+    "end_date": "2026-09-13",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-09-07",
+    "end_date": "2026-09-13",
+    "promo_price": 6.5,
+    "mechanic": null,
+    "depth_pct": 0.07142857142857142
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-09-07",
+    "end_date": "2026-09-13",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-09-07",
+    "end_date": "2026-09-13",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.2835820895522388
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-09-07",
+    "end_date": "2026-09-13",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0.13793103448275862
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can",
+    "start_date": "2026-09-09",
+    "end_date": "2026-09-15",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Daura Damm NRB / Can",
+    "start_date": "2026-09-09",
+    "end_date": "2026-09-15",
+    "promo_price": 5.75,
+    "mechanic": null,
+    "depth_pct": 0.041666666666666664
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-09-09",
+    "end_date": "2026-09-15",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.4782608695652174
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can Locals",
+    "start_date": "2026-09-09",
+    "end_date": "2026-09-15",
+    "promo_price": 12.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can",
+    "start_date": "2026-09-09",
+    "end_date": "2026-09-15",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can Locals",
+    "start_date": "2026-09-09",
+    "end_date": "2026-09-15",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can",
+    "start_date": "2026-09-09",
+    "end_date": "2026-09-15",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-09-09",
+    "end_date": "2026-09-15",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-09-09",
+    "end_date": "2026-09-15",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-09-14",
+    "end_date": "2026-09-20",
+    "promo_price": 18,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-09-14",
+    "end_date": "2026-09-20",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-09-14",
+    "end_date": "2026-09-20",
+    "promo_price": 6.5,
+    "mechanic": null,
+    "depth_pct": 0.07142857142857142
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-09-14",
+    "end_date": "2026-09-20",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-09-14",
+    "end_date": "2026-09-20",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.2835820895522388
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-09-14",
+    "end_date": "2026-09-20",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0.13793103448275862
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can",
+    "start_date": "2026-09-16",
+    "end_date": "2026-09-22",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Daura Damm NRB / Can",
+    "start_date": "2026-09-16",
+    "end_date": "2026-09-22",
+    "promo_price": 5.75,
+    "mechanic": null,
+    "depth_pct": 0.041666666666666664
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-09-16",
+    "end_date": "2026-09-22",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.4782608695652174
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can Locals",
+    "start_date": "2026-09-16",
+    "end_date": "2026-09-22",
+    "promo_price": 12.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can",
+    "start_date": "2026-09-16",
+    "end_date": "2026-09-22",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can Locals",
+    "start_date": "2026-09-16",
+    "end_date": "2026-09-22",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can",
+    "start_date": "2026-09-16",
+    "end_date": "2026-09-22",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-09-16",
+    "end_date": "2026-09-22",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-09-16",
+    "end_date": "2026-09-22",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-09-21",
+    "end_date": "2026-09-27",
+    "promo_price": 18,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-09-21",
+    "end_date": "2026-09-27",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-09-21",
+    "end_date": "2026-09-27",
+    "promo_price": 6.5,
+    "mechanic": null,
+    "depth_pct": 0.07142857142857142
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-09-21",
+    "end_date": "2026-09-27",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-09-21",
+    "end_date": "2026-09-27",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.2835820895522388
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-09-21",
+    "end_date": "2026-09-27",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0.13793103448275862
+  },
+  {
+    "retailer": "Retailer 1",
+    "sku_descr": "Estrella 0% 10x440ml",
+    "start_date": "2026-09-23",
+    "end_date": "2026-10-20",
+    "promo_price": 9.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 1",
+    "sku_descr": "Estrella 4x440ml",
+    "start_date": "2026-09-23",
+    "end_date": "2026-10-20",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 10x440ml Can",
+    "start_date": "2026-09-23",
+    "end_date": "2026-09-29",
+    "promo_price": 10.5,
+    "mechanic": null,
+    "depth_pct": 0.475
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can Locals",
+    "start_date": "2026-09-23",
+    "end_date": "2026-09-29",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can 0.0%",
+    "start_date": "2026-09-23",
+    "end_date": "2026-09-29",
+    "promo_price": 9.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-09-23",
+    "end_date": "2026-09-29",
+    "promo_price": 13.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can Locals",
+    "start_date": "2026-09-23",
+    "end_date": "2026-09-29",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-09-23",
+    "end_date": "2026-09-29",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Kirin Ichiban 4x440ml Can",
+    "start_date": "2026-09-23",
+    "end_date": "2026-09-29",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-09-23",
+    "end_date": "2026-09-29",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-09-28",
+    "end_date": "2026-10-04",
+    "promo_price": 18,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-09-28",
+    "end_date": "2026-10-04",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-09-28",
+    "end_date": "2026-10-04",
+    "promo_price": 6.5,
+    "mechanic": null,
+    "depth_pct": 0.07142857142857142
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-09-28",
+    "end_date": "2026-10-04",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-09-28",
+    "end_date": "2026-10-04",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.2835820895522388
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-09-28",
+    "end_date": "2026-10-04",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0.13793103448275862
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 10x440ml Can",
+    "start_date": "2026-09-30",
+    "end_date": "2026-10-06",
+    "promo_price": 10.5,
+    "mechanic": null,
+    "depth_pct": 0.475
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can Locals",
+    "start_date": "2026-09-30",
+    "end_date": "2026-10-06",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can 0.0%",
+    "start_date": "2026-09-30",
+    "end_date": "2026-10-06",
+    "promo_price": 9.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-09-30",
+    "end_date": "2026-10-06",
+    "promo_price": 13.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can Locals",
+    "start_date": "2026-09-30",
+    "end_date": "2026-10-06",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-09-30",
+    "end_date": "2026-10-06",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Kirin Ichiban 4x440ml Can",
+    "start_date": "2026-09-30",
+    "end_date": "2026-10-06",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-09-30",
+    "end_date": "2026-10-06",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-10-05",
+    "end_date": "2026-10-11",
+    "promo_price": 13.5,
+    "mechanic": null,
+    "depth_pct": 0.25
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-10-05",
+    "end_date": "2026-10-11",
+    "promo_price": 7.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-10-05",
+    "end_date": "2026-10-11",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.21428571428571427
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-10-05",
+    "end_date": "2026-10-11",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-10-05",
+    "end_date": "2026-10-11",
+    "promo_price": 16.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-10-05",
+    "end_date": "2026-10-11",
+    "promo_price": 7.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 10x440ml Can",
+    "start_date": "2026-10-07",
+    "end_date": "2026-10-13",
+    "promo_price": 10.5,
+    "mechanic": null,
+    "depth_pct": 0.475
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can Locals",
+    "start_date": "2026-10-07",
+    "end_date": "2026-10-13",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can 0.0%",
+    "start_date": "2026-10-07",
+    "end_date": "2026-10-13",
+    "promo_price": 9.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-10-07",
+    "end_date": "2026-10-13",
+    "promo_price": 13.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can Locals",
+    "start_date": "2026-10-07",
+    "end_date": "2026-10-13",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-10-07",
+    "end_date": "2026-10-13",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Kirin Ichiban 4x440ml Can",
+    "start_date": "2026-10-07",
+    "end_date": "2026-10-13",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-10-07",
+    "end_date": "2026-10-13",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-18",
+    "promo_price": 13.5,
+    "mechanic": null,
+    "depth_pct": 0.25
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-18",
+    "promo_price": 7.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-18",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.21428571428571427
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-18",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-18",
+    "promo_price": 16.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-18",
+    "promo_price": 7.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can",
+    "start_date": "2026-10-14",
+    "end_date": "2026-10-20",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Daura Damm NRB / Can",
+    "start_date": "2026-10-14",
+    "end_date": "2026-10-20",
+    "promo_price": 5.75,
+    "mechanic": null,
+    "depth_pct": 0.041666666666666664
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-10-14",
+    "end_date": "2026-10-20",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.4782608695652174
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can Locals",
+    "start_date": "2026-10-14",
+    "end_date": "2026-10-20",
+    "promo_price": 12.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can",
+    "start_date": "2026-10-14",
+    "end_date": "2026-10-20",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can Locals",
+    "start_date": "2026-10-14",
+    "end_date": "2026-10-20",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can",
+    "start_date": "2026-10-14",
+    "end_date": "2026-10-20",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-10-14",
+    "end_date": "2026-10-20",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-10-14",
+    "end_date": "2026-10-20",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-10-19",
+    "end_date": "2026-10-25",
+    "promo_price": 13.5,
+    "mechanic": null,
+    "depth_pct": 0.25
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-10-19",
+    "end_date": "2026-10-25",
+    "promo_price": 7.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-10-19",
+    "end_date": "2026-10-25",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.21428571428571427
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-10-19",
+    "end_date": "2026-10-25",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-10-19",
+    "end_date": "2026-10-25",
+    "promo_price": 16.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-10-19",
+    "end_date": "2026-10-25",
+    "promo_price": 7.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 1",
+    "sku_descr": "Damm Lemon 4x330ml",
+    "start_date": "2026-10-21",
+    "end_date": "2026-11-18",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 1",
+    "sku_descr": "Daura 4x330ml (Can)",
+    "start_date": "2026-10-21",
+    "end_date": "2026-11-18",
+    "promo_price": 5.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 1",
+    "sku_descr": "Estrella 0% 4x440ml",
+    "start_date": "2026-10-21",
+    "end_date": "2026-11-18",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can",
+    "start_date": "2026-10-21",
+    "end_date": "2026-10-27",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Daura Damm NRB / Can",
+    "start_date": "2026-10-21",
+    "end_date": "2026-10-27",
+    "promo_price": 5.75,
+    "mechanic": null,
+    "depth_pct": 0.041666666666666664
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-10-21",
+    "end_date": "2026-10-27",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.4782608695652174
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can Locals",
+    "start_date": "2026-10-21",
+    "end_date": "2026-10-27",
+    "promo_price": 12.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can",
+    "start_date": "2026-10-21",
+    "end_date": "2026-10-27",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can Locals",
+    "start_date": "2026-10-21",
+    "end_date": "2026-10-27",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can",
+    "start_date": "2026-10-21",
+    "end_date": "2026-10-27",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-10-21",
+    "end_date": "2026-10-27",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-10-21",
+    "end_date": "2026-10-27",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-10-26",
+    "end_date": "2026-11-01",
+    "promo_price": 13.5,
+    "mechanic": null,
+    "depth_pct": 0.25
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-10-26",
+    "end_date": "2026-11-01",
+    "promo_price": 7.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-10-26",
+    "end_date": "2026-11-01",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.21428571428571427
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-10-26",
+    "end_date": "2026-11-01",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-10-26",
+    "end_date": "2026-11-01",
+    "promo_price": 16.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-10-26",
+    "end_date": "2026-11-01",
+    "promo_price": 7.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can",
+    "start_date": "2026-10-28",
+    "end_date": "2026-11-03",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Daura Damm NRB / Can",
+    "start_date": "2026-10-28",
+    "end_date": "2026-11-03",
+    "promo_price": 5.75,
+    "mechanic": null,
+    "depth_pct": 0.041666666666666664
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-10-28",
+    "end_date": "2026-11-03",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.4782608695652174
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can Locals",
+    "start_date": "2026-10-28",
+    "end_date": "2026-11-03",
+    "promo_price": 12.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can",
+    "start_date": "2026-10-28",
+    "end_date": "2026-11-03",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can Locals",
+    "start_date": "2026-10-28",
+    "end_date": "2026-11-03",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can",
+    "start_date": "2026-10-28",
+    "end_date": "2026-11-03",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-10-28",
+    "end_date": "2026-11-03",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-10-28",
+    "end_date": "2026-11-03",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-11-02",
+    "end_date": "2026-11-08",
+    "promo_price": 18,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-11-02",
+    "end_date": "2026-11-08",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-11-02",
+    "end_date": "2026-11-08",
+    "promo_price": 6.5,
+    "mechanic": null,
+    "depth_pct": 0.07142857142857142
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-11-02",
+    "end_date": "2026-11-08",
+    "promo_price": 5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-11-02",
+    "end_date": "2026-11-08",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.2835820895522388
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-11-02",
+    "end_date": "2026-11-08",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0.13793103448275862
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 10x440ml Can",
+    "start_date": "2026-11-04",
+    "end_date": "2026-11-10",
+    "promo_price": 10.5,
+    "mechanic": null,
+    "depth_pct": 0.475
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can Locals",
+    "start_date": "2026-11-04",
+    "end_date": "2026-11-10",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-11-04",
+    "end_date": "2026-11-10",
+    "promo_price": 23,
+    "mechanic": "2 for £23",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can 0.0%",
+    "start_date": "2026-11-04",
+    "end_date": "2026-11-10",
+    "promo_price": 9.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can Locals",
+    "start_date": "2026-11-04",
+    "end_date": "2026-11-10",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-11-04",
+    "end_date": "2026-11-10",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Kirin Ichiban 4x440ml Can",
+    "start_date": "2026-11-04",
+    "end_date": "2026-11-10",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-11-04",
+    "end_date": "2026-11-10",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-11-09",
+    "end_date": "2026-11-15",
+    "promo_price": 18,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-11-09",
+    "end_date": "2026-11-15",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-11-09",
+    "end_date": "2026-11-15",
+    "promo_price": 6.5,
+    "mechanic": null,
+    "depth_pct": 0.07142857142857142
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-11-09",
+    "end_date": "2026-11-15",
+    "promo_price": 5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-11-09",
+    "end_date": "2026-11-15",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.2835820895522388
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-11-09",
+    "end_date": "2026-11-15",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0.13793103448275862
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 10x440ml Can",
+    "start_date": "2026-11-11",
+    "end_date": "2026-11-17",
+    "promo_price": 10.5,
+    "mechanic": null,
+    "depth_pct": 0.475
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can Locals",
+    "start_date": "2026-11-11",
+    "end_date": "2026-11-17",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-11-11",
+    "end_date": "2026-11-17",
+    "promo_price": 23,
+    "mechanic": "2 for £23",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can 0.0%",
+    "start_date": "2026-11-11",
+    "end_date": "2026-11-17",
+    "promo_price": 9.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can Locals",
+    "start_date": "2026-11-11",
+    "end_date": "2026-11-17",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-11-11",
+    "end_date": "2026-11-17",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Kirin Ichiban 4x440ml Can",
+    "start_date": "2026-11-11",
+    "end_date": "2026-11-17",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-11-11",
+    "end_date": "2026-11-17",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-11-16",
+    "end_date": "2026-11-22",
+    "promo_price": 18,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-11-16",
+    "end_date": "2026-11-22",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-11-16",
+    "end_date": "2026-11-22",
+    "promo_price": 6.5,
+    "mechanic": null,
+    "depth_pct": 0.07142857142857142
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-11-16",
+    "end_date": "2026-11-22",
+    "promo_price": 5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-11-16",
+    "end_date": "2026-11-22",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.2835820895522388
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-11-16",
+    "end_date": "2026-11-22",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0.13793103448275862
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 10x440ml Can",
+    "start_date": "2026-11-18",
+    "end_date": "2026-11-24",
+    "promo_price": 10.5,
+    "mechanic": null,
+    "depth_pct": 0.475
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can Locals",
+    "start_date": "2026-11-18",
+    "end_date": "2026-11-24",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-11-18",
+    "end_date": "2026-11-24",
+    "promo_price": 23,
+    "mechanic": "2 for £23",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can 0.0%",
+    "start_date": "2026-11-18",
+    "end_date": "2026-11-24",
+    "promo_price": 9.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can Locals",
+    "start_date": "2026-11-18",
+    "end_date": "2026-11-24",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-11-18",
+    "end_date": "2026-11-24",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Kirin Ichiban 4x440ml Can",
+    "start_date": "2026-11-18",
+    "end_date": "2026-11-24",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-11-18",
+    "end_date": "2026-11-24",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 1",
+    "sku_descr": "Estrella 0% 10x440ml",
+    "start_date": "2026-11-19",
+    "end_date": "2026-12-16",
+    "promo_price": 9.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 1",
+    "sku_descr": "Estrella 10x440ml (CAN)",
+    "start_date": "2026-11-19",
+    "end_date": "2026-12-16",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.07692307692307693
+  },
+  {
+    "retailer": "Retailer 1",
+    "sku_descr": "Estrella 4x440ml",
+    "start_date": "2026-11-19",
+    "end_date": "2026-12-16",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-11-23",
+    "end_date": "2026-11-29",
+    "promo_price": 18,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-11-23",
+    "end_date": "2026-11-29",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-11-23",
+    "end_date": "2026-11-29",
+    "promo_price": 6.5,
+    "mechanic": null,
+    "depth_pct": 0.07142857142857142
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-11-23",
+    "end_date": "2026-11-29",
+    "promo_price": 5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-11-23",
+    "end_date": "2026-11-29",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.2835820895522388
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-11-23",
+    "end_date": "2026-11-29",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0.13793103448275862
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can",
+    "start_date": "2026-11-25",
+    "end_date": "2026-12-01",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Daura Damm NRB / Can",
+    "start_date": "2026-11-25",
+    "end_date": "2026-12-01",
+    "promo_price": 5.75,
+    "mechanic": null,
+    "depth_pct": 0.041666666666666664
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-11-25",
+    "end_date": "2026-12-01",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.4782608695652174
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can Locals",
+    "start_date": "2026-11-25",
+    "end_date": "2026-12-01",
+    "promo_price": 12.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-11-25",
+    "end_date": "2026-12-01",
+    "promo_price": 13,
+    "mechanic": null,
+    "depth_pct": 0.037037037037037035
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can",
+    "start_date": "2026-11-25",
+    "end_date": "2026-12-01",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can Locals",
+    "start_date": "2026-11-25",
+    "end_date": "2026-12-01",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-11-25",
+    "end_date": "2026-12-01",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-11-25",
+    "end_date": "2026-12-01",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-11-30",
+    "end_date": "2026-12-06",
+    "promo_price": 13,
+    "mechanic": null,
+    "depth_pct": 0.2777777777777778
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-11-30",
+    "end_date": "2026-12-06",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-11-30",
+    "end_date": "2026-12-06",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.21428571428571427
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-11-30",
+    "end_date": "2026-12-06",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-11-30",
+    "end_date": "2026-12-06",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.2835820895522388
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-11-30",
+    "end_date": "2026-12-06",
+    "promo_price": 7.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can",
+    "start_date": "2026-12-02",
+    "end_date": "2026-12-08",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Daura Damm NRB / Can",
+    "start_date": "2026-12-02",
+    "end_date": "2026-12-08",
+    "promo_price": 5.75,
+    "mechanic": null,
+    "depth_pct": 0.041666666666666664
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-12-02",
+    "end_date": "2026-12-08",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.4782608695652174
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can Locals",
+    "start_date": "2026-12-02",
+    "end_date": "2026-12-08",
+    "promo_price": 12.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-12-02",
+    "end_date": "2026-12-08",
+    "promo_price": 13,
+    "mechanic": null,
+    "depth_pct": 0.037037037037037035
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can",
+    "start_date": "2026-12-02",
+    "end_date": "2026-12-08",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can Locals",
+    "start_date": "2026-12-02",
+    "end_date": "2026-12-08",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-12-02",
+    "end_date": "2026-12-08",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-12-02",
+    "end_date": "2026-12-08",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-12-07",
+    "end_date": "2026-12-13",
+    "promo_price": 13,
+    "mechanic": null,
+    "depth_pct": 0.2777777777777778
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-12-07",
+    "end_date": "2026-12-13",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-12-07",
+    "end_date": "2026-12-13",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.21428571428571427
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-12-07",
+    "end_date": "2026-12-13",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-12-07",
+    "end_date": "2026-12-13",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.2835820895522388
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-12-07",
+    "end_date": "2026-12-13",
+    "promo_price": 7.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can",
+    "start_date": "2026-12-09",
+    "end_date": "2026-12-15",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Daura Damm NRB / Can",
+    "start_date": "2026-12-09",
+    "end_date": "2026-12-15",
+    "promo_price": 5.75,
+    "mechanic": null,
+    "depth_pct": 0.041666666666666664
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-12-09",
+    "end_date": "2026-12-15",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.4782608695652174
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can Locals",
+    "start_date": "2026-12-09",
+    "end_date": "2026-12-15",
+    "promo_price": 12.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-12-09",
+    "end_date": "2026-12-15",
+    "promo_price": 13,
+    "mechanic": null,
+    "depth_pct": 0.037037037037037035
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can",
+    "start_date": "2026-12-09",
+    "end_date": "2026-12-15",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml 0.0% Can Locals",
+    "start_date": "2026-12-09",
+    "end_date": "2026-12-15",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-12-09",
+    "end_date": "2026-12-15",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-12-09",
+    "end_date": "2026-12-15",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-12-14",
+    "end_date": "2026-12-20",
+    "promo_price": 13,
+    "mechanic": null,
+    "depth_pct": 0.2777777777777778
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-12-14",
+    "end_date": "2026-12-20",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-12-14",
+    "end_date": "2026-12-20",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.21428571428571427
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-12-14",
+    "end_date": "2026-12-20",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-12-14",
+    "end_date": "2026-12-20",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.2835820895522388
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-12-14",
+    "end_date": "2026-12-20",
+    "promo_price": 7.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 10x440ml Can",
+    "start_date": "2026-12-16",
+    "end_date": "2026-12-22",
+    "promo_price": 10.5,
+    "mechanic": null,
+    "depth_pct": 0.475
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can Locals",
+    "start_date": "2026-12-16",
+    "end_date": "2026-12-22",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-12-16",
+    "end_date": "2026-12-22",
+    "promo_price": 23,
+    "mechanic": "2 for £23",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can 0.0%",
+    "start_date": "2026-12-16",
+    "end_date": "2026-12-22",
+    "promo_price": 9.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-12-16",
+    "end_date": "2026-12-22",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.1111111111111111
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can",
+    "start_date": "2026-12-16",
+    "end_date": "2026-12-22",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can Locals",
+    "start_date": "2026-12-16",
+    "end_date": "2026-12-22",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-12-16",
+    "end_date": "2026-12-22",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Kirin Ichiban 4x440ml Can",
+    "start_date": "2026-12-16",
+    "end_date": "2026-12-22",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-12-16",
+    "end_date": "2026-12-22",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 1",
+    "sku_descr": "Damm Lemon 4x330ml",
+    "start_date": "2026-12-17",
+    "end_date": "2026-01-06",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 1",
+    "sku_descr": "Daura 4x330ml (Can)",
+    "start_date": "2026-12-17",
+    "end_date": "2026-01-06",
+    "promo_price": 5.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 1",
+    "sku_descr": "Estrella 0% 10x440ml",
+    "start_date": "2026-12-17",
+    "end_date": "2026-01-06",
+    "promo_price": 9.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 1",
+    "sku_descr": "Estrella 0% 4x440ml",
+    "start_date": "2026-12-17",
+    "end_date": "2026-01-06",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 1",
+    "sku_descr": "Estrella 10x440ml (CAN)",
+    "start_date": "2026-12-17",
+    "end_date": "2026-01-06",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.07692307692307693
+  },
+  {
+    "retailer": "Retailer 1",
+    "sku_descr": "Estrella 4x440ml",
+    "start_date": "2026-12-17",
+    "end_date": "2026-01-06",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-12-21",
+    "end_date": "2026-12-27",
+    "promo_price": 13,
+    "mechanic": null,
+    "depth_pct": 0.2777777777777778
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-12-21",
+    "end_date": "2026-12-27",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-12-21",
+    "end_date": "2026-12-27",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.21428571428571427
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-12-21",
+    "end_date": "2026-12-27",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-12-21",
+    "end_date": "2026-12-27",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.2835820895522388
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-12-21",
+    "end_date": "2026-12-27",
+    "promo_price": 7.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 10x440ml Can",
+    "start_date": "2026-12-23",
+    "end_date": "2026-12-29",
+    "promo_price": 10.5,
+    "mechanic": null,
+    "depth_pct": 0.475
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Damm Lemon 4x330ml Can Locals",
+    "start_date": "2026-12-23",
+    "end_date": "2026-12-29",
+    "promo_price": 3.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can",
+    "start_date": "2026-12-23",
+    "end_date": "2026-12-29",
+    "promo_price": 23,
+    "mechanic": "2 for £23",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 10x440ml Can 0.0%",
+    "start_date": "2026-12-23",
+    "end_date": "2026-12-29",
+    "promo_price": 9.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-12-23",
+    "end_date": "2026-12-29",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.1111111111111111
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can",
+    "start_date": "2026-12-23",
+    "end_date": "2026-12-29",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 4x440ml Can Locals",
+    "start_date": "2026-12-23",
+    "end_date": "2026-12-29",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Estrella 660ml NRB",
+    "start_date": "2026-12-23",
+    "end_date": "2026-12-29",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Kirin Ichiban 4x440ml Can",
+    "start_date": "2026-12-23",
+    "end_date": "2026-12-29",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 2",
+    "sku_descr": "Victoria Malaga 660ml NRB",
+    "start_date": "2026-12-23",
+    "end_date": "2026-12-29",
+    "promo_price": 6.5,
+    "mechanic": "3 for £6.50",
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2026-12-28",
+    "end_date": "2027-01-03",
+    "promo_price": 18,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2026-12-28",
+    "end_date": "2027-01-03",
+    "promo_price": 7.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2026-12-28",
+    "end_date": "2027-01-03",
+    "promo_price": 7,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2026-12-28",
+    "end_date": "2027-01-03",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2026-12-28",
+    "end_date": "2027-01-03",
+    "promo_price": 16.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2026-12-28",
+    "end_date": "2027-01-03",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0.13793103448275862
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2027-01-04",
+    "end_date": "2027-01-10",
+    "promo_price": 18,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2027-01-04",
+    "end_date": "2027-01-10",
+    "promo_price": 7.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2027-01-04",
+    "end_date": "2027-01-10",
+    "promo_price": 7,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2027-01-04",
+    "end_date": "2027-01-10",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2027-01-04",
+    "end_date": "2027-01-10",
+    "promo_price": 16.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2027-01-04",
+    "end_date": "2027-01-10",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0.13793103448275862
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2027-01-11",
+    "end_date": "2027-01-17",
+    "promo_price": 18,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2027-01-11",
+    "end_date": "2027-01-17",
+    "promo_price": 7.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2027-01-11",
+    "end_date": "2027-01-17",
+    "promo_price": 7,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2027-01-11",
+    "end_date": "2027-01-17",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2027-01-11",
+    "end_date": "2027-01-17",
+    "promo_price": 16.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2027-01-11",
+    "end_date": "2027-01-17",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0.13793103448275862
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2027-01-18",
+    "end_date": "2027-01-24",
+    "promo_price": 18,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2027-01-18",
+    "end_date": "2027-01-24",
+    "promo_price": 7.5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2027-01-18",
+    "end_date": "2027-01-24",
+    "promo_price": 7,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2027-01-18",
+    "end_date": "2027-01-24",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2027-01-18",
+    "end_date": "2027-01-24",
+    "promo_price": 16.75,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2027-01-18",
+    "end_date": "2027-01-24",
+    "promo_price": 6.25,
+    "mechanic": null,
+    "depth_pct": 0.13793103448275862
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2027-01-25",
+    "end_date": "2027-01-31",
+    "promo_price": 18,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2027-01-25",
+    "end_date": "2027-01-31",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2027-01-25",
+    "end_date": "2027-01-31",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.21428571428571427
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2027-01-25",
+    "end_date": "2027-01-31",
+    "promo_price": 5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2027-01-25",
+    "end_date": "2027-01-31",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.2835820895522388
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2027-01-25",
+    "end_date": "2027-01-31",
+    "promo_price": 7.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2027-02-01",
+    "end_date": "2027-02-07",
+    "promo_price": 18,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2027-02-01",
+    "end_date": "2027-02-07",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2027-02-01",
+    "end_date": "2027-02-07",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.21428571428571427
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2027-02-01",
+    "end_date": "2027-02-07",
+    "promo_price": 5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2027-02-01",
+    "end_date": "2027-02-07",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.2835820895522388
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2027-02-01",
+    "end_date": "2027-02-07",
+    "promo_price": 7.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2027-02-08",
+    "end_date": "2027-02-14",
+    "promo_price": 18,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2027-02-08",
+    "end_date": "2027-02-14",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2027-02-08",
+    "end_date": "2027-02-14",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.21428571428571427
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2027-02-08",
+    "end_date": "2027-02-14",
+    "promo_price": 5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2027-02-08",
+    "end_date": "2027-02-14",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.2835820895522388
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2027-02-08",
+    "end_date": "2027-02-14",
+    "promo_price": 7.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 12x330ml NRB",
+    "start_date": "2027-02-15",
+    "end_date": "2027-02-21",
+    "promo_price": 18,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN Express",
+    "start_date": "2027-02-15",
+    "end_date": "2027-02-21",
+    "promo_price": 6,
+    "mechanic": null,
+    "depth_pct": 0.2
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella 4x440ml CAN ME",
+    "start_date": "2027-02-15",
+    "end_date": "2027-02-21",
+    "promo_price": 5.5,
+    "mechanic": null,
+    "depth_pct": 0.21428571428571427
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2027-02-15",
+    "end_date": "2027-02-21",
+    "promo_price": 5,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 10x440ml",
+    "start_date": "2027-02-15",
+    "end_date": "2027-02-21",
+    "promo_price": 12,
+    "mechanic": null,
+    "depth_pct": 0.2835820895522388
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Kirin 4x440ml",
+    "start_date": "2027-02-15",
+    "end_date": "2027-02-21",
+    "promo_price": 7.25,
+    "mechanic": null,
+    "depth_pct": 0
+  },
+  {
+    "retailer": "Retailer 3",
+    "sku_descr": "Estrella Damm 0%",
+    "start_date": "2027-02-22",
+    "end_date": "2027-02-28",
+    "promo_price": 4,
+    "mechanic": null,
+    "depth_pct": 0.2
+  }
+]

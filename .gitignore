@@ -1,0 +1,64 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Env / secrets
+.env
+.env.local
+.env.*.local
+*.pem
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Node / JS
+node_modules/
+dist/
+build/
+.next/
+.turbo/
+.vercel/
+coverage/
+*.tsbuildinfo
+next-env.d.ts
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# Misc
+.cache/
+tmp/
+
+# Claude Code — machine-specific
+.claude/settings.local.json
+CLAUDE.local.md
+
+# Skills scaffolding — reproducible via `npx skills add` + skills-lock.json
+.agents/
+.claude/skills/
+
+# Playwright (local screenshots / traces from verification runs)
+.playwright-mcp/
+*.png
+
+# Anonymization map — local only, never push real names
+data/raw/anonymization-map.json

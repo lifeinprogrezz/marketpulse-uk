@@ -1,0 +1,8039 @@
+[
+  {
+    "month": "2023-01",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 3.0095999526977537,
+    "venta_neta": 1345.7600021362305,
+    "margen_bruto": 480.5700113140048,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-01",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 7.127999877929687,
+    "venta_neta": 1723.579978942871,
+    "margen_bruto": 477.39997172355646,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-01",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": -8.63280029296875,
+    "venta_neta": -1766.0301132202148,
+    "margen_bruto": -732.7000837326048,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-01",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 108.82079849243163,
+    "venta_neta": 32747.10041320801,
+    "margen_bruto": 9721.420364379883,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-01",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": 7.999204521179205,
+    "venta_neta": 13116.680141448975,
+    "margen_bruto": 840.5793221332871,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-01",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 2369.5404000854483,
+    "venta_neta": 590957.2490386963,
+    "margen_bruto": 159130.40016746524,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-01",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 13285.34544031143,
+    "venta_neta": 2794843.149679661,
+    "margen_bruto": 599691.539883275,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-01",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 312.20640029907224,
+    "venta_neta": 42832.510833740234,
+    "margen_bruto": 2687.8397140801007,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-01",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": 490.6071767616269,
+    "venta_neta": 92211.75872802734,
+    "margen_bruto": 35631.8794854024,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-01",
+    "brand": "FREE DAMM LIMON",
+    "channel": "OFF TRADE",
+    "hl": 11.56320068359375,
+    "venta_neta": 1693.8699951171875,
+    "margen_bruto": 143.11003124713895,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-01",
+    "brand": "FREE DAMM LIMON",
+    "channel": "ON TRADE",
+    "hl": -6.01919921875,
+    "venta_neta": -1242.3603515625,
+    "margen_bruto": -535.1103793144225,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-01",
+    "brand": "FREE DAMM TOSTADA",
+    "channel": "OFF TRADE",
+    "hl": 9.504000244140625,
+    "venta_neta": 1392.449951171875,
+    "margen_bruto": 156.65997475385686,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-01",
+    "brand": "FREE DAMM TOSTADA",
+    "channel": "ON TRADE",
+    "hl": -1.66320068359375,
+    "venta_neta": -363.340087890625,
+    "margen_bruto": -218.1200891494751,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-01",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 29.541599960327147,
+    "venta_neta": 11077.789978027344,
+    "margen_bruto": 4951.189879894257,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-01",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": 27.846399364471438,
+    "venta_neta": 10854.320156097412,
+    "margen_bruto": 2730.4102268105744,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-01",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 78.32879791259766,
+    "venta_neta": 17787.96974182129,
+    "margen_bruto": 1044.5300235152247,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-01",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 409.55040607452395,
+    "venta_neta": 113159.83810043335,
+    "margen_bruto": 25448.018590148688,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-02",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 26.21519954681397,
+    "venta_neta": 11297.740131378174,
+    "margen_bruto": 3900.2001838982105,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-02",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 1.4255999755859374,
+    "venta_neta": 246.10999965667725,
+    "margen_bruto": -2.5999975912272646,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-02",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": 15.285599765777587,
+    "venta_neta": 3404.930061340332,
+    "margen_bruto": 1149.4400533735752,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-02",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 213.12720397949218,
+    "venta_neta": 65256.50036799908,
+    "margen_bruto": 19336.380782414235,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-02",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": 254.23199125289915,
+    "venta_neta": 75228.81988620758,
+    "margen_bruto": 28496.639299914237,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-02",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 5888.517661437987,
+    "venta_neta": 1446572.2188835144,
+    "margen_bruto": 377498.2239329815,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-02",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 18440.038176307688,
+    "venta_neta": 3132561.0573120117,
+    "margen_bruto": 957342.8731861413,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-02",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 442.25280609130857,
+    "venta_neta": 58034.24041366577,
+    "margen_bruto": 376.97082948684863,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-02",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": 531.1888008499143,
+    "venta_neta": 99349.91976356506,
+    "margen_bruto": 35472.2092611976,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-02",
+    "brand": "FREE DAMM LIMON",
+    "channel": "OFF TRADE",
+    "hl": 3.4055999755859374,
+    "venta_neta": 501.8399963378907,
+    "margen_bruto": 44.75999334454539,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-02",
+    "brand": "FREE DAMM LIMON",
+    "channel": "ON TRADE",
+    "hl": 42.3719970703125,
+    "venta_neta": 8541.25,
+    "margen_bruto": 3017.6899003982544,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-02",
+    "brand": "FREE DAMM TOSTADA",
+    "channel": "OFF TRADE",
+    "hl": 3.5639999389648436,
+    "venta_neta": 526.02001953125,
+    "margen_bruto": 61.730033427476904,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-02",
+    "brand": "FREE DAMM TOSTADA",
+    "channel": "ON TRADE",
+    "hl": 65.5776025390625,
+    "venta_neta": 13174.279296875,
+    "margen_bruto": 4880.469278335571,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-02",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 68.23080001831055,
+    "venta_neta": 24919.990132927895,
+    "margen_bruto": 9548.68018033914,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-02",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": 197.82839992523193,
+    "venta_neta": 76331.45053863525,
+    "margen_bruto": 33323.780678153045,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-02",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 100.18799537658691,
+    "venta_neta": 21473.12969970703,
+    "margen_bruto": 1380.4697053581472,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-02",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 1055.0880111312867,
+    "venta_neta": 258897.5174446106,
+    "margen_bruto": 73193.31110632418,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-03",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 56.94479991912842,
+    "venta_neta": 25009.66008758545,
+    "margen_bruto": 9013.690111637117,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-03",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 92.188798828125,
+    "venta_neta": 21078.949432373047,
+    "margen_bruto": 48.11959838867352,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-03",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": 182.31840288162235,
+    "venta_neta": 45460.94108963013,
+    "margen_bruto": 5994.371153950689,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-03",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 392.6735993896484,
+    "venta_neta": 125480.30987358093,
+    "margen_bruto": 41000.94034147263,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-03",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": 799.6032130050662,
+    "venta_neta": 257466.58090877533,
+    "margen_bruto": 83344.42475828527,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-03",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 12657.963036949162,
+    "venta_neta": 3070047.552761078,
+    "margen_bruto": 574190.8836038113,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-03",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 26807.853698291787,
+    "venta_neta": 5229887.187067986,
+    "margen_bruto": 1223897.6923309115,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-03",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 679.6151970672609,
+    "venta_neta": 96065.84959030151,
+    "margen_bruto": 26626.320038214326,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-03",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": 1541.3479649734513,
+    "venta_neta": 288043.34656620026,
+    "margen_bruto": 109607.4291709438,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-03",
+    "brand": "FREE DAMM LIMON",
+    "channel": "OFF TRADE",
+    "hl": 6.17760009765625,
+    "venta_neta": 972.6199951171875,
+    "margen_bruto": 149.61999893188482,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-03",
+    "brand": "FREE DAMM LIMON",
+    "channel": "ON TRADE",
+    "hl": 36.590400390625,
+    "venta_neta": 7311.86962890625,
+    "margen_bruto": 2596.319554328919,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-03",
+    "brand": "FREE DAMM TOSTADA",
+    "channel": "OFF TRADE",
+    "hl": 7.999199676513672,
+    "venta_neta": 1279.5100202560425,
+    "margen_bruto": 245.17001628875747,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-03",
+    "brand": "FREE DAMM TOSTADA",
+    "channel": "ON TRADE",
+    "hl": 43.3223974609375,
+    "venta_neta": 8724.759765625,
+    "margen_bruto": 3290.0799217224126,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-03",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 65.05559997558595,
+    "venta_neta": 23911.0092754364,
+    "margen_bruto": 9442.729630112648,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-03",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": 352.47120180129974,
+    "venta_neta": 135044.12986183167,
+    "margen_bruto": 54880.95963060856,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-03",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 482.5655985260008,
+    "venta_neta": 109345.83025360107,
+    "margen_bruto": 3195.681664064518,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-03",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 2336.344806213381,
+    "venta_neta": 626744.1859588623,
+    "margen_bruto": 191234.69306468964,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-04",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 4.910399894714354,
+    "venta_neta": 2027.7101459503174,
+    "margen_bruto": 590.690092235804,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-04",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 164.41920104980468,
+    "venta_neta": 37577.24075698852,
+    "margen_bruto": -258.8399622440412,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-04",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": 15.127199745178222,
+    "venta_neta": 3916.9667358398433,
+    "margen_bruto": 848.2568978965284,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-04",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 403.7615933990479,
+    "venta_neta": 123801.7722158432,
+    "margen_bruto": 38746.9231967926,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-04",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": 205.68240291595458,
+    "venta_neta": 60694.90392176807,
+    "margen_bruto": 14832.657086445019,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-04",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 16422.214233055118,
+    "venta_neta": 3902662.850757294,
+    "margen_bruto": 636900.4458657431,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-04",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 23659.15764228821,
+    "venta_neta": 4626727.176348841,
+    "margen_bruto": 987454.9005300384,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-04",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 928.5408094787599,
+    "venta_neta": 145877.51813697815,
+    "margen_bruto": 79771.76823961735,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-04",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": 622.7535900306706,
+    "venta_neta": 102932.23351848125,
+    "margen_bruto": -2693.0868273702217,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-04",
+    "brand": "FREE DAMM LIMON",
+    "channel": "OFF TRADE",
+    "hl": 9.979200134277345,
+    "venta_neta": 1597.1800384521484,
+    "margen_bruto": 252.3500938415529,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-04",
+    "brand": "FREE DAMM LIMON",
+    "channel": "ON TRADE",
+    "hl": 5.068800048828125,
+    "venta_neta": 1041.27001953125,
+    "margen_bruto": 366.5599818229676,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-04",
+    "brand": "FREE DAMM TOSTADA",
+    "channel": "OFF TRADE",
+    "hl": 12.592799987792969,
+    "venta_neta": 2010.169906616211,
+    "margen_bruto": 364.47996068000776,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-04",
+    "brand": "FREE DAMM TOSTADA",
+    "channel": "ON TRADE",
+    "hl": 19.8,
+    "venta_neta": 4024.10986328125,
+    "margen_bruto": 1495.379707098007,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-04",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 61.69679992675781,
+    "venta_neta": 22149.779594421387,
+    "margen_bruto": 8344.059520363806,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-04",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": 160.47119888305664,
+    "venta_neta": 64548.1205688715,
+    "margen_bruto": 26546.86114400626,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-04",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 862.0920000457763,
+    "venta_neta": 219357.72072029114,
+    "margen_bruto": 2136.9301933646207,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-04",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 1199.8416009140017,
+    "venta_neta": 289547.2224159241,
+    "margen_bruto": 88507.32893518357,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-05",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": -5.7220459870332974e-8,
+    "venta_neta": -68.59997129440308,
+    "margen_bruto": -107.62000319361675,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-05",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 349.19279876708987,
+    "venta_neta": 74229.20065164566,
+    "margen_bruto": -7116.347884654997,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-05",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": 234.82799943923948,
+    "venta_neta": 65001.26610183716,
+    "margen_bruto": 12376.816236376764,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-05",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 534.1247978210449,
+    "venta_neta": 142179.36250305176,
+    "margen_bruto": 26469.55400735139,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-05",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": -66.68640659332279,
+    "venta_neta": -22901.831212043762,
+    "margen_bruto": -10246.36242928356,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-05",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 19082.738351993557,
+    "venta_neta": 4096134.0851680636,
+    "margen_bruto": 364374.02303852135,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-05",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 32566.659535045626,
+    "venta_neta": 7059436.016741753,
+    "margen_bruto": 1336058.3374713047,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-05",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 802.8504096984863,
+    "venta_neta": 64526.7880821228,
+    "margen_bruto": 3214.5180711746216,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-05",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": -228.91918514251728,
+    "venta_neta": -32824.942353248596,
+    "margen_bruto": -38292.701743735,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-05",
+    "brand": "FREE DAMM LIMON",
+    "channel": "OFF TRADE",
+    "hl": 18.29519958496094,
+    "venta_neta": 1464.3000316619873,
+    "margen_bruto": -1035.9899559020994,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-05",
+    "brand": "FREE DAMM LIMON",
+    "channel": "ON TRADE",
+    "hl": -16.473599853515626,
+    "venta_neta": -3502.5400390625,
+    "margen_bruto": -1352.259990215302,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-05",
+    "brand": "FREE DAMM TOSTADA",
+    "channel": "OFF TRADE",
+    "hl": 20.75040054321289,
+    "venta_neta": 1655.4299240112305,
+    "margen_bruto": -1090.6700563430786,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-05",
+    "brand": "FREE DAMM TOSTADA",
+    "channel": "ON TRADE",
+    "hl": -18.928800048828126,
+    "venta_neta": -4023.7900390625,
+    "margen_bruto": -1636.5600194931035,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-05",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 262.78559814453126,
+    "venta_neta": 81064.51929473877,
+    "margen_bruto": 20485.198131799698,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-05",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": -145.0304014205933,
+    "venta_neta": -63755.15991783142,
+    "margen_bruto": -33448.07917062937,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-05",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 652.8456072998046,
+    "venta_neta": 121374.26935005188,
+    "margen_bruto": -5817.881414532656,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-05",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 731.7624065780637,
+    "venta_neta": 208970.612950325,
+    "margen_bruto": 80462.73223984239,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-06",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": -0.15839986801147266,
+    "venta_neta": -237.21005582809448,
+    "margen_bruto": -318.3000469654786,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-06",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 455.4792114257813,
+    "venta_neta": 102607.87173461914,
+    "margen_bruto": -4200.181251525892,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-06",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": -35.56082427978516,
+    "venta_neta": -12163.757838726044,
+    "margen_bruto": -12764.995749473568,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-06",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 506.1672096252441,
+    "venta_neta": 161902.17086601257,
+    "margen_bruto": 45695.60101807116,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-06",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": 474.48716966629024,
+    "venta_neta": 156840.987511456,
+    "margen_bruto": 27616.56245326996,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-06",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 26732.613500061016,
+    "venta_neta": 6718892.4647066295,
+    "margen_bruto": 1639255.9437453449,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-06",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 16007.16315580368,
+    "venta_neta": 3152224.115962982,
+    "margen_bruto": 1004894.3982482553,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-06",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 1357.804854812622,
+    "venta_neta": 212477.47045993805,
+    "margen_bruto": 106055.32933080196,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-06",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": -323.1720061874391,
+    "venta_neta": -52703.97388315201,
+    "margen_bruto": -95098.99912822248,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-06",
+    "brand": "FREE DAMM LIMON",
+    "channel": "OFF TRADE",
+    "hl": 19.16640106201172,
+    "venta_neta": 2848.149871826172,
+    "margen_bruto": -7.610237598418944,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-06",
+    "brand": "FREE DAMM LIMON",
+    "channel": "ON TRADE",
+    "hl": -20.43359977722168,
+    "venta_neta": -4474.610092163086,
+    "margen_bruto": -1683.3200702667234,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-06",
+    "brand": "FREE DAMM TOSTADA",
+    "channel": "OFF TRADE",
+    "hl": 14.097599334716797,
+    "venta_neta": 2039.9401421546936,
+    "margen_bruto": 14.180196762085046,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-06",
+    "brand": "FREE DAMM TOSTADA",
+    "channel": "ON TRADE",
+    "hl": -14.17679931640625,
+    "venta_neta": -3105.75,
+    "margen_bruto": -1223.7699813842773,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-06",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 183.8231997680664,
+    "venta_neta": 63891.409746170044,
+    "margen_bruto": 18211.8386964798,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-06",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": -13.899599494934106,
+    "venta_neta": -12035.519042015076,
+    "margen_bruto": -15336.728740751747,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-06",
+    "brand": "KELER",
+    "channel": "ON TRADE",
+    "hl": 454.76640625,
+    "venta_neta": 124019.96875,
+    "margen_bruto": 36918.62728881836,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-06",
+    "brand": "TURIA MARZEN",
+    "channel": "ON TRADE",
+    "hl": 454.76640625,
+    "venta_neta": 116882.08984375,
+    "margen_bruto": 36359.34106445312,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-06",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 946.3607892608641,
+    "venta_neta": 241285.6018037796,
+    "margen_bruto": 20848.85295987128,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-06",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 935.078413066864,
+    "venta_neta": 119897.2108335495,
+    "margen_bruto": -63031.55952870846,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-07",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 3.5640031433105466,
+    "venta_neta": 1484.0100222826004,
+    "margen_bruto": 334.56004498898983,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-07",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 365.6664146995544,
+    "venta_neta": 82315.2582745552,
+    "margen_bruto": -18582.66266068817,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-07",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": 471.3984183311463,
+    "venta_neta": 132579.8858203888,
+    "margen_bruto": 8718.430510967983,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-07",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 399.48480163574203,
+    "venta_neta": 125845.08827781677,
+    "margen_bruto": 25494.529131293297,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-07",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": 51.32160188674928,
+    "venta_neta": 4804.765462875366,
+    "margen_bruto": -13318.900842189778,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-07",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 18291.302895660407,
+    "venta_neta": 4453854.447336674,
+    "margen_bruto": 833401.8751582652,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-07",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 23062.669335365303,
+    "venta_neta": 4214584.973353483,
+    "margen_bruto": 707571.4997095634,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-07",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 546.9552112579346,
+    "venta_neta": 76936.71090602875,
+    "margen_bruto": 30652.219594180588,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-07",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": 1375.0672401809704,
+    "venta_neta": 240832.52799081802,
+    "margen_bruto": 47317.3957799375,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-07",
+    "brand": "FREE DAMM LIMON",
+    "channel": "OFF TRADE",
+    "hl": 35.006398925781255,
+    "venta_neta": 2860.2499389648438,
+    "margen_bruto": -2942.260281562805,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-07",
+    "brand": "FREE DAMM LIMON",
+    "channel": "ON TRADE",
+    "hl": -29.22480224609375,
+    "venta_neta": -6516.700057983398,
+    "margen_bruto": -2275.689976453781,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-07",
+    "brand": "FREE DAMM TOSTADA",
+    "channel": "OFF TRADE",
+    "hl": 12.513600196838379,
+    "venta_neta": 1712.7799215316772,
+    "margen_bruto": -264.4200246334076,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-07",
+    "brand": "FREE DAMM TOSTADA",
+    "channel": "ON TRADE",
+    "hl": -12.3552001953125,
+    "venta_neta": -2815.510162353515,
+    "margen_bruto": -1118.930177688598,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-07",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 64.56239921569824,
+    "venta_neta": 22128.25970172882,
+    "margen_bruto": 5613.620225131512,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-07",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": 413.2751840019225,
+    "venta_neta": 162572.2938375473,
+    "margen_bruto": 50846.31264935434,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-07",
+    "brand": "KELER",
+    "channel": "OFF TRADE",
+    "hl": 297.95041015625,
+    "venta_neta": 80849.9609375,
+    "margen_bruto": 21537.27362060547,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-07",
+    "brand": "KELER",
+    "channel": "ON TRADE",
+    "hl": 172.4183984375,
+    "venta_neta": 46008.118743896484,
+    "margen_bruto": 12325.608108520504,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-07",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 85.536005859375,
+    "venta_neta": 16770.919189453125,
+    "margen_bruto": 3732.4591674804674,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-07",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": 376.30798828125,
+    "venta_neta": 72373.68140792847,
+    "margen_bruto": 18630.040964126587,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-07",
+    "brand": "TURIA MARZEN",
+    "channel": "OFF TRADE",
+    "hl": 297.95041015625,
+    "venta_neta": 76455.87890625,
+    "margen_bruto": 21752.738037109382,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-07",
+    "brand": "TURIA MARZEN",
+    "channel": "ON TRADE",
+    "hl": 62.6471875,
+    "venta_neta": 15443.59033203125,
+    "margen_bruto": 3083.818580627442,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-07",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 1230.371983566284,
+    "venta_neta": 280303.5579442978,
+    "margen_bruto": -117.81197589635642,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-07",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 435.4871989440918,
+    "venta_neta": 92966.57395553589,
+    "margen_bruto": -12377.094683468336,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-08",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 94.0103975486755,
+    "venta_neta": 44472.56078004836,
+    "margen_bruto": 13420.289888784286,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-08",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 364.8743914794922,
+    "venta_neta": 68730.3783493042,
+    "margen_bruto": -19837.940718650814,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-08",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": 278.3087640953064,
+    "venta_neta": 52039.04655098915,
+    "margen_bruto": -6757.14640903473,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-08",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 441.85679374694826,
+    "venta_neta": 145871.5999469757,
+    "margen_bruto": 23221.05040252208,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-08",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": 364.6367882728576,
+    "venta_neta": 140784.70947301388,
+    "margen_bruto": 48081.46183078736,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-08",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 11583.864569835663,
+    "venta_neta": 2688040.4621905386,
+    "margen_bruto": 308583.95605177997,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-08",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 27677.7328594017,
+    "venta_neta": 6719194.530213356,
+    "margen_bruto": 2005395.4672624306,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-08",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 515.591994934082,
+    "venta_neta": 75710.1103477478,
+    "margen_bruto": 20671.6798415184,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-08",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": 558.0560059165954,
+    "venta_neta": 108307.47453022003,
+    "margen_bruto": 10361.752972677354,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-08",
+    "brand": "FREE DAMM LIMON",
+    "channel": "OFF TRADE",
+    "hl": 17.02800018310547,
+    "venta_neta": 2451.619888305664,
+    "margen_bruto": -430.690014958382,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-08",
+    "brand": "FREE DAMM LIMON",
+    "channel": "ON TRADE",
+    "hl": -17.2656005859375,
+    "venta_neta": -3784.909912109375,
+    "margen_bruto": -1254.6398553848267,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-08",
+    "brand": "FREE DAMM TOSTADA",
+    "channel": "OFF TRADE",
+    "hl": 16.55279998779297,
+    "venta_neta": 2250.100128173828,
+    "margen_bruto": -468.2299109697345,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-08",
+    "brand": "FREE DAMM TOSTADA",
+    "channel": "ON TRADE",
+    "hl": -17.582400436401368,
+    "venta_neta": -3850.889892578125,
+    "margen_bruto": -1359.859823003411,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-08",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 58.40999984741211,
+    "venta_neta": 22410.800003051758,
+    "margen_bruto": 5423.260051846504,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-08",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": 198.4247982406616,
+    "venta_neta": 84824.74106776714,
+    "margen_bruto": 29656.129689566795,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-08",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 72.7056005859375,
+    "venta_neta": 11404.649841308594,
+    "margen_bruto": 3172.8397064208984,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-08",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": 421.2143941497804,
+    "venta_neta": 72081.93121147156,
+    "margen_bruto": 24999.721064329147,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-08",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 381.90240135192875,
+    "venta_neta": 82917.73820447922,
+    "margen_bruto": -10441.781036019329,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-08",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 1419.4727933883673,
+    "venta_neta": 374454.36907720566,
+    "margen_bruto": -9065.519549369792,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-09",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 6.177599449157719,
+    "venta_neta": 2968.3596625328064,
+    "margen_bruto": 305.68946177512396,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-09",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 331.84799499511723,
+    "venta_neta": 59342.41703224182,
+    "margen_bruto": -21269.011721849434,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-09",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": -26.135988235473636,
+    "venta_neta": 14113.21233510971,
+    "margen_bruto": 17919.020216047764,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-09",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 480.42720420837395,
+    "venta_neta": 149182.20072174072,
+    "margen_bruto": 17365.65989363194,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-09",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": 412.5527258300781,
+    "venta_neta": 146547.98176693916,
+    "margen_bruto": 27568.855593435448,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-09",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 16558.816159439084,
+    "venta_neta": 4095977.376234591,
+    "margen_bruto": 380136.3407710958,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-09",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 21111.78611793518,
+    "venta_neta": 4361468.060098257,
+    "margen_bruto": 1450346.349672882,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-09",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 1179.446410293579,
+    "venta_neta": 181470.12188744545,
+    "margen_bruto": 58550.53101918101,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-09",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": -30.43912071228037,
+    "venta_neta": 12242.622035741813,
+    "margen_bruto": -40756.29870526491,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-09",
+    "brand": "FREE DAMM LIMON",
+    "channel": "OFF TRADE",
+    "hl": -1.5839999389648438,
+    "venta_neta": -1067.0999565124512,
+    "margen_bruto": -798.3099536895752,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-09",
+    "brand": "FREE DAMM LIMON",
+    "channel": "ON TRADE",
+    "hl": 129.8880078125,
+    "venta_neta": 28458.76023864746,
+    "margen_bruto": 9408.609992980955,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-09",
+    "brand": "FREE DAMM TOSTADA",
+    "channel": "OFF TRADE",
+    "hl": 45.38159881591797,
+    "venta_neta": 2239.8202362060547,
+    "margen_bruto": -5203.759592175484,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-09",
+    "brand": "FREE DAMM TOSTADA",
+    "channel": "ON TRADE",
+    "hl": 46.965600395202635,
+    "venta_neta": 10372.22999572754,
+    "margen_bruto": 3646.8303008079547,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-09",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 42.515999984741214,
+    "venta_neta": 13061.16987991333,
+    "margen_bruto": 669.5897444486632,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-09",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": 106.92280292510986,
+    "venta_neta": 39667.847828149796,
+    "margen_bruto": 8196.328564248977,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-09",
+    "brand": "KELER",
+    "channel": "OFF TRADE",
+    "hl": 297.950390625,
+    "venta_neta": 84222.5625,
+    "margen_bruto": 20775.12048339843,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-09",
+    "brand": "KELER",
+    "channel": "ON TRADE",
+    "hl": -298.10880859375,
+    "venta_neta": -80380.44921875,
+    "margen_bruto": -20340.418319702152,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-09",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 226.67039192199707,
+    "venta_neta": 39304.25906562805,
+    "margen_bruto": 9509.579656124113,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-09",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": 213.90479763031007,
+    "venta_neta": 52734.96847009659,
+    "margen_bruto": 29900.318916797638,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-09",
+    "brand": "TURIA MARZEN",
+    "channel": "OFF TRADE",
+    "hl": 290.109609375,
+    "venta_neta": 77419.828125,
+    "margen_bruto": 20469.491210937496,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-09",
+    "brand": "TURIA MARZEN",
+    "channel": "ON TRADE",
+    "hl": -290.2680078125,
+    "venta_neta": -74053.37890625,
+    "margen_bruto": -20421.359375,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-09",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 1008.1367950439454,
+    "venta_neta": 258502.06680870056,
+    "margen_bruto": -18767.994719922543,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-09",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 1208.9736257171628,
+    "venta_neta": 265364.5945851803,
+    "margen_bruto": 72406.92084434631,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-10",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": -7.365600395202636,
+    "venta_neta": -17552.550150871277,
+    "margen_bruto": -15388.060316540303,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-10",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 160.30080337524413,
+    "venta_neta": 28645.530743837357,
+    "margen_bruto": -5068.958551824092,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-10",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": 151.27200820922855,
+    "venta_neta": 29276.382257044315,
+    "margen_bruto": -8591.91711886972,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-10",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 507.038388671875,
+    "venta_neta": 163197.49836921692,
+    "margen_bruto": 38192.95819401742,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-10",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": 217.00796478271474,
+    "venta_neta": -27532.113417506218,
+    "margen_bruto": -97896.19489414245,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-10",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 19817.848237457274,
+    "venta_neta": 4938525.91402787,
+    "margen_bruto": 939726.7702364327,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-10",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 9842.2869351387,
+    "venta_neta": 1864070.95022583,
+    "margen_bruto": 536104.884446025,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-10",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 736.401598815918,
+    "venta_neta": 109754.54777622223,
+    "margen_bruto": 44936.37682518363,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-10",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": 408.27761688232414,
+    "venta_neta": -22824.83488583564,
+    "margen_bruto": -142573.91750200093,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-10",
+    "brand": "FREE DAMM LIMON",
+    "channel": "OFF TRADE",
+    "hl": 15.048000183105469,
+    "venta_neta": 2124.0200233459473,
+    "margen_bruto": -116.64994442462927,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-10",
+    "brand": "FREE DAMM LIMON",
+    "channel": "ON TRADE",
+    "hl": -15.444000244140625,
+    "venta_neta": -3537.5100860595703,
+    "margen_bruto": -1434.7800703048706,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-10",
+    "brand": "FREE DAMM TOSTADA",
+    "channel": "OFF TRADE",
+    "hl": 18.770399780273436,
+    "venta_neta": 2559.439916610718,
+    "margen_bruto": -184.28008747100844,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-10",
+    "brand": "FREE DAMM TOSTADA",
+    "channel": "ON TRADE",
+    "hl": -59.795999412536624,
+    "venta_neta": -13088.289768218994,
+    "margen_bruto": -4760.489787101747,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-10",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 85.37399963378907,
+    "venta_neta": 32222.579743862152,
+    "margen_bruto": 9836.009917497635,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-10",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": -107.33720287322998,
+    "venta_neta": -87526.14298427105,
+    "margen_bruto": -61724.25247773528,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-10",
+    "brand": "KELER",
+    "channel": "OFF TRADE",
+    "hl": 311.810390625,
+    "venta_neta": 87739.28125,
+    "margen_bruto": 21794.01930236817,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-10",
+    "brand": "KELER",
+    "channel": "ON TRADE",
+    "hl": -311.889609375,
+    "venta_neta": -84805.24096679688,
+    "margen_bruto": -22423.971359252926,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-10",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 211.14719718933105,
+    "venta_neta": 34230.97964859009,
+    "margen_bruto": 8066.200007438659,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-10",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": 1324.6871992111203,
+    "venta_neta": 251347.2682827711,
+    "margen_bruto": 119943.27903783318,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-10",
+    "brand": "TURIA MARZEN",
+    "channel": "OFF TRADE",
+    "hl": 209.95919921875,
+    "venta_neta": 55831.140625,
+    "margen_bruto": 14783.610595703125,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-10",
+    "brand": "TURIA MARZEN",
+    "channel": "ON TRADE",
+    "hl": -210.0383984375,
+    "venta_neta": -54247.42962646485,
+    "margen_bruto": -15594.810485839853,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-10",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 811.879183769226,
+    "venta_neta": 208835.11705207825,
+    "margen_bruto": 10414.998775079852,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-10",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 258.7248051261901,
+    "venta_neta": -237897.1685180664,
+    "margen_bruto": -324400.55280408263,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-11",
+    "brand": "COMPLOT",
+    "channel": "OFF TRADE",
+    "hl": 1.4255999755859374,
+    "venta_neta": 248.7899990081787,
+    "margen_bruto": -188.65999603271482,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-11",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 54.80639883041382,
+    "venta_neta": 23269.460377693176,
+    "margen_bruto": 5363.460195064543,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-11",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 200.21760192871093,
+    "venta_neta": 38606.23057006858,
+    "margen_bruto": -553.580512771379,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-11",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": -200.6927922821045,
+    "venta_neta": -55788.58015727997,
+    "margen_bruto": -18849.33021330833,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-11",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 330.10559291839604,
+    "venta_neta": 110569.52880382538,
+    "margen_bruto": 33290.20892953873,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-11",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": 399.48480230331415,
+    "venta_neta": 128919.18800616264,
+    "margen_bruto": 9859.820856928825,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-11",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 16137.052185974126,
+    "venta_neta": 4036473.0437563434,
+    "margen_bruto": 879002.3195103183,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-11",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 20556.742519073487,
+    "venta_neta": 4360462.36453867,
+    "margen_bruto": 882118.7582163808,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-11",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 999.3456042480468,
+    "venta_neta": 127740.55905555747,
+    "margen_bruto": 33389.85912727378,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-11",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": 281.8512302207945,
+    "venta_neta": 56636.10375189781,
+    "margen_bruto": -23430.701192855828,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-11",
+    "brand": "FREE DAMM LIMON",
+    "channel": "OFF TRADE",
+    "hl": 29.699999999999996,
+    "venta_neta": 3552.5799713134766,
+    "margen_bruto": -613.9100475311279,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-11",
+    "brand": "FREE DAMM LIMON",
+    "channel": "ON TRADE",
+    "hl": -29.7,
+    "venta_neta": -6430.3798828125,
+    "margen_bruto": -2589.9099121093745,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-11",
+    "brand": "FREE DAMM TOSTADA",
+    "channel": "OFF TRADE",
+    "hl": 20.51280029296875,
+    "venta_neta": 3199.4600219726562,
+    "margen_bruto": 404.63999366760254,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-11",
+    "brand": "FREE DAMM TOSTADA",
+    "channel": "ON TRADE",
+    "hl": -20.51280029296875,
+    "venta_neta": -4440.4501953125,
+    "margen_bruto": -1870.18017578125,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-11",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 83.15999984741211,
+    "venta_neta": 33274.530435562134,
+    "margen_bruto": 13246.350460052494,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-11",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": -30.252799320220912,
+    "venta_neta": -20936.630655765533,
+    "margen_bruto": -16900.709943771355,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-11",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 158.2416006469727,
+    "venta_neta": 27428.660340309143,
+    "margen_bruto": 6771.770276069639,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-11",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": 810.8376065826416,
+    "venta_neta": 135618.22810649872,
+    "margen_bruto": 55123.81021690369,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-11",
+    "brand": "TURIA MARZEN",
+    "channel": "ON TRADE",
+    "hl": -0.39599998474121095,
+    "venta_neta": -100.77999877929688,
+    "margen_bruto": -28.089998245239258,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-11",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 698.7023933410643,
+    "venta_neta": 167152.61995624565,
+    "margen_bruto": 21517.13843654655,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-11",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 841.3896014404297,
+    "venta_neta": 174483.62233018875,
+    "margen_bruto": -14166.150423049927,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-12",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 1.029599666595462,
+    "venta_neta": -11233.059223771095,
+    "margen_bruto": -12035.569186121225,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-12",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 234.19440399169923,
+    "venta_neta": 48218.471244215965,
+    "margen_bruto": -5274.13170015812,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-12",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": -217.48319667816165,
+    "venta_neta": 8935.303183563054,
+    "margen_bruto": 53095.48287322372,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-12",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 753.0336203765869,
+    "venta_neta": 267695.430603981,
+    "margen_bruto": 68813.63871020079,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-12",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": -12.355269393920937,
+    "venta_neta": -80322.2506569475,
+    "margen_bruto": -92271.3081494756,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-12",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 19052.935791625983,
+    "venta_neta": 5214345.816660404,
+    "margen_bruto": 1105471.5610482842,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-12",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 9103.649182109835,
+    "venta_neta": 1818924.067526102,
+    "margen_bruto": 969468.0867223905,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-12",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 1292.7815939331058,
+    "venta_neta": 230215.4282503128,
+    "margen_bruto": 101478.63962316513,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-12",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": -372.72797868728645,
+    "venta_neta": -123459.29178333282,
+    "margen_bruto": -115807.35403952748,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-12",
+    "brand": "FREE DAMM LIMON",
+    "channel": "OFF TRADE",
+    "hl": 31.996800842285154,
+    "venta_neta": 4188.250165939331,
+    "margen_bruto": -700.6698913574218,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-12",
+    "brand": "FREE DAMM LIMON",
+    "channel": "ON TRADE",
+    "hl": -28.90800048828125,
+    "venta_neta": -6321.240058600903,
+    "margen_bruto": -2386.8104149699207,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-12",
+    "brand": "FREE DAMM TOSTADA",
+    "channel": "OFF TRADE",
+    "hl": 20.98800048828125,
+    "venta_neta": 2429.670060157776,
+    "margen_bruto": -468.09997463226296,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-12",
+    "brand": "FREE DAMM TOSTADA",
+    "channel": "ON TRADE",
+    "hl": -21.1464013671875,
+    "venta_neta": -4631.639843761921,
+    "margen_bruto": -1945.8898437619205,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-12",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 105.78599899291991,
+    "venta_neta": 45525.589566230774,
+    "margen_bruto": 17772.09997731447,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-12",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": 225.3107999801636,
+    "venta_neta": 76066.6457335949,
+    "margen_bruto": 14224.996380321667,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-12",
+    "brand": "KELER",
+    "channel": "ON TRADE",
+    "hl": 0,
+    "venta_neta": 4,
+    "margen_bruto": 4,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-12",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 202.03919677734376,
+    "venta_neta": 36648.430639743805,
+    "margen_bruto": 10580.480570316315,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-12",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": 913.5527929687498,
+    "venta_neta": 142855.39996767044,
+    "margen_bruto": 44460.147608280175,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-12",
+    "brand": "TURIA MARZEN",
+    "channel": "ON TRADE",
+    "hl": 0,
+    "venta_neta": 3.4800000190734863,
+    "margen_bruto": 3.4800000190734863,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-12",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 773.784012298584,
+    "venta_neta": 195100.36174595356,
+    "margen_bruto": 16401.47385388613,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2023-12",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 348.94559528350817,
+    "venta_neta": 119055.84688186646,
+    "margen_bruto": 82145.29266962038,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-01",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 108.58319992065428,
+    "venta_neta": 50833.95924758911,
+    "margen_bruto": 15521.99992877245,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-01",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 117.37440246582031,
+    "venta_neta": 20530.28052330017,
+    "margen_bruto": -4862.819989323615,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-01",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": 220.41360227584835,
+    "venta_neta": 55604.33220386505,
+    "margen_bruto": 15085.202412217855,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-01",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 246.39119567871091,
+    "venta_neta": 77630.7312707901,
+    "margen_bruto": 7431.490860939031,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-01",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": 709.9487957572937,
+    "venta_neta": 240801.4200963974,
+    "margen_bruto": 63878.66265459356,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-01",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 7141.390818023686,
+    "venta_neta": 1667853.0419111252,
+    "margen_bruto": 169998.57679036816,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-01",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 21015.225163707735,
+    "venta_neta": 4655369.325429916,
+    "margen_bruto": 788007.8600037878,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-01",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 662.1912002563477,
+    "venta_neta": 90371.40982055664,
+    "margen_bruto": -3878.0794186592084,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-01",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": 961.5039665031434,
+    "venta_neta": 183626.85375213623,
+    "margen_bruto": 139484.85576948524,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-01",
+    "brand": "FREE DAMM LIMON",
+    "channel": "OFF TRADE",
+    "hl": 12.830399780273437,
+    "venta_neta": 1512.1699752807615,
+    "margen_bruto": -400.1000432968141,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-01",
+    "brand": "FREE DAMM LIMON",
+    "channel": "ON TRADE",
+    "hl": -16.07760009765625,
+    "venta_neta": -3525.02001953125,
+    "margen_bruto": -1240.4200735092163,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-01",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 52.35839996337891,
+    "venta_neta": 18640.229990005493,
+    "margen_bruto": 4218.699918627739,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-01",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": 47.19600019454957,
+    "venta_neta": 21290.47188091278,
+    "margen_bruto": 9732.63197670877,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-01",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 413.26559684753414,
+    "venta_neta": 67599.12942123413,
+    "margen_bruto": 20723.569522857662,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-01",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": 779.1503953170777,
+    "venta_neta": 151362.6810684204,
+    "margen_bruto": 77975.27021804452,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-01",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 309.75120178222653,
+    "venta_neta": 76911.35949707031,
+    "margen_bruto": 5801.94809257984,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-01",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 609.7920256805423,
+    "venta_neta": 134310.89987182617,
+    "margen_bruto": -4761.849345259373,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-02",
+    "brand": "COMPLOT",
+    "channel": "OFF TRADE",
+    "hl": 3.326400146484375,
+    "venta_neta": 590.8199768066406,
+    "margen_bruto": -517.6399993896484,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-02",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": -4.514400062561035,
+    "venta_neta": -2262.6398717164993,
+    "margen_bruto": -842.2299114465714,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-02",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 166.16159393310548,
+    "venta_neta": 31323.68876838684,
+    "margen_bruto": -3508.491419076922,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-02",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": 189.68399898529051,
+    "venta_neta": 46870.75210905075,
+    "margen_bruto": 12590.60401810706,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-02",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 457.77600708007816,
+    "venta_neta": 150969.29945373535,
+    "margen_bruto": 34524.488896846764,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-02",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": 634.7088154602051,
+    "venta_neta": 216850.81721904688,
+    "margen_bruto": 51034.2352466639,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-02",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 10076.582925109866,
+    "venta_neta": 2467653.2505989075,
+    "margen_bruto": 352125.6437404752,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-02",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 16252.267722587587,
+    "venta_neta": 3413414.5069761276,
+    "margen_bruto": 757928.3030163313,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-02",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 697.910390396118,
+    "venta_neta": 78687.90088319778,
+    "margen_bruto": 12899.750236332417,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-02",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": -71.73038749694832,
+    "venta_neta": -31526.289583921432,
+    "margen_bruto": -35896.899184539914,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-02",
+    "brand": "FREE DAMM LIMON",
+    "channel": "OFF TRADE",
+    "hl": 9.66239990234375,
+    "venta_neta": 1181.8700332641602,
+    "margen_bruto": -274.2399661540984,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-02",
+    "brand": "FREE DAMM LIMON",
+    "channel": "ON TRADE",
+    "hl": -9.66239990234375,
+    "venta_neta": -2127.639892578125,
+    "margen_bruto": -753.899929523468,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-02",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 158.78519973754885,
+    "venta_neta": 38535.41105079651,
+    "margen_bruto": -2426.2497625947026,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-02",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": -30.560399894714354,
+    "venta_neta": -22662.628700971603,
+    "margen_bruto": -17193.43789623678,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-02",
+    "brand": "KIRIN ICHIBAN",
+    "channel": "ON TRADE",
+    "hl": 0,
+    "venta_neta": 31033.7099609375,
+    "margen_bruto": 31033.7099609375,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-02",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 421.02720085144045,
+    "venta_neta": 71081.43915843964,
+    "margen_bruto": 16306.909457921982,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-02",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": -405.59042343139635,
+    "venta_neta": -111202.62305736542,
+    "margen_bruto": -98806.49144904317,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-02",
+    "brand": "TURIA MARZEN",
+    "channel": "OFF TRADE",
+    "hl": 6.969600219726562,
+    "venta_neta": 1151.0700073242188,
+    "margen_bruto": -227.34999847412107,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-02",
+    "brand": "TURIA MARZEN",
+    "channel": "ON TRADE",
+    "hl": -6.969600219726562,
+    "venta_neta": -1805.2900390625,
+    "margen_bruto": -505.1800231933593,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-02",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 466.3295999145507,
+    "venta_neta": 106831.79006385803,
+    "margen_bruto": -8507.091569513083,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-02",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 782.2607765960693,
+    "venta_neta": 147844.40439647436,
+    "margen_bruto": 15760.536404330272,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-03",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": -0.07919981002807763,
+    "venta_neta": 1436.0901167988764,
+    "margen_bruto": 1344.2300545573223,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-03",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 263.5775975418091,
+    "venta_neta": 49384.95037674904,
+    "margen_bruto": 14019.450339451436,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-03",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": -36.66960279464723,
+    "venta_neta": -13887.31887435913,
+    "margen_bruto": -9441.56739195436,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-03",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 643.5791989135743,
+    "venta_neta": 217197.10535430908,
+    "margen_bruto": 51644.96749615669,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-03",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": -592.9704140281679,
+    "venta_neta": -192183.06409406662,
+    "margen_bruto": -41549.86785182354,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-03",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 20712.574203109732,
+    "venta_neta": 4974639.921766281,
+    "margen_bruto": 664270.7237441838,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-03",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 836.7010685062401,
+    "venta_neta": -249215.8995090651,
+    "margen_bruto": 95089.17194742308,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-03",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 940.5792091369628,
+    "venta_neta": 135886.2884464264,
+    "margen_bruto": 49066.628531813636,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-03",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": -388.6664204406741,
+    "venta_neta": -60975.5975458622,
+    "margen_bruto": -40619.465885888785,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-03",
+    "brand": "FREE DAMM LIMON",
+    "channel": "OFF TRADE",
+    "hl": 5.385599899291992,
+    "venta_neta": 568.3799858093262,
+    "margen_bruto": -242.6700054407121,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-03",
+    "brand": "FREE DAMM LIMON",
+    "channel": "ON TRADE",
+    "hl": -5.385599975585937,
+    "venta_neta": -1184.8399658203125,
+    "margen_bruto": -419.5999937057495,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-03",
+    "brand": "FREE DAMM TOSTADA",
+    "channel": "ON TRADE",
+    "hl": 0,
+    "venta_neta": -81.93000030517578,
+    "margen_bruto": -81.93000030517578,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-03",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 64.1015997314453,
+    "venta_neta": 25737.20970153809,
+    "margen_bruto": 9104.209745645525,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-03",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": -19.57680038452148,
+    "venta_neta": -10652.509559631348,
+    "margen_bruto": -6649.619734466078,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-03",
+    "brand": "MARK SPENCER",
+    "channel": "OFF TRADE",
+    "hl": 850.1328125,
+    "venta_neta": 116150.41015625,
+    "margen_bruto": -27863.4807434082,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-03",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 1905.2792146301267,
+    "venta_neta": 303420.41576194763,
+    "margen_bruto": 67573.45493030548,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-03",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": 1432.6231672096255,
+    "venta_neta": 277306.91743564606,
+    "margen_bruto": 101637.14294476433,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-03",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 1548.835220565796,
+    "venta_neta": 333137.63812470436,
+    "margen_bruto": -11971.68984460831,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-03",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": -885.2616334724423,
+    "venta_neta": -205688.2036281824,
+    "margen_bruto": 10176.017053499841,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-04",
+    "brand": "COMPLOT",
+    "channel": "OFF TRADE",
+    "hl": 13.939200439453124,
+    "venta_neta": 3291.760009765625,
+    "margen_bruto": -1324.750078201294,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-04",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 148.0607983970642,
+    "venta_neta": 43491.13793754578,
+    "margen_bruto": 23456.217818610363,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-04",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 369.4680035400391,
+    "venta_neta": 53958.701040267944,
+    "margen_bruto": -7092.729356408123,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-04",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": 12.53515878677371,
+    "venta_neta": 42286.29612970352,
+    "margen_bruto": -6116.9835555329955,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-04",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 442.72799850463866,
+    "venta_neta": 150388.35815525055,
+    "margen_bruto": 33495.82829666138,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-04",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": -7.840796318054288,
+    "venta_neta": -31.896574020385742,
+    "margen_bruto": 2412.5664357095875,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-04",
+    "brand": "Dummy",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": -58.11000061035156,
+    "margen_bruto": -58.11000061035156,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-04",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 13999.052238266466,
+    "venta_neta": 3226506.612078786,
+    "margen_bruto": 425843.78689300275,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-04",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 15041.963803653713,
+    "venta_neta": 3086552.4099230543,
+    "margen_bruto": 634631.4393345676,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-04",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 827.4815946960449,
+    "venta_neta": 226007.10216903687,
+    "margen_bruto": 145004.82138347623,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-04",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": -66.53999233245838,
+    "venta_neta": -31636.640512764454,
+    "margen_bruto": -48693.900086157024,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-04",
+    "brand": "FREE DAMM TOSTADA",
+    "channel": "ON TRADE",
+    "hl": -17.10719970703125,
+    "venta_neta": -3768.6201171875,
+    "margen_bruto": -1397.3601226806643,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-04",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 373.50361404418936,
+    "venta_neta": 81733.77927589417,
+    "margen_bruto": -18602.890235543244,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-04",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": -390.465212574005,
+    "venta_neta": -155296.6109972,
+    "margen_bruto": -65982.0199792683,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-04",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 1392.7320000457762,
+    "venta_neta": 190600.79579734802,
+    "margen_bruto": 20459.324788928017,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-04",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": 1352.788825759888,
+    "venta_neta": 209916.49268972874,
+    "margen_bruto": 43497.9936902225,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-04",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 964.656039123535,
+    "venta_neta": 194026.77982902527,
+    "margen_bruto": -20056.272205710404,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-04",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 170.65678661346433,
+    "venta_neta": 24316.995496034622,
+    "margen_bruto": 3055.500916808838,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-05",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 13.403999843597411,
+    "venta_neta": -819.340382784605,
+    "margen_bruto": -2928.0903997365385,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-05",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 552.0240100097657,
+    "venta_neta": 105101.67053985596,
+    "margen_bruto": 15325.799953222278,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-05",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": 134.63756896972652,
+    "venta_neta": -27935.96599650383,
+    "margen_bruto": 8658.25542795658,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-05",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 702.2663789367678,
+    "venta_neta": 233184.67202854156,
+    "margen_bruto": 55456.702204346664,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-05",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": -79.041714477539,
+    "venta_neta": -23925.92813062668,
+    "margen_bruto": -14150.508665122084,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-05",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 27680.98448127748,
+    "venta_neta": 7699613.827346325,
+    "margen_bruto": 1659450.5349768698,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-05",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": -1176.1435958671575,
+    "venta_neta": -730332.8226988018,
+    "margen_bruto": -54727.43708419033,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-05",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 1215.3239945983885,
+    "venta_neta": 59698.4197692871,
+    "margen_bruto": -55472.260953307145,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-05",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": 435.8575255584715,
+    "venta_neta": 105709.46291470528,
+    "margen_bruto": 66372.5469142925,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-05",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 18.84959991455078,
+    "venta_neta": 7113.780079841614,
+    "margen_bruto": 2243.750037789345,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-05",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": -20.41479925155641,
+    "venta_neta": -8744.660229295492,
+    "margen_bruto": -4951.600140402092,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-05",
+    "brand": "MARK SPENCER",
+    "channel": "OFF TRADE",
+    "hl": 850.5287890625,
+    "venta_neta": 209675.8515625,
+    "margen_bruto": 66452.4377746582,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-05",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 1903.6511686706542,
+    "venta_neta": 327881.2479274273,
+    "margen_bruto": 96266.45835855605,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-05",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": 132.84712181091308,
+    "venta_neta": -38454.283945560455,
+    "margen_bruto": -71591.11949065325,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-05",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 478.28880172729487,
+    "venta_neta": 100704.98616600037,
+    "margen_bruto": -1888.1124861836383,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-05",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 628.6823804283142,
+    "venta_neta": 155970.99785745144,
+    "margen_bruto": 41215.6387721952,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-06",
+    "brand": "COMPLOT",
+    "channel": "OFF TRADE",
+    "hl": 2.2175999450683594,
+    "venta_neta": 390.75001525878906,
+    "margen_bruto": -344.0099935531616,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-06",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 62.78880123138428,
+    "venta_neta": 21850.14977312088,
+    "margen_bruto": 3544.759719245136,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-06",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 576.417606048584,
+    "venta_neta": 108939.53729438782,
+    "margen_bruto": 18066.137632131577,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-06",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": 237.3312231254578,
+    "venta_neta": 38413.40535545349,
+    "margen_bruto": 25168.147334739566,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-06",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 575.6255895996095,
+    "venta_neta": 189587.7780342102,
+    "margen_bruto": 50298.06997728348,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-06",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": 162.67686527252195,
+    "venta_neta": 60997.56656360626,
+    "margen_bruto": 16490.079171434045,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-06",
+    "brand": "Dummy",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": -219.29000854492188,
+    "margen_bruto": -219.29000854492188,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-06",
+    "brand": "Dummy",
+    "channel": "ON TRADE",
+    "hl": 0,
+    "venta_neta": -3119.4199409484863,
+    "margen_bruto": -3119.4199409484863,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-06",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 19615.767189912807,
+    "venta_neta": 3959977.330272794,
+    "margen_bruto": 176473.3776103072,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-06",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 16911.18921560288,
+    "venta_neta": 3372145.049366094,
+    "margen_bruto": 702789.6934824606,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-06",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 812.5128015136718,
+    "venta_neta": 122363.57103919983,
+    "margen_bruto": 45143.00179317594,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-06",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": 59.76558961868281,
+    "venta_neta": 13900.364318490028,
+    "margen_bruto": 7133.0362138356995,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-06",
+    "brand": "FREE DAMM TOSTADA",
+    "channel": "ON TRADE",
+    "hl": -8.3952001953125,
+    "venta_neta": -1920.4899787902832,
+    "margen_bruto": -838.8399543762206,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-06",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 8.596799850463867,
+    "venta_neta": 2963.799945831299,
+    "margen_bruto": 701.829961299896,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-06",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": -11.807601795196543,
+    "venta_neta": -4838.7197523117065,
+    "margen_bruto": -2759.689863450825,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-06",
+    "brand": "MARK SPENCER",
+    "channel": "OFF TRADE",
+    "hl": 444.7871875,
+    "venta_neta": 108991.078125,
+    "margen_bruto": 36369.33966064453,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-06",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 858.1759938812252,
+    "venta_neta": 133559.4102420807,
+    "margen_bruto": 16027.449567496773,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-06",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": 1161.58085691452,
+    "venta_neta": 162215.53968524933,
+    "margen_bruto": 14568.734030608066,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-06",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 1163.289623794556,
+    "venta_neta": 288753.6317214966,
+    "margen_bruto": 34002.56266427039,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-06",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 611.8991646003723,
+    "venta_neta": 167454.11033013463,
+    "margen_bruto": 62625.9823305458,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-07",
+    "brand": "COMPLOT",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": -789.679967880249,
+    "margen_bruto": -777.229968994856,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-07",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 191.69279836654658,
+    "venta_neta": 49453.980588912964,
+    "margen_bruto": 23130.5204982683,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-07",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 449.61839477539064,
+    "venta_neta": 85876.29090499878,
+    "margen_bruto": 12296.528406741096,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-07",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": 227.57520481109617,
+    "venta_neta": 38443.171936035156,
+    "margen_bruto": 21165.72215820104,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-07",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 466.32959487915036,
+    "venta_neta": 152491.29268407822,
+    "margen_bruto": 35681.413134410985,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-07",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": 728.1648186683657,
+    "venta_neta": 259224.70050907132,
+    "margen_bruto": 82143.71560761145,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-07",
+    "brand": "Dummy",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": -323.8799877166748,
+    "margen_bruto": -323.8799877166748,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-07",
+    "brand": "Dummy",
+    "channel": "ON TRADE",
+    "hl": 0,
+    "venta_neta": 18898.83984375,
+    "margen_bruto": 18898.83984375,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-07",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 18823.648836364748,
+    "venta_neta": 4661812.65667963,
+    "margen_bruto": 834763.2958984971,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-07",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 31503.920738258374,
+    "venta_neta": 6703591.141220111,
+    "margen_bruto": 1309682.137341416,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-07",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 849.6576084136962,
+    "venta_neta": 121294.59676241875,
+    "margen_bruto": 35921.856996119015,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-07",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": 1807.0431888771066,
+    "venta_neta": 374191.562227726,
+    "margen_bruto": 237941.29064141773,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-07",
+    "brand": "GRANDE",
+    "channel": "OFF TRADE",
+    "hl": 906.04796875,
+    "venta_neta": 177346.3359375,
+    "margen_bruto": 13882.963378906239,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-07",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 7.4304000091552735,
+    "venta_neta": 3914.4399466514587,
+    "margen_bruto": 1943.5999193750317,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-07",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": 187.38000324249265,
+    "venta_neta": 71361.73184013367,
+    "margen_bruto": 24968.900896430023,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-07",
+    "brand": "MARK SPENCER",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": 96871.23779296875,
+    "margen_bruto": 94265.59784460068,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-07",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 1977.9672160339355,
+    "venta_neta": 305995.34162425995,
+    "margen_bruto": 67775.00980557688,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-07",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": -612.0984014320375,
+    "venta_neta": -84700.65603768826,
+    "margen_bruto": -9558.627819824964,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-07",
+    "brand": "SAN MARCOS",
+    "channel": "OFF TRADE",
+    "hl": 906.04796875,
+    "venta_neta": 188176.609375,
+    "margen_bruto": 14696.62890624999,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-07",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 514.641604232788,
+    "venta_neta": 127160.511677742,
+    "margen_bruto": 10562.649668775493,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-07",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 1919.8751480674746,
+    "venta_neta": 467538.39087983966,
+    "margen_bruto": 110886.55136871338,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-08",
+    "brand": "COMPLOT",
+    "channel": "OFF TRADE",
+    "hl": 95.911201171875,
+    "venta_neta": 17057.540405273438,
+    "margen_bruto": -14436.989746093748,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-08",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 46.86480220794679,
+    "venta_neta": -4482.39174747467,
+    "margen_bruto": 2363.6493496820367,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-08",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 432.9072039794921,
+    "venta_neta": 82649.4264755249,
+    "margen_bruto": 12678.946198701862,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-08",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": 111.17757888793943,
+    "venta_neta": -717.9217193126678,
+    "margen_bruto": 11125.737821571529,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-08",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 811.087179260254,
+    "venta_neta": 272971.9205875397,
+    "margen_bruto": 74640.60939097404,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-08",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": -73.49760482788088,
+    "venta_neta": -21926.042079925523,
+    "margen_bruto": -6005.776568062596,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-08",
+    "brand": "Dummy",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": -798.7999877929688,
+    "margen_bruto": -798.7999877929688,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-08",
+    "brand": "Dummy",
+    "channel": "ON TRADE",
+    "hl": 0,
+    "venta_neta": 3159.1298828125,
+    "margen_bruto": 3159.1298828125,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-08",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 24489.55331300736,
+    "venta_neta": 6156181.332792819,
+    "margen_bruto": 1029025.1515809447,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-08",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 8220.701206798554,
+    "venta_neta": 1211972.1211242676,
+    "margen_bruto": 345135.0333988295,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-08",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 1008.2951998901368,
+    "venta_neta": 160958.03503227234,
+    "margen_bruto": 60815.87408697605,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-08",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": -136.8886822509767,
+    "venta_neta": -29309.015429258347,
+    "margen_bruto": -22671.717426475137,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-08",
+    "brand": "FREE DAMM LIMON",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": 22.34000015258789,
+    "margen_bruto": 22.34000015258789,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-08",
+    "brand": "GRANDE",
+    "channel": "OFF TRADE",
+    "hl": 2536.6176171875,
+    "venta_neta": 455169.5234375,
+    "margen_bruto": 20909.46313476559,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-08",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 5.673600006103516,
+    "venta_neta": 6886.660181522369,
+    "margen_bruto": 5393.960162460804,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-08",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": -4.031999359130854,
+    "venta_neta": -1459.589765548706,
+    "margen_bruto": -1731.5296069309115,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-08",
+    "brand": "MARK SPENCER",
+    "channel": "OFF TRADE",
+    "hl": 469.7351953125,
+    "venta_neta": 113056.76953125,
+    "margen_bruto": 37241.21081542968,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-08",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 2428.6767568206787,
+    "venta_neta": 394637.28018426895,
+    "margen_bruto": 106369.00922751427,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-08",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": -817.4655542755124,
+    "venta_neta": -108766.9238190651,
+    "margen_bruto": -3922.828405827283,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-08",
+    "brand": "SAN MARCOS",
+    "channel": "OFF TRADE",
+    "hl": 1386.63359375,
+    "venta_neta": 270723.0390625,
+    "margen_bruto": 12683.468322753903,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-08",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 461.8943960571289,
+    "venta_neta": 113356.48049640656,
+    "margen_bruto": 4619.058665812024,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-08",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 744.5423823356629,
+    "venta_neta": 161992.1981984973,
+    "margen_bruto": 34116.19921603799,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-09",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 107.71919990539551,
+    "venta_neta": 39525.60139274597,
+    "margen_bruto": 14025.150700509548,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-09",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 310.3055819702148,
+    "venta_neta": 57777.81111335754,
+    "margen_bruto": 6836.6422491073545,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-09",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": 393.97201301574717,
+    "venta_neta": 94252.69049167633,
+    "margen_bruto": 57995.99063686281,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-09",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 373.90319931030274,
+    "venta_neta": 123031.10198402405,
+    "margen_bruto": 27109.600688755505,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-09",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": -67.08240411758429,
+    "venta_neta": -20751.84069389105,
+    "margen_bruto": -3872.8888549562507,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-09",
+    "brand": "Dummy",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": -1008.3900146484375,
+    "margen_bruto": -1008.3900146484375,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-09",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 12356.711315279017,
+    "venta_neta": 2888711.495611191,
+    "margen_bruto": 332274.6924944967,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-09",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 12289.862820663458,
+    "venta_neta": 2361246.449403912,
+    "margen_bruto": 665969.88506677,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-09",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 606.1967962646485,
+    "venta_neta": 85733.09168243408,
+    "margen_bruto": 24499.77203142643,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-09",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": -106.70556716918956,
+    "venta_neta": -20342.909183979034,
+    "margen_bruto": -10144.970050569616,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-09",
+    "brand": "FREE DAMM LIMON",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": -145.08999633789062,
+    "margen_bruto": -145.08999633789062,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-09",
+    "brand": "GRANDE",
+    "channel": "OFF TRADE",
+    "hl": 4413.024062500001,
+    "venta_neta": 812291.875,
+    "margen_bruto": 44884.334716796875,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-09",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 2.901599960327148,
+    "venta_neta": 773.8700137138367,
+    "margen_bruto": 0.43001982569691677,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-09",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": -4.546800022125247,
+    "venta_neta": -1776.1199407577515,
+    "margen_bruto": -1226.6901530325413,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-09",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 1464.4872142791746,
+    "venta_neta": 183858.09088134766,
+    "margen_bruto": -6502.83966463805,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-09",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": -687.4624761199949,
+    "venta_neta": -123254.64273834229,
+    "margen_bruto": -24097.184297412634,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-09",
+    "brand": "SAN MARCOS",
+    "channel": "OFF TRADE",
+    "hl": 2002.4928125000001,
+    "venta_neta": 403562.90625,
+    "margen_bruto": 24826.97930908205,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-09",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 658.2312150573731,
+    "venta_neta": 166149.7392501831,
+    "margen_bruto": 19529.479743480682,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-09",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": -93.13436878204371,
+    "venta_neta": -27347.59327200055,
+    "margen_bruto": -4430.5700194686815,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-10",
+    "brand": "CARLSBERG",
+    "channel": "ON TRADE",
+    "hl": 0,
+    "venta_neta": 203912.234375,
+    "margen_bruto": 203912.234375,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-10",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 38.31600055694579,
+    "venta_neta": 11062.81979227066,
+    "margen_bruto": 5313.690099060534,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-10",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 234.90720642089843,
+    "venta_neta": 44512.60031795502,
+    "margen_bruto": 5862.380173325535,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-10",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": 163.48557785034177,
+    "venta_neta": 31531.243091106415,
+    "margen_bruto": 11607.901678323744,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-10",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 578.8728083038329,
+    "venta_neta": 192306.40624523163,
+    "margen_bruto": 45221.99768650532,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-10",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": 167.19111991882318,
+    "venta_neta": 68877.00225830078,
+    "margen_bruto": 28312.140176884826,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-10",
+    "brand": "Dummy",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": -277.6800079345703,
+    "margen_bruto": -277.6800079345703,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-10",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 18898.479714279172,
+    "venta_neta": 4831412.564011347,
+    "margen_bruto": 733171.8251945488,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-10",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 11160.733909950253,
+    "venta_neta": 2291167.928803444,
+    "margen_bruto": 723689.216783829,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-10",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 763.5671768188477,
+    "venta_neta": 138495.98198509216,
+    "margen_bruto": 61486.99125504494,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-10",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": 1045.891995506287,
+    "venta_neta": 217058.500351429,
+    "margen_bruto": 147190.7582417652,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-10",
+    "brand": "FREE DAMM LIMON",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": -32.63999938964844,
+    "margen_bruto": -32.63999938964844,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-10",
+    "brand": "GRANDE",
+    "channel": "OFF TRADE",
+    "hl": 1360.9728125000001,
+    "venta_neta": 255125.03515625,
+    "margen_bruto": 11575.50634765625,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-10",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 8.125199890136718,
+    "venta_neta": 2689.5899720191956,
+    "margen_bruto": 488.8999142646787,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-10",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": 27.04679811477661,
+    "venta_neta": 51053.420437812805,
+    "margen_bruto": 45331.810433790095,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-10",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 779.5920140075684,
+    "venta_neta": 179543.47516918182,
+    "margen_bruto": 59540.895990848556,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-10",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": 1083.9791656303403,
+    "venta_neta": 171117.24570433795,
+    "margen_bruto": 40357.37609166838,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-10",
+    "brand": "SAN MARCOS",
+    "channel": "OFF TRADE",
+    "hl": 750.81599609375,
+    "venta_neta": 156868.20361328125,
+    "margen_bruto": 9384.644859313945,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-10",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 515.9087875366212,
+    "venta_neta": 126085.06696510315,
+    "margen_bruto": 7629.879170954227,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-10",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 241.27199769973743,
+    "venta_neta": 78973.56064681709,
+    "margen_bruto": 40718.04996041955,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-11",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 135.67200029373166,
+    "venta_neta": 43369.641657829285,
+    "margen_bruto": 22019.151741437614,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-11",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 239.9760040283203,
+    "venta_neta": 43972.800830841064,
+    "margen_bruto": 4547.8912324905405,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-11",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": 25.11600603103637,
+    "venta_neta": 10583.168402194977,
+    "margen_bruto": 8246.706695646048,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-11",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 458.7263940429687,
+    "venta_neta": 155352.20922851562,
+    "margen_bruto": 39784.37822914123,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-11",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": 529.9270493507387,
+    "venta_neta": 195207.04178714752,
+    "margen_bruto": 61536.88093945384,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-11",
+    "brand": "Dummy",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": -11253.21983909607,
+    "margen_bruto": -11253.21983909607,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-11",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 14649.790684967045,
+    "venta_neta": 3656335.7906360626,
+    "margen_bruto": 488976.5647960901,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-11",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 24222.23067560196,
+    "venta_neta": 5136575.520989388,
+    "margen_bruto": 925703.8463684953,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-11",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 647.9351849365233,
+    "venta_neta": 98581.21892547607,
+    "margen_bruto": 33458.75050508975,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-11",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": 1123.40484577179,
+    "venta_neta": 230660.59386062622,
+    "margen_bruto": 130990.92269946075,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-11",
+    "brand": "GRANDE",
+    "channel": "OFF TRADE",
+    "hl": 1834.27203125,
+    "venta_neta": 332301.1359863281,
+    "margen_bruto": 6110.052185058599,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-11",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 151.86239990234375,
+    "venta_neta": 34391.62051200867,
+    "margen_bruto": -5224.849878668783,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-11",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": -140.6192010116577,
+    "venta_neta": -66414.90918159485,
+    "margen_bruto": -34919.23963277042,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-11",
+    "brand": "MARK SPENCER",
+    "channel": "OFF TRADE",
+    "hl": 437.183984375,
+    "venta_neta": 112727.22265625,
+    "margen_bruto": 31752.792236328132,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-11",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 1023.8976121520997,
+    "venta_neta": 166571.2106809616,
+    "margen_bruto": 26371.43930184841,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-11",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": 897.9687644577025,
+    "venta_neta": 131212.05495417118,
+    "margen_bruto": 13273.008373953413,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-11",
+    "brand": "SAN MARCOS",
+    "channel": "OFF TRADE",
+    "hl": 813.5423437500001,
+    "venta_neta": 159366.13830566406,
+    "margen_bruto": 2651.1781005859466,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-11",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 213.20639686584474,
+    "venta_neta": 51126.62076187134,
+    "margen_bruto": 1990.0007921457286,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-11",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 922.6391955375672,
+    "venta_neta": 253374.71363940835,
+    "margen_bruto": 87292.73005856574,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-12",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 104.5248000526428,
+    "venta_neta": 27325.221017837524,
+    "margen_bruto": 11093.480080157518,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-12",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 284.7239926147461,
+    "venta_neta": 58493.44925689697,
+    "margen_bruto": 11189.239202558987,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-12",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": -15.731998901367227,
+    "venta_neta": -13008.367842912674,
+    "margen_bruto": -8457.007791310549,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-12",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 554.5583987426758,
+    "venta_neta": 175579.1311988831,
+    "margen_bruto": 33872.91153526307,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-12",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": 125.5319215774536,
+    "venta_neta": 48275.315032958984,
+    "margen_bruto": 18654.57182265073,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-12",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 17441.045321197515,
+    "venta_neta": 4188311.510548953,
+    "margen_bruto": 377000.5110127665,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-12",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 1174.8613786125145,
+    "venta_neta": -213003.61310648965,
+    "margen_bruto": 427688.6017603873,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-12",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 1197.1079824829103,
+    "venta_neta": 192813.85769844055,
+    "margen_bruto": 77959.02833342554,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-12",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": -382.35601821899405,
+    "venta_neta": -69177.56320261955,
+    "margen_bruto": -41515.829498564824,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-12",
+    "brand": "FREE DAMM LIMON",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": 27.510000228881836,
+    "margen_bruto": 27.510000228881836,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-12",
+    "brand": "FREE DAMM LIMON",
+    "channel": "ON TRADE",
+    "hl": -41.2631982421875,
+    "venta_neta": -9669.95980834961,
+    "margen_bruto": -4008.1896724700937,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-12",
+    "brand": "GRANDE",
+    "channel": "OFF TRADE",
+    "hl": 1567.843203125,
+    "venta_neta": 287115.79638671875,
+    "margen_bruto": 11407.15969848632,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-12",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 10.73159996032715,
+    "venta_neta": 8375.549983978271,
+    "margen_bruto": 5535.079955935478,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-12",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": 150.55560111999506,
+    "venta_neta": 50224.87047767639,
+    "margen_bruto": 7796.090985566377,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-12",
+    "brand": "KIRIN ICHIBAN",
+    "channel": "ON TRADE",
+    "hl": 389.036796875,
+    "venta_neta": 154762.00439453125,
+    "margen_bruto": 44977.619140625,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-12",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 2760.1815638732905,
+    "venta_neta": 429317.7792224698,
+    "margen_bruto": 51781.61779497191,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-12",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": -2075.461471099852,
+    "venta_neta": -308494.8411631584,
+    "margen_bruto": -12189.57056026162,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-12",
+    "brand": "SABOR",
+    "channel": "OFF TRADE",
+    "hl": 380.16,
+    "venta_neta": 53866.079833984375,
+    "margen_bruto": -8915.650390625,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-12",
+    "brand": "SAN MARCOS",
+    "channel": "OFF TRADE",
+    "hl": 1284.940703125,
+    "venta_neta": 253384.98175048825,
+    "margen_bruto": 3149.340667724594,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-12",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 204.96960746765137,
+    "venta_neta": 52249.13889381476,
+    "margen_bruto": 4756.869960876181,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2024-12",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 913.0919865989683,
+    "venta_neta": 215617.27094480395,
+    "margen_bruto": 46035.30709449388,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-01",
+    "brand": "#",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -107961.55936527252,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-01",
+    "brand": "#",
+    "channel": "ON TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -9919.579974547029,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-01",
+    "brand": "COMPLOT",
+    "channel": "OFF TRADE",
+    "hl": 11.08800048828125,
+    "venta_neta": 2026.11994934082,
+    "margen_bruto": -1810.3636188070666,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-01",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 22.84800060272217,
+    "venta_neta": 4149.21950340271,
+    "margen_bruto": 3194.8979004662274,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-01",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 195.2280044555664,
+    "venta_neta": 35099.18986701965,
+    "margen_bruto": 1472.3685696021942,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-01",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": -24.492002525329603,
+    "venta_neta": -15172.912199318409,
+    "margen_bruto": -4838.050961514296,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-01",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 376.04159774780277,
+    "venta_neta": 118254.68216514587,
+    "margen_bruto": 27348.509328402077,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-01",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": 228.17520725250236,
+    "venta_neta": 84218.0052986145,
+    "margen_bruto": 27508.692208798373,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-01",
+    "brand": "Dummy",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": -124.33000183105469,
+    "margen_bruto": -124.33000183105469,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-01",
+    "brand": "Dummy",
+    "channel": "ON TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -110.93999966420233,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-01",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 8704.746548156745,
+    "venta_neta": 2052596.9118442535,
+    "margen_bruto": 174164.76541336923,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-01",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 7687.502475280762,
+    "venta_neta": 1563946.172320366,
+    "margen_bruto": 462391.7427405136,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-01",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 824.3927986145019,
+    "venta_neta": 112781.27002334595,
+    "margen_bruto": 25385.356705795788,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-01",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": 163.48962181091306,
+    "venta_neta": 40474.546363949776,
+    "margen_bruto": 28895.14990841661,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-01",
+    "brand": "GRANDE",
+    "channel": "OFF TRADE",
+    "hl": 2261.3184375,
+    "venta_neta": 420450.2553100586,
+    "margen_bruto": 17244.941528320323,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-01",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 6.231599960327149,
+    "venta_neta": 2098.9099769592285,
+    "margen_bruto": 401.8924475435501,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-01",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": 160.7548066139221,
+    "venta_neta": 67641.43018054962,
+    "margen_bruto": 30269.257493776015,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-01",
+    "brand": "KIRIN ICHIBAN",
+    "channel": "ON TRADE",
+    "hl": 333.27520126342773,
+    "venta_neta": 86567.9715499878,
+    "margen_bruto": 28262.459238767628,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-01",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 711.136798057556,
+    "venta_neta": 107854.1103760004,
+    "margen_bruto": 7714.679754781344,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-01",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": 25.75038087844851,
+    "venta_neta": 22581.71024942398,
+    "margen_bruto": 20564.309740908964,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-01",
+    "brand": "SABOR",
+    "channel": "OFF TRADE",
+    "hl": 518.4,
+    "venta_neta": 99573.12983703613,
+    "margen_bruto": 14932.140213012693,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-01",
+    "brand": "SAN MARCOS",
+    "channel": "OFF TRADE",
+    "hl": 728.323193359375,
+    "venta_neta": 148385.5304260254,
+    "margen_bruto": 7240.951614379885,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-01",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 201.08879791259767,
+    "venta_neta": 46593.990354537964,
+    "margen_bruto": -978.2058686239054,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-01",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 204.38160408020025,
+    "venta_neta": 42885.49846971035,
+    "margen_bruto": 5749.079610091606,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-02",
+    "brand": "#",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -246979.37796914577,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-02",
+    "brand": "#",
+    "channel": "ON TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -182325.49943874404,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-02",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 96.28079925537108,
+    "venta_neta": 37753.128989219666,
+    "margen_bruto": 14093.954478916225,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-02",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 87.27839752197266,
+    "venta_neta": 16352.180000305176,
+    "margen_bruto": 1734.9365377643758,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-02",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": 94.47360431671142,
+    "venta_neta": 17343.807869672775,
+    "margen_bruto": 5182.26904660356,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-02",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 415.08718856811527,
+    "venta_neta": 141220.45972442627,
+    "margen_bruto": 31750.921638307882,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-02",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": 1126.2239794158945,
+    "venta_neta": 407821.67742586136,
+    "margen_bruto": 128593.3041066106,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-02",
+    "brand": "Dummy",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": -60.0099983215332,
+    "margen_bruto": -60.0099983215332,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-02",
+    "brand": "Dummy",
+    "channel": "ON TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": 110.93999966420233,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-02",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 10077.6917376709,
+    "venta_neta": 2434797.636946678,
+    "margen_bruto": 282092.25749714905,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-02",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 16541.395958824152,
+    "venta_neta": 3700979.080932334,
+    "margen_bruto": 817902.7369472716,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-02",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 726.5808035278321,
+    "venta_neta": 98542.19771957397,
+    "margen_bruto": 23166.53107389292,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-02",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": 666.3888124084475,
+    "venta_neta": 114422.62245345116,
+    "margen_bruto": 47445.609790973685,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-02",
+    "brand": "GRANDE",
+    "channel": "OFF TRADE",
+    "hl": 2167.86234375,
+    "venta_neta": 401987.3432812542,
+    "margen_bruto": 14673.827747806907,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-02",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 2.6027999877929684,
+    "venta_neta": 698.3000268936157,
+    "margen_bruto": -33.96050285877077,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-02",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": 2.570399799346923,
+    "venta_neta": 1162.340012550354,
+    "margen_bruto": -12.770124647708002,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-02",
+    "brand": "KIRIN ICHIBAN",
+    "channel": "ON TRADE",
+    "hl": 659.5727975654602,
+    "venta_neta": 213434.51012134552,
+    "margen_bruto": 80818.0212530118,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-02",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 867.9000068664549,
+    "venta_neta": 137736.28937721252,
+    "margen_bruto": 12522.008629525431,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-02",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": 469.49514785766604,
+    "venta_neta": 85075.94927328825,
+    "margen_bruto": 31119.936351274442,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-02",
+    "brand": "SABOR",
+    "channel": "OFF TRADE",
+    "hl": 630.72,
+    "venta_neta": 124965.03172302246,
+    "margen_bruto": 18383.607894897465,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-02",
+    "brand": "SAN MARCOS",
+    "channel": "OFF TRADE",
+    "hl": 3709.7279296875,
+    "venta_neta": 725616.715108633,
+    "margen_bruto": 19849.512334585197,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-02",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 256.1328066253662,
+    "venta_neta": 53841.140248298645,
+    "margen_bruto": -7875.516607501575,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-02",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 648.3384104347228,
+    "venta_neta": 173565.56445109844,
+    "margen_bruto": 48593.043642435805,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-03",
+    "brand": "#",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -220081.97837650776,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-03",
+    "brand": "#",
+    "channel": "ON TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -14553.630039960146,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-03",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 140.7407999038696,
+    "venta_neta": 44237.11763763428,
+    "margen_bruto": 20178.545241719916,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-03",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 196.97039764404298,
+    "venta_neta": 35051.079610824585,
+    "margen_bruto": 14479.768767000918,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-03",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": 350.5320078468324,
+    "venta_neta": 99441.8625119701,
+    "margen_bruto": 65762.45630790298,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-03",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 484.22879516601563,
+    "venta_neta": 166408.37287902832,
+    "margen_bruto": 40458.431270482084,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-03",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": -462.3168028068539,
+    "venta_neta": -163886.64427131414,
+    "margen_bruto": -54103.46675510946,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-03",
+    "brand": "Dummy",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": -29.6299991607666,
+    "margen_bruto": -29.6299991607666,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-03",
+    "brand": "Dummy",
+    "channel": "ON TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -220.4199998266995,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-03",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 16762.145435714723,
+    "venta_neta": 4173394.7385368347,
+    "margen_bruto": 537156.9188940157,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-03",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 17183.58147935868,
+    "venta_neta": 3380968.05046298,
+    "margen_bruto": 644036.8583848864,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-03",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 601.6031869506837,
+    "venta_neta": 88655.51128387451,
+    "margen_bruto": 25459.352646143543,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-03",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": 103.9880272102356,
+    "venta_neta": 26892.711316734552,
+    "margen_bruto": 25012.00005590411,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-03",
+    "brand": "GRANDE",
+    "channel": "OFF TRADE",
+    "hl": 692.84162109375,
+    "venta_neta": 135777.78051757812,
+    "margen_bruto": 9391.90206909179,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-03",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 9.305999984741211,
+    "venta_neta": 3345.289939880371,
+    "margen_bruto": 742.758754139639,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-03",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": -13.38200046539307,
+    "venta_neta": -5683.9802322387695,
+    "margen_bruto": -3312.450458549374,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-03",
+    "brand": "KIRIN ICHIBAN",
+    "channel": "OFF TRADE",
+    "hl": 11.4047998046875,
+    "venta_neta": 3743.039978027344,
+    "margen_bruto": 391.50782042334396,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-03",
+    "brand": "KIRIN ICHIBAN",
+    "channel": "ON TRADE",
+    "hl": 596.9367873001098,
+    "venta_neta": 207657.88357532024,
+    "margen_bruto": 45775.21105015658,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-03",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 1149.033592071533,
+    "venta_neta": 182393.8887500763,
+    "margen_bruto": 21725.48026937653,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-03",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": -109.51444961547861,
+    "venta_neta": 12390.289868175983,
+    "margen_bruto": 28615.657398362935,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-03",
+    "brand": "SABOR",
+    "channel": "OFF TRADE",
+    "hl": 941.76,
+    "venta_neta": 185763.97311401367,
+    "margen_bruto": 27312.562957763683,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-03",
+    "brand": "SAN MARCOS",
+    "channel": "OFF TRADE",
+    "hl": 111.196796875,
+    "venta_neta": 19538.88067626953,
+    "margen_bruto": -1313.0603637695326,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-03",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 164.41920150756835,
+    "venta_neta": 40224.54023933411,
+    "margen_bruto": 437.51922493135004,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-03",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 919.8599842834474,
+    "venta_neta": 215771.58840584755,
+    "margen_bruto": 36746.3316335939,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-04",
+    "brand": "#",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -241476.62722611427,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-04",
+    "brand": "#",
+    "channel": "ON TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -86051.61796203256,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-04",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 176.10479961395265,
+    "venta_neta": 45197.52100563049,
+    "margen_bruto": 14441.520395592574,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-04",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 324.4031986236572,
+    "venta_neta": 56509.98913860321,
+    "margen_bruto": 26656.71694559694,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-04",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": 979.1303992843625,
+    "venta_neta": 194268.63973016664,
+    "margen_bruto": 92171.67574158964,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-04",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 321.9479977416992,
+    "venta_neta": 108518.42086219788,
+    "margen_bruto": 27654.587589796483,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-04",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": 638.9064163970947,
+    "venta_neta": 225927.29154258966,
+    "margen_bruto": 65974.19643803868,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-04",
+    "brand": "Dummy",
+    "channel": "ON TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -106.78000020235777,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-04",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 18610.512789001474,
+    "venta_neta": 4703830.16676712,
+    "margen_bruto": 822975.4794072162,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-04",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 30291.559697628025,
+    "venta_neta": 6077594.439358972,
+    "margen_bruto": 920488.553418579,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-04",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 809.9784040832519,
+    "venta_neta": 114538.98110580444,
+    "margen_bruto": 31623.55765657729,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-04",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": 361.146394405365,
+    "venta_neta": 78901.1183949709,
+    "margen_bruto": 26970.346138900633,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-04",
+    "brand": "GRANDE",
+    "channel": "OFF TRADE",
+    "hl": 2950.04158203125,
+    "venta_neta": 565353.6654891968,
+    "margen_bruto": 40452.00920867919,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-04",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 7.426800079345703,
+    "venta_neta": 2391.6199445724487,
+    "margen_bruto": 361.7338546100757,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-04",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": -3.7403999328613304,
+    "venta_neta": -583.6499495506287,
+    "margen_bruto": -899.0797660399559,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-04",
+    "brand": "KIRIN ICHIBAN",
+    "channel": "OFF TRADE",
+    "hl": 25.750399627685546,
+    "venta_neta": 8999.269729614256,
+    "margen_bruto": 1628.2862348569515,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-04",
+    "brand": "KIRIN ICHIBAN",
+    "channel": "ON TRADE",
+    "hl": 562.2608019828796,
+    "venta_neta": 191037.87099644542,
+    "margen_bruto": 65385.34189664994,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-04",
+    "brand": "MARK SPENCER",
+    "channel": "OFF TRADE",
+    "hl": 438.6887890625,
+    "venta_neta": 110443.89990234376,
+    "margen_bruto": 27447.941192626964,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-04",
+    "brand": "NORTHERN MONK",
+    "channel": "ON TRADE",
+    "hl": 206.4,
+    "venta_neta": 88290.06787109375,
+    "margen_bruto": 38636.53788757324,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-04",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 984.3592089843751,
+    "venta_neta": 156686.96050709486,
+    "margen_bruto": 15709.119971632592,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-04",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": 130.6431863021851,
+    "venta_neta": 12094.078110933302,
+    "margen_bruto": -2860.9880433463713,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-04",
+    "brand": "SABOR",
+    "channel": "OFF TRADE",
+    "hl": 950.4,
+    "venta_neta": 182159.02688598636,
+    "margen_bruto": 26774.505401611343,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-04",
+    "brand": "SAN MARCOS",
+    "channel": "OFF TRADE",
+    "hl": 1194.96958984375,
+    "venta_neta": 226453.61393928528,
+    "margen_bruto": 6022.280054092404,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-04",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 257.875203704834,
+    "venta_neta": 62377.60931015015,
+    "margen_bruto": 1360.796501648,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-04",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 928.1831929016114,
+    "venta_neta": 228197.84325492382,
+    "margen_bruto": 58856.591978566394,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-05",
+    "brand": "#",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -293495.8316068053,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-05",
+    "brand": "#",
+    "channel": "ON TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -98563.15649306774,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-05",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 166.45439996719364,
+    "venta_neta": 42567.09970115684,
+    "margen_bruto": 14047.016043020976,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-05",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 549.8855978393555,
+    "venta_neta": 101296.41042900085,
+    "margen_bruto": 49034.728331981496,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-05",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": 656.8655997657777,
+    "venta_neta": 114285.78636781685,
+    "margen_bruto": 56430.88728945386,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-05",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 512.582405090332,
+    "venta_neta": 181014.75120925903,
+    "margen_bruto": 51602.51367992531,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-05",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": 87.91199239730834,
+    "venta_neta": 57507.48139829561,
+    "margen_bruto": 26789.968367852634,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-05",
+    "brand": "Dummy",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": -114.04999923706055,
+    "margen_bruto": -114.04999923706055,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-05",
+    "brand": "Dummy",
+    "channel": "ON TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -152.9499982725829,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-05",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 22409.55433959962,
+    "venta_neta": 5708833.154040337,
+    "margen_bruto": 742748.0326330932,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-05",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 24897.662357063306,
+    "venta_neta": 5073809.188926617,
+    "margen_bruto": 1444361.092120784,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-05",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 682.2287930297853,
+    "venta_neta": 101427.65935897827,
+    "margen_bruto": 29180.0172335564,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-05",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": 603.2816179084779,
+    "venta_neta": 120006.60070455074,
+    "margen_bruto": 72004.1207969061,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-05",
+    "brand": "GRANDE",
+    "channel": "OFF TRADE",
+    "hl": 1985.3855468749998,
+    "venta_neta": 366391.32751464844,
+    "margen_bruto": -38000.557250976584,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-05",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 19.16640007019043,
+    "venta_neta": 7892.1500396728525,
+    "margen_bruto": 2564.0986395604614,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-05",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": -9.863199882507319,
+    "venta_neta": -4382.049854397774,
+    "margen_bruto": -3237.1233381830934,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-05",
+    "brand": "KIRIN ICHIBAN",
+    "channel": "OFF TRADE",
+    "hl": 42.024799804687504,
+    "venta_neta": 15147.150291442871,
+    "margen_bruto": 3009.251664051715,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-05",
+    "brand": "KIRIN ICHIBAN",
+    "channel": "ON TRADE",
+    "hl": 400.5527973556518,
+    "venta_neta": 116559.24674749374,
+    "margen_bruto": 49337.50191681277,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-05",
+    "brand": "MARK SPENCER",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -7643,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-05",
+    "brand": "NORTHERN MONK",
+    "channel": "ON TRADE",
+    "hl": 179.342399597168,
+    "venta_neta": 64968.80846786499,
+    "margen_bruto": 17700.837996691465,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-05",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 1032.873596420288,
+    "venta_neta": 166612.8616657257,
+    "margen_bruto": 17301.752478890012,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-05",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": -640.9928367233276,
+    "venta_neta": -117339.39388218522,
+    "margen_bruto": -29592.64778919447,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-05",
+    "brand": "SABOR",
+    "channel": "OFF TRADE",
+    "hl": 1166.4,
+    "venta_neta": 227225.2200012207,
+    "margen_bruto": 14823.381378173806,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-05",
+    "brand": "SAN MARCOS",
+    "channel": "OFF TRADE",
+    "hl": 1086.3071875,
+    "venta_neta": 207871.54156494144,
+    "margen_bruto": -16471.162780761704,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-05",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 346.1832043457031,
+    "venta_neta": 87784.96937823296,
+    "margen_bruto": 4776.330749749748,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-05",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 1125.6791949462893,
+    "venta_neta": 262255.8723795414,
+    "margen_bruto": 60683.06768570258,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-06",
+    "brand": "#",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -163085.92887055688,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-06",
+    "brand": "#",
+    "channel": "ON TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": 10163.270027197897,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-06",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 187.28400344848637,
+    "venta_neta": 61786.22115254402,
+    "margen_bruto": 20558.767045076303,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-06",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 1235.520020751953,
+    "venta_neta": 229226.393119812,
+    "margen_bruto": 113512.75338201213,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-06",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": 71.09514324188218,
+    "venta_neta": 11425.237580537796,
+    "margen_bruto": 12626.898892363137,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-06",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 592.574386367798,
+    "venta_neta": 178284.19007492065,
+    "margen_bruto": 26607.934243013544,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-06",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": 99.07919540405273,
+    "venta_neta": 20097.05232413113,
+    "margen_bruto": -13369.815480464657,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-06",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 16337.954797210694,
+    "venta_neta": 3993630.888725996,
+    "margen_bruto": 494115.86974819616,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-06",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 10321.421019115447,
+    "venta_neta": 1368514.595272012,
+    "margen_bruto": 206042.66968237187,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-06",
+    "brand": "ESTRELLA NON-ALCOHOLIC",
+    "channel": "OFF TRADE",
+    "hl": 889.574375,
+    "venta_neta": 138466.396484375,
+    "margen_bruto": 95199.38508628815,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-06",
+    "brand": "ESTRELLA NON-ALCOHOLIC",
+    "channel": "ON TRADE",
+    "hl": 881.02078125,
+    "venta_neta": 181484.484375,
+    "margen_bruto": 126689.16412353517,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-06",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 629.0064025878908,
+    "venta_neta": 61235.460929870605,
+    "margen_bruto": -1804.3212766062861,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-06",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": 435.07440336227404,
+    "venta_neta": 96819.16499380767,
+    "margen_bruto": 50821.34069262142,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-06",
+    "brand": "GRANDE",
+    "channel": "OFF TRADE",
+    "hl": 2781.1871874999997,
+    "venta_neta": 526624.6502838135,
+    "margen_bruto": -6681.467860698658,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-06",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 20.037598419189454,
+    "venta_neta": 4994.260276794434,
+    "margen_bruto": -785.6566220152612,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-06",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": -33.85159952163698,
+    "venta_neta": -13629.820721626282,
+    "margen_bruto": -6011.2392304915065,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-06",
+    "brand": "KIRIN ICHIBAN",
+    "channel": "OFF TRADE",
+    "hl": 34.691200256347656,
+    "venta_neta": 11971.209838867188,
+    "margen_bruto": 1840.8255549509563,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-06",
+    "brand": "KIRIN ICHIBAN",
+    "channel": "ON TRADE",
+    "hl": 27.76639968872085,
+    "venta_neta": 7789.550391703844,
+    "margen_bruto": 11788.815070082066,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-06",
+    "brand": "MARK SPENCER",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -444,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-06",
+    "brand": "NORTHERN MONK",
+    "channel": "ON TRADE",
+    "hl": 408.81599609375,
+    "venta_neta": 175654.29936218262,
+    "margen_bruto": 59928.79515576472,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-06",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 695.3232108306885,
+    "venta_neta": 101499.60807538033,
+    "margen_bruto": 15485.266093094908,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-06",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": 458.1231890869142,
+    "venta_neta": 81064.31181454659,
+    "margen_bruto": 46993.1858390579,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-06",
+    "brand": "SABOR",
+    "channel": "OFF TRADE",
+    "hl": 846.72,
+    "venta_neta": 164804.0735654831,
+    "margen_bruto": 22540.412203788754,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-06",
+    "brand": "SAN MARCOS",
+    "channel": "OFF TRADE",
+    "hl": 1360.02234375,
+    "venta_neta": 257932.04565429693,
+    "margen_bruto": -11981.63518714901,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-06",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 294.86160331726074,
+    "venta_neta": 60454.270347356796,
+    "margen_bruto": -10045.41074668555,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-06",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 601.2311963844302,
+    "venta_neta": 136992.3274680376,
+    "margen_bruto": 22737.054206166486,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-07",
+    "brand": "#",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -170872.70816967823,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-07",
+    "brand": "#",
+    "channel": "ON TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -6974.3701348342,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-07",
+    "brand": "COMPLOT",
+    "channel": "OFF TRADE",
+    "hl": 26.45280029296875,
+    "venta_neta": 5204.240051269531,
+    "margen_bruto": -3725.688820160066,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-07",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 334.71360218048096,
+    "venta_neta": 90059.84795570374,
+    "margen_bruto": 42110.79414478912,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-07",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 1736.7768072509768,
+    "venta_neta": 320249.42042541504,
+    "margen_bruto": 157711.33554284408,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-07",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": 821.1191515350343,
+    "venta_neta": 166672.21312484704,
+    "margen_bruto": 76753.28283300037,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-07",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 460.072794265747,
+    "venta_neta": 149850.80139160156,
+    "margen_bruto": 38447.99317791409,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-07",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": 364.9536032676697,
+    "venta_neta": 133542.81276349723,
+    "margen_bruto": 39630.134426570236,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-07",
+    "brand": "Dummy",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": -57.970001220703125,
+    "margen_bruto": -57.970001220703125,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-07",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 19126.786814422605,
+    "venta_neta": 4688788.223905563,
+    "margen_bruto": 643061.7498034099,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-07",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 29261.861747207644,
+    "venta_neta": 5288983.668339543,
+    "margen_bruto": 1079147.287490236,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-07",
+    "brand": "ESTRELLA NON-ALCOHOLIC",
+    "channel": "OFF TRADE",
+    "hl": 770.1408161544799,
+    "venta_neta": 121003.27911376953,
+    "margen_bruto": 87458.91466192559,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-07",
+    "brand": "ESTRELLA NON-ALCOHOLIC",
+    "channel": "ON TRADE",
+    "hl": 1220.9471875,
+    "venta_neta": 248133.34375,
+    "margen_bruto": 171549.34020996094,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-07",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 711.9288063621522,
+    "venta_neta": 102543.27987575531,
+    "margen_bruto": 25119.108724053873,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-07",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": 774.7008086586003,
+    "venta_neta": 131022.31073610485,
+    "margen_bruto": 44391.02684827091,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-07",
+    "brand": "GRANDE",
+    "channel": "OFF TRADE",
+    "hl": 1771.8624023437499,
+    "venta_neta": 341017.63719177246,
+    "margen_bruto": 3240.2564373016385,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-07",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 7.721999969482423,
+    "venta_neta": 2892.030029296875,
+    "margen_bruto": 717.9643797671297,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-07",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": 72.4211998939514,
+    "venta_neta": 29782.70992565155,
+    "margen_bruto": 10898.378387500023,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-07",
+    "brand": "KIRIN ICHIBAN",
+    "channel": "OFF TRADE",
+    "hl": 289.98639305114745,
+    "venta_neta": 76003.6884765625,
+    "margen_bruto": 14283.63836313444,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-07",
+    "brand": "KIRIN ICHIBAN",
+    "channel": "ON TRADE",
+    "hl": 454.41439718246465,
+    "venta_neta": 151105.03316304088,
+    "margen_bruto": 49020.66118148447,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-07",
+    "brand": "MARK SPENCER",
+    "channel": "OFF TRADE",
+    "hl": 399.0887890625,
+    "venta_neta": 95768.96154785156,
+    "margen_bruto": 24977.160034179684,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-07",
+    "brand": "NORTHERN MONK",
+    "channel": "ON TRADE",
+    "hl": 325.46399734497066,
+    "venta_neta": 115531.61725234985,
+    "margen_bruto": 32447.541525572553,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-07",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 1452.8711946105957,
+    "venta_neta": 218611.40790843964,
+    "margen_bruto": 38123.96826993458,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-07",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": 74.44235733032227,
+    "venta_neta": 17595.593230962753,
+    "margen_bruto": -857.3211862128086,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-07",
+    "brand": "SABOR",
+    "channel": "OFF TRADE",
+    "hl": 1814.4,
+    "venta_neta": 345493.23498535156,
+    "margen_bruto": 50117.21887207028,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-07",
+    "brand": "SAN MARCOS",
+    "channel": "OFF TRADE",
+    "hl": 1471.21921875,
+    "venta_neta": 274582.7471923828,
+    "margen_bruto": -8614.769062042229,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-07",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 391.2479988861084,
+    "venta_neta": 87802.02945137024,
+    "margen_bruto": -6831.771622534551,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-07",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 1011.1103910446167,
+    "venta_neta": 242852.27065873146,
+    "margen_bruto": 65203.414582198435,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-08",
+    "brand": "#",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -145795.63965065032,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-08",
+    "brand": "#",
+    "channel": "ON TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": 60018.65324449539,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-08",
+    "brand": "COMPLOT",
+    "channel": "OFF TRADE",
+    "hl": 6.17760009765625,
+    "venta_neta": 1216.9199981689453,
+    "margen_bruto": -867.4396667578606,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-08",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 200.0304005813599,
+    "venta_neta": 48588.100368499756,
+    "margen_bruto": 16809.688031307523,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-08",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 1258.0919911956787,
+    "venta_neta": 220077.05791259743,
+    "margen_bruto": 101770.54726098866,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-08",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": 1292.5944193840032,
+    "venta_neta": 259664.96249789,
+    "margen_bruto": 135292.09658045808,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-08",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 281.47680328369137,
+    "venta_neta": 92597.9912185669,
+    "margen_bruto": 23428.99600200394,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-08",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": 390.37680183410646,
+    "venta_neta": 137220.1667071283,
+    "margen_bruto": 48571.96199624367,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-08",
+    "brand": "Dummy",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": 20471.570739746094,
+    "margen_bruto": 20471.570739746094,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-08",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 17139.49825851441,
+    "venta_neta": 4178400.2398929596,
+    "margen_bruto": 571327.2102411008,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-08",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 16302.770666503904,
+    "venta_neta": 2343394.5300288796,
+    "margen_bruto": 151498.17653579803,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-08",
+    "brand": "ESTRELLA NON-ALCOHOLIC",
+    "channel": "OFF TRADE",
+    "hl": 671.932797088623,
+    "venta_neta": 104434.32186698914,
+    "margen_bruto": 71506.89613041973,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-08",
+    "brand": "ESTRELLA NON-ALCOHOLIC",
+    "channel": "ON TRADE",
+    "hl": 607.2671875,
+    "venta_neta": 151896.6755065918,
+    "margen_bruto": 123514.43761193396,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-08",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 387.9215991210937,
+    "venta_neta": 54306.769565582275,
+    "margen_bruto": 11638.903313231613,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-08",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": -31.602417030334628,
+    "venta_neta": -14565.612492024899,
+    "margen_bruto": -29951.574325439753,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-08",
+    "brand": "GRANDE",
+    "channel": "OFF TRADE",
+    "hl": 1786.4351855468751,
+    "venta_neta": 335272.9961929321,
+    "margen_bruto": 6985.402244567879,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-08",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 5.623199996948242,
+    "venta_neta": 1987.01997756958,
+    "margen_bruto": 405.92830123054597,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-08",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": 118.74600267410275,
+    "venta_neta": 46300.5373673439,
+    "margen_bruto": 16676.451623382603,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-08",
+    "brand": "KIRIN ICHIBAN",
+    "channel": "OFF TRADE",
+    "hl": 242.8016015625,
+    "venta_neta": 62509.82066345215,
+    "margen_bruto": 12283.178043416474,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-08",
+    "brand": "KIRIN ICHIBAN",
+    "channel": "ON TRADE",
+    "hl": 446.0439829635619,
+    "venta_neta": 140001.99223279953,
+    "margen_bruto": 61900.71051942395,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-08",
+    "brand": "MARK SPENCER",
+    "channel": "OFF TRADE",
+    "hl": 380.16,
+    "venta_neta": 93769.50117492676,
+    "margen_bruto": 17302.970565795902,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-08",
+    "brand": "NORTHERN MONK",
+    "channel": "ON TRADE",
+    "hl": 149.50800170898435,
+    "venta_neta": 18285.941549301147,
+    "margen_bruto": -9037.355654509634,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-08",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 622.5824114227295,
+    "venta_neta": 88461.58920906112,
+    "margen_bruto": 12046.651327900561,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-08",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": 55.79917575836179,
+    "venta_neta": 16153.450659751896,
+    "margen_bruto": 22831.367029834546,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-08",
+    "brand": "SABOR",
+    "channel": "OFF TRADE",
+    "hl": 1054.08,
+    "venta_neta": 200821.5165710449,
+    "margen_bruto": 30670.437225341764,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-08",
+    "brand": "SAN MARCOS",
+    "channel": "OFF TRADE",
+    "hl": 2095.63203125,
+    "venta_neta": 389151.17004394537,
+    "margen_bruto": -10059.67041015623,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-08",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 222.78959648132326,
+    "venta_neta": 51861.94039297104,
+    "margen_bruto": -2388.3073499436473,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-08",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 550.418394985199,
+    "venta_neta": 122467.99550843239,
+    "margen_bruto": 34937.51187108888,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-09",
+    "brand": "#",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -26003.910343810916,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-09",
+    "brand": "#",
+    "channel": "ON TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -20980.110599879175,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-09",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 24.203999671936025,
+    "venta_neta": 1822.5996952056885,
+    "margen_bruto": -3938.0659437787817,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-09",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 1310.5224258422852,
+    "venta_neta": 258494.54071044922,
+    "margen_bruto": 141731.57887506497,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-09",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": 531.7799744224546,
+    "venta_neta": 111147.10177798197,
+    "margen_bruto": 63179.136532538,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-09",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 408.43439758300786,
+    "venta_neta": 141093.18003082275,
+    "margen_bruto": 40259.13404366093,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-09",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": -13.384794502258234,
+    "venta_neta": -3732.321224764003,
+    "margen_bruto": -10916.15629195992,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-09",
+    "brand": "Dummy",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": -90.6500015258789,
+    "margen_bruto": -90.6500015258789,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-09",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 17915.39197021485,
+    "venta_neta": 4443385.500013351,
+    "margen_bruto": 652054.0169460014,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-09",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 21789.39934619904,
+    "venta_neta": 4134398.103353951,
+    "margen_bruto": 898297.28587012,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-09",
+    "brand": "ESTRELLA NON-ALCOHOLIC",
+    "channel": "OFF TRADE",
+    "hl": 1426.0223712921143,
+    "venta_neta": 228768.05311107635,
+    "margen_bruto": 167506.6302992354,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-09",
+    "brand": "ESTRELLA NON-ALCOHOLIC",
+    "channel": "ON TRADE",
+    "hl": -147.228828125,
+    "venta_neta": -131812.97980499268,
+    "margen_bruto": -96259.68177251394,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-09",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 273.63599700927733,
+    "venta_neta": 44668.44982433319,
+    "margen_bruto": 14374.155498487868,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-09",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": 655.7944029617312,
+    "venta_neta": 115793.12232697196,
+    "margen_bruto": 61183.29662505732,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-09",
+    "brand": "GRANDE",
+    "channel": "OFF TRADE",
+    "hl": 1823.8175781250002,
+    "venta_neta": 334608.81765747076,
+    "margen_bruto": -21882.354217529235,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-09",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 2.613600006103516,
+    "venta_neta": 890.7700052261353,
+    "margen_bruto": 155.14335403162727,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-09",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": -20.425200099945084,
+    "venta_neta": -4790.1504892110825,
+    "margen_bruto": -2790.4111546216077,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-09",
+    "brand": "KIRIN ICHIBAN",
+    "channel": "OFF TRADE",
+    "hl": 410.4151906585693,
+    "venta_neta": 102608.89097595215,
+    "margen_bruto": 26151.067472742805,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-09",
+    "brand": "KIRIN ICHIBAN",
+    "channel": "ON TRADE",
+    "hl": 573.3167847442626,
+    "venta_neta": 156886.1086370945,
+    "margen_bruto": 44280.46559624334,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-09",
+    "brand": "MARK SPENCER",
+    "channel": "OFF TRADE",
+    "hl": 278.78400390625,
+    "venta_neta": 68214.44958496094,
+    "margen_bruto": 11563.969421386717,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-09",
+    "brand": "NORTHERN MONK",
+    "channel": "ON TRADE",
+    "hl": 178.35119567871098,
+    "venta_neta": 62292.51091361046,
+    "margen_bruto": 21328.25308233886,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-09",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 787.6176022338867,
+    "venta_neta": 124030.99911403656,
+    "margen_bruto": 21213.298364834383,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-09",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": -77.82799095153803,
+    "venta_neta": -17386.971137046814,
+    "margen_bruto": 2509.5890431937305,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-09",
+    "brand": "SABOR",
+    "channel": "OFF TRADE",
+    "hl": 1382.4,
+    "venta_neta": 261644.80531311035,
+    "margen_bruto": 25712.013809204105,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-09",
+    "brand": "SAN MARCOS",
+    "channel": "OFF TRADE",
+    "hl": 2395.00796875,
+    "venta_neta": 443090.72314453125,
+    "margen_bruto": -25310.622558593728,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-09",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 267.30000076293953,
+    "venta_neta": 68599.11988639832,
+    "margen_bruto": 4378.24762816212,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-09",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 1117.0415945434574,
+    "venta_neta": 271530.38637441397,
+    "margen_bruto": 71594.20478085821,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-10",
+    "brand": "#",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -216996.57324409485,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-10",
+    "brand": "#",
+    "channel": "ON TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -32268.970436500385,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-10",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 56.52480012893677,
+    "venta_neta": 11012.718853473663,
+    "margen_bruto": 384.6586606307835,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-10",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 544.1040065765382,
+    "venta_neta": 91021.12150764465,
+    "margen_bruto": 42425.35659709634,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-10",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": 213.7752170181274,
+    "venta_neta": 36307.1782206744,
+    "margen_bruto": 7987.121313590845,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-10",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 338.6591981506347,
+    "venta_neta": 114752.41908836365,
+    "margen_bruto": 30395.356172920045,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-10",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": 453.49916427612294,
+    "venta_neta": 162354.4729809761,
+    "margen_bruto": 50189.839068374415,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-10",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 15126.451874389657,
+    "venta_neta": 3704076.440782368,
+    "margen_bruto": 427524.16326646385,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-10",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 15985.277323513033,
+    "venta_neta": 2935696.6995485798,
+    "margen_bruto": 530779.3199355989,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-10",
+    "brand": "ESTRELLA NON-ALCOHOLIC",
+    "channel": "OFF TRADE",
+    "hl": 1327.603189086914,
+    "venta_neta": 203844.97746658325,
+    "margen_bruto": 153599.4305498266,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-10",
+    "brand": "ESTRELLA NON-ALCOHOLIC",
+    "channel": "ON TRADE",
+    "hl": 566.9792187499997,
+    "venta_neta": 102757.52149963379,
+    "margen_bruto": 82280.66323364338,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-10",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 240.68880012512204,
+    "venta_neta": 36415.61952114105,
+    "margen_bruto": 8762.170226837972,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-10",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": 258.1127966308593,
+    "venta_neta": 48774.7436901927,
+    "margen_bruto": 20154.800752632655,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-10",
+    "brand": "GRANDE",
+    "channel": "OFF TRADE",
+    "hl": 1991.088046875,
+    "venta_neta": 362820.61204528814,
+    "margen_bruto": -10456.59319305416,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-10",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 7.365599975585938,
+    "venta_neta": 2647.46999168396,
+    "margen_bruto": 594.5105433374896,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-10",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": -94.88239910125736,
+    "venta_neta": -22478.459794044495,
+    "margen_bruto": -14123.721221484535,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-10",
+    "brand": "KIRIN ICHIBAN",
+    "channel": "OFF TRADE",
+    "hl": 973.094405822754,
+    "venta_neta": 245562.47166252136,
+    "margen_bruto": 65661.19243581116,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-10",
+    "brand": "KIRIN ICHIBAN",
+    "channel": "ON TRADE",
+    "hl": 487.56638113021853,
+    "venta_neta": 160817.50823981315,
+    "margen_bruto": 57776.672109905085,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-10",
+    "brand": "MARK SPENCER",
+    "channel": "OFF TRADE",
+    "hl": 38.0160009765625,
+    "venta_neta": 9342.170120239258,
+    "margen_bruto": -299.8697433471675,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-10",
+    "brand": "NORTHERN MONK",
+    "channel": "ON TRADE",
+    "hl": 297.01439987182613,
+    "venta_neta": 84753.00846491754,
+    "margen_bruto": 24907.826784724755,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-10",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 458.06639060974123,
+    "venta_neta": 67964.09141254425,
+    "margen_bruto": 12845.087260147608,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-10",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": 135.90156920909882,
+    "venta_neta": 14918.801274895668,
+    "margen_bruto": 2945.8740537981002,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-10",
+    "brand": "SABOR",
+    "channel": "OFF TRADE",
+    "hl": 794.88,
+    "venta_neta": 150470.44827270508,
+    "margen_bruto": 11073.331573486335,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-10",
+    "brand": "SAN MARCOS",
+    "channel": "OFF TRADE",
+    "hl": 1736.38078125,
+    "venta_neta": 322020.6096801758,
+    "margen_bruto": -14715.403625488309,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-10",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 225.64080017089847,
+    "venta_neta": 55289.74021720886,
+    "margen_bruto": 1486.0872061245623,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-10",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 697.3655955123904,
+    "venta_neta": 157312.21117947996,
+    "margen_bruto": 21511.26071642692,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-11",
+    "brand": "#",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": 271463.64988312125,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-11",
+    "brand": "#",
+    "channel": "ON TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -8019.7195964399725,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-11",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 125.28720001220704,
+    "venta_neta": 31566.210326075554,
+    "margen_bruto": 11583.155172167364,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-11",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 516.3047936248779,
+    "venta_neta": 94089.8097858429,
+    "margen_bruto": 39142.01412340675,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-11",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": -48.47997268676756,
+    "venta_neta": -15529.701917119324,
+    "margen_bruto": -11119.307822321867,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-11",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 392.7527880859375,
+    "venta_neta": 124882.15108680725,
+    "margen_bruto": 21724.15463552639,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-11",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": 404.5535594177245,
+    "venta_neta": 144467.195094347,
+    "margen_bruto": 48396.79243376221,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-11",
+    "brand": "Dummy",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": -137.26000022888184,
+    "margen_bruto": -137.26000022888184,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-11",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 15450.683715820322,
+    "venta_neta": 3762445.8643274307,
+    "margen_bruto": 273881.1475708888,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-11",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 14820.423761329646,
+    "venta_neta": 2275092.7451846804,
+    "margen_bruto": 442989.46071982285,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-11",
+    "brand": "ESTRELLA NON-ALCOHOLIC",
+    "channel": "OFF TRADE",
+    "hl": 1115.7696130371094,
+    "venta_neta": 171042.60873413086,
+    "margen_bruto": 108233.28807391819,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-11",
+    "brand": "ESTRELLA NON-ALCOHOLIC",
+    "channel": "ON TRADE",
+    "hl": 1621.5343164062501,
+    "venta_neta": 155574.82147407532,
+    "margen_bruto": 73675.78645987013,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-11",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 199.5839987182617,
+    "venta_neta": 32192.570240020752,
+    "margen_bruto": 12247.32728331285,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-11",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": -155.15279582977286,
+    "venta_neta": -30758.270658910275,
+    "margen_bruto": -24503.76472070729,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-11",
+    "brand": "GRANDE",
+    "channel": "OFF TRADE",
+    "hl": 2010.729609375,
+    "venta_neta": 367329.9875564575,
+    "margen_bruto": -4330.988578796366,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-11",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 15.192000045776366,
+    "venta_neta": 3682.1899394989014,
+    "margen_bruto": -603.7780581462372,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-11",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": -15.44039888381959,
+    "venta_neta": -6277.89001083374,
+    "margen_bruto": -3378.8915611897414,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-11",
+    "brand": "KIRIN ICHIBAN",
+    "channel": "OFF TRADE",
+    "hl": 421.2223928070068,
+    "venta_neta": 98447.67938423157,
+    "margen_bruto": 16687.10945668278,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-11",
+    "brand": "KIRIN ICHIBAN",
+    "channel": "ON TRADE",
+    "hl": 189.13359706878663,
+    "venta_neta": 30621.380678653717,
+    "margen_bruto": -6230.42317549942,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-11",
+    "brand": "MARK SPENCER",
+    "channel": "OFF TRADE",
+    "hl": 435.04561035156246,
+    "venta_neta": 102372.34057617188,
+    "margen_bruto": 24798.889801025394,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-11",
+    "brand": "NORTHERN MONK",
+    "channel": "ON TRADE",
+    "hl": 227.92320014953614,
+    "venta_neta": 57252.930836200714,
+    "margen_bruto": 12893.71247625071,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-11",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 386.17919586181637,
+    "venta_neta": 58731.060092926025,
+    "margen_bruto": 5338.97947270443,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-11",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": 1151.0431558609007,
+    "venta_neta": 200569.3069343567,
+    "margen_bruto": 86304.06202328617,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-11",
+    "brand": "SABOR",
+    "channel": "OFF TRADE",
+    "hl": 1344.3839843750002,
+    "venta_neta": 251145.00213623047,
+    "margen_bruto": 17386.57666015624,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-11",
+    "brand": "SAN MARCOS",
+    "channel": "OFF TRADE",
+    "hl": 2095.63203125,
+    "venta_neta": 381915.7338809967,
+    "margen_bruto": -17689.48004722593,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-11",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 195.8615964126587,
+    "venta_neta": 47877.10932922363,
+    "margen_bruto": -2374.152406182775,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-11",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 718.1663990402222,
+    "venta_neta": 160048.4274252653,
+    "margen_bruto": 42965.06975167926,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-12",
+    "brand": "#",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -254074.0767307654,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-12",
+    "brand": "#",
+    "channel": "ON TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": 127963.6313922666,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-12",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 249.30720027923584,
+    "venta_neta": 63851.598690748215,
+    "margen_bruto": 22494.213866352315,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-12",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 1056.5280075073242,
+    "venta_neta": 210362.6195616722,
+    "margen_bruto": 97313.34132721301,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-12",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": -356.4455764770509,
+    "venta_neta": -85232.77540704422,
+    "margen_bruto": -29046.99982754442,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-12",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 527.4719937133789,
+    "venta_neta": 185237.48852663863,
+    "margen_bruto": 39923.20276549915,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-12",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": -184.93202287673944,
+    "venta_neta": -59857.876740038424,
+    "margen_bruto": -19619.061526026675,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-12",
+    "brand": "Dummy",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": -438.92998695373535,
+    "margen_bruto": -438.92998695373535,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-12",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 18025.69552719117,
+    "venta_neta": 4576338.090553507,
+    "margen_bruto": 239415.54811305637,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-12",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 13184.67806402206,
+    "venta_neta": 1810987.0816443167,
+    "margen_bruto": 823567.8055988702,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-12",
+    "brand": "ESTRELLA NON-ALCOHOLIC",
+    "channel": "OFF TRADE",
+    "hl": 2231.6447497558597,
+    "venta_neta": 355835.57685279846,
+    "margen_bruto": 216693.1668145557,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-12",
+    "brand": "ESTRELLA NON-ALCOHOLIC",
+    "channel": "ON TRADE",
+    "hl": -908.5479831886291,
+    "venta_neta": -55302.73807948828,
+    "margen_bruto": 56972.3675845429,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-12",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 230.6303911590576,
+    "venta_neta": 71580.60053443909,
+    "margen_bruto": 43881.26182441125,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-12",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": -233.32320112228422,
+    "venta_neta": -57705.52926249802,
+    "margen_bruto": -41826.59067310311,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-12",
+    "brand": "GRANDE",
+    "channel": "OFF TRADE",
+    "hl": 1144.2816015624999,
+    "venta_neta": 211427.5140991211,
+    "margen_bruto": -7120.408447265625,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-12",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 8.593199920654296,
+    "venta_neta": 3604.589991569519,
+    "margen_bruto": 705.0254709649894,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-12",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": -8.85240139007569,
+    "venta_neta": -3114.009913057089,
+    "margen_bruto": -2402.945665146867,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-12",
+    "brand": "KIRIN ICHIBAN",
+    "channel": "OFF TRADE",
+    "hl": 473.81519187927245,
+    "venta_neta": 130508.43859386444,
+    "margen_bruto": 40320.95767429382,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-12",
+    "brand": "KIRIN ICHIBAN",
+    "channel": "ON TRADE",
+    "hl": 1265.8032206726075,
+    "venta_neta": 351368.95477782935,
+    "margen_bruto": 96431.5993233486,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-12",
+    "brand": "MARK SPENCER",
+    "channel": "OFF TRADE",
+    "hl": 311.49359375,
+    "venta_neta": 73504.06958007812,
+    "margen_bruto": 22515.45045471191,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-12",
+    "brand": "NORTHERN MONK",
+    "channel": "ON TRADE",
+    "hl": 448.62960117340106,
+    "venta_neta": 76234.92656472325,
+    "margen_bruto": -18141.247367990705,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-12",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 514.5095988464357,
+    "venta_neta": 116887.7501937151,
+    "margen_bruto": 48085.242113000284,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-12",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": -123.21600234985355,
+    "venta_neta": -32364.99318832159,
+    "margen_bruto": -8504.153316348154,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-12",
+    "brand": "SABOR",
+    "channel": "OFF TRADE",
+    "hl": 821.145625,
+    "venta_neta": 155832.34771728516,
+    "margen_bruto": 8155.129608154288,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-12",
+    "brand": "SAN MARCOS",
+    "channel": "OFF TRADE",
+    "hl": 1009.324765625,
+    "venta_neta": 187183.37030029297,
+    "margen_bruto": -12638.261657714842,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-12",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 239.7383963775635,
+    "venta_neta": 60193.609207868576,
+    "margen_bruto": -2566.2124429214764,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2025-12",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 980.6303998565672,
+    "venta_neta": 213479.34828931093,
+    "margen_bruto": 42177.29987892804,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-01",
+    "brand": "#",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -40959.699551440775,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-01",
+    "brand": "#",
+    "channel": "ON TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -33063.99094175175,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-01",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 96.15599853515624,
+    "venta_neta": 32879.859500437975,
+    "margen_bruto": 11026.400207621975,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-01",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 389.188794555664,
+    "venta_neta": 69527.90158081055,
+    "margen_bruto": 27513.911662101746,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-01",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": 380.12644147872925,
+    "venta_neta": 75982.39061522484,
+    "margen_bruto": 31321.498228386045,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-01",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 249.4799963378906,
+    "venta_neta": 87522.71936035156,
+    "margen_bruto": 24249.329025745392,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-01",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": 181.0511924362183,
+    "venta_neta": 65744.27565956116,
+    "margen_bruto": 15183.594865389168,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-01",
+    "brand": "Dummy",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": -63.36000061035156,
+    "margen_bruto": -63.36000061035156,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-01",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 9396.364912185669,
+    "venta_neta": 2320807.6503009796,
+    "margen_bruto": 397479.9920396804,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-01",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 6779.848750095367,
+    "venta_neta": 1499460.4873867035,
+    "margen_bruto": 200501.9940027277,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-01",
+    "brand": "ESTRELLA NON-ALCOHOLIC",
+    "channel": "OFF TRADE",
+    "hl": 1321.055994567871,
+    "venta_neta": 207885.67408370972,
+    "margen_bruto": 126029.04322481155,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-01",
+    "brand": "ESTRELLA NON-ALCOHOLIC",
+    "channel": "ON TRADE",
+    "hl": -11.294267654419098,
+    "venta_neta": 26886.712250232693,
+    "margen_bruto": 11759.589701417824,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-01",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 321.5520068359375,
+    "venta_neta": 56387.42724609375,
+    "margen_bruto": 21923.356910705566,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-01",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": -321.78960205078124,
+    "venta_neta": -60187.05969238281,
+    "margen_bruto": -34313.000409305096,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-01",
+    "brand": "GRANDE",
+    "channel": "OFF TRADE",
+    "hl": 1494.97921875,
+    "venta_neta": 282109.51905822754,
+    "margen_bruto": -1419.3027191162041,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-01",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 5.385599975585938,
+    "venta_neta": 2112.8799839019775,
+    "margen_bruto": 636.4299974441528,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-01",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": 100.89480043411255,
+    "venta_neta": 33771.129271030426,
+    "margen_bruto": 7550.238566659391,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-01",
+    "brand": "KIRIN ICHIBAN",
+    "channel": "OFF TRADE",
+    "hl": 372.1887965393066,
+    "venta_neta": 96869.32258605957,
+    "margen_bruto": 24151.861958026886,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-01",
+    "brand": "KIRIN ICHIBAN",
+    "channel": "ON TRADE",
+    "hl": 285.18639917373656,
+    "venta_neta": 80231.07416850328,
+    "margen_bruto": 39023.51407687365,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-01",
+    "brand": "MARK SPENCER",
+    "channel": "OFF TRADE",
+    "hl": 411.602421875,
+    "venta_neta": 101570.63745117188,
+    "margen_bruto": 12429.038532257084,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-01",
+    "brand": "NORTHERN MONK",
+    "channel": "ON TRADE",
+    "hl": -7.1976002502441565,
+    "venta_neta": -13485.499063491821,
+    "margen_bruto": -11223.61856481433,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-01",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 294.94079345703125,
+    "venta_neta": 47416.75994491577,
+    "margen_bruto": 11044.11018371582,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-01",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": -223.90559745788576,
+    "venta_neta": -41932.3833398819,
+    "margen_bruto": -17366.21374770254,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-01",
+    "brand": "SABOR",
+    "channel": "OFF TRADE",
+    "hl": 393.4655859375,
+    "venta_neta": 72706.06199645996,
+    "margen_bruto": 3074.3000335693323,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-01",
+    "brand": "SAN MARCOS",
+    "channel": "OFF TRADE",
+    "hl": 1539.64796875,
+    "venta_neta": 286496.6343612671,
+    "margen_bruto": -10151.237815856919,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-01",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 189.05040008544924,
+    "venta_neta": 47513.9097070694,
+    "margen_bruto": 3283.6404609680185,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-01",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 290.62799530029287,
+    "venta_neta": 66602.94487667084,
+    "margen_bruto": 3272.0447226688357,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-02",
+    "brand": "#",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -78621.1087165419,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-02",
+    "brand": "#",
+    "channel": "ON TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -19476.229652898386,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-02",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": -30.302402038574215,
+    "venta_neta": 6873.900388717651,
+    "margen_bruto": 2455.6812939923307,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-02",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 749.7863941955567,
+    "venta_neta": 142444.5779685974,
+    "margen_bruto": 26553.838220477104,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-02",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": 812.5752066802984,
+    "venta_neta": 167540.75451356918,
+    "margen_bruto": 90076.47473868354,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-02",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 321.86879524230955,
+    "venta_neta": 111860.51175689697,
+    "margen_bruto": 21647.070876002308,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-02",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": 120.0672166061401,
+    "venta_neta": 37477.94007445872,
+    "margen_bruto": 6905.328745139754,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-02",
+    "brand": "Dummy",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": -72.22000122070312,
+    "margen_bruto": -72.22000122070312,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-02",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 10901.349840087896,
+    "venta_neta": 2635849.6186456084,
+    "margen_bruto": 193053.35005681776,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-02",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 12121.889120769503,
+    "venta_neta": 2280996.93735981,
+    "margen_bruto": 593977.2026505251,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-02",
+    "brand": "ESTRELLA NON-ALCOHOLIC",
+    "channel": "OFF TRADE",
+    "hl": 1386.712808532715,
+    "venta_neta": 216124.19730377197,
+    "margen_bruto": 64610.28934490681,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-02",
+    "brand": "ESTRELLA NON-ALCOHOLIC",
+    "channel": "ON TRADE",
+    "hl": 2030.9575349044812,
+    "venta_neta": 386329.5923919678,
+    "margen_bruto": 266171.9795859307,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-02",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 187.387197265625,
+    "venta_neta": 26029.748876929283,
+    "margen_bruto": 170.14851224422273,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-02",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": -188.49599609375,
+    "venta_neta": -34716.8588180542,
+    "margen_bruto": -15021.27862710506,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-02",
+    "brand": "GRANDE",
+    "channel": "OFF TRADE",
+    "hl": 1303.6319921875001,
+    "venta_neta": 254718.88136291504,
+    "margen_bruto": 2901.150756835917,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-02",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 5.543999938964844,
+    "venta_neta": 1514.8500385284424,
+    "margen_bruto": -22.23998737335218,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-02",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": -5.144000778198237,
+    "venta_neta": -1779.7099409103394,
+    "margen_bruto": -821.0600008890037,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-02",
+    "brand": "KIRIN ICHIBAN",
+    "channel": "OFF TRADE",
+    "hl": 359.22479064941405,
+    "venta_neta": 86663.70030975342,
+    "margen_bruto": 12007.85892820358,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-02",
+    "brand": "KIRIN ICHIBAN",
+    "channel": "ON TRADE",
+    "hl": 196.21202548980705,
+    "venta_neta": 105748.21426343918,
+    "margen_bruto": 34347.01238483189,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-02",
+    "brand": "MARK SPENCER",
+    "channel": "OFF TRADE",
+    "hl": 664.329609375,
+    "venta_neta": 160107.69946289062,
+    "margen_bruto": 41831.692630767815,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-02",
+    "brand": "NORTHERN MONK",
+    "channel": "ON TRADE",
+    "hl": 106.34400001525879,
+    "venta_neta": 20860.46881389618,
+    "margen_bruto": -8239.071556419134,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-02",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 443.2823898315429,
+    "venta_neta": 67685.48002794385,
+    "margen_bruto": 9198.540606200702,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-02",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": -351.15119396209707,
+    "venta_neta": -56578.714790821075,
+    "margen_bruto": -17940.58343620412,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-02",
+    "brand": "SABOR",
+    "channel": "OFF TRADE",
+    "hl": 487.555234375,
+    "venta_neta": 89675.7629699707,
+    "margen_bruto": 11037.758819580082,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-02",
+    "brand": "SAN MARCOS",
+    "channel": "OFF TRADE",
+    "hl": 1043.53921875,
+    "venta_neta": 197634.08673095703,
+    "margen_bruto": -12188.824523925789,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-02",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 170.04239196777343,
+    "venta_neta": 42600.519634246826,
+    "margen_bruto": -4091.4602644741517,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-02",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 92.70720348358162,
+    "venta_neta": 22742.483907699585,
+    "margen_bruto": 3483.8540158215983,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-02",
+    "brand": "VICTORIA LOW",
+    "channel": "ON TRADE",
+    "hl": 783.0000000000001,
+    "venta_neta": 203722.4168357849,
+    "margen_bruto": 96748.7665708363,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-03",
+    "brand": "#",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -122836.2307844162,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-03",
+    "brand": "#",
+    "channel": "ON TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -17330.35984332487,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-03",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 94.8000001144409,
+    "venta_neta": 25672.41952896118,
+    "margen_bruto": 8360.660333227366,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-03",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 1418.0561903381347,
+    "venta_neta": 266248.7880206108,
+    "margen_bruto": 60902.09815302491,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-03",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": 2797.4089701080325,
+    "venta_neta": 639956.3746965304,
+    "margen_bruto": 348505.6094848793,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-03",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 421.2648091888427,
+    "venta_neta": 143670.94087600708,
+    "margen_bruto": 29237.993875384316,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-03",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": 519.9480330085755,
+    "venta_neta": 193781.17229235172,
+    "margen_bruto": 67975.49329981956,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-03",
+    "brand": "Dummy",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": -92.84000015258789,
+    "margen_bruto": -92.84000015258789,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-03",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 17246.741472167974,
+    "venta_neta": 4300980.059417725,
+    "margen_bruto": 534363.8954274058,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-03",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 28648.618429508206,
+    "venta_neta": 5741852.621648788,
+    "margen_bruto": 1302842.387179477,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-03",
+    "brand": "ESTRELLA NON-ALCOHOLIC",
+    "channel": "OFF TRADE",
+    "hl": 2314.50558227539,
+    "venta_neta": 360973.4620819092,
+    "margen_bruto": 151242.86099791527,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-03",
+    "brand": "ESTRELLA NON-ALCOHOLIC",
+    "channel": "ON TRADE",
+    "hl": 1363.760040493012,
+    "venta_neta": 290387.72521305084,
+    "margen_bruto": 197321.49304841267,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-03",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": -1697.2599487304688,
+    "margen_bruto": -1697.2599487304688,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-03",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": 99.07920299530029,
+    "venta_neta": 19681.630157470703,
+    "margen_bruto": 13026.420045137404,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-03",
+    "brand": "GRANDE",
+    "channel": "OFF TRADE",
+    "hl": 2877.1778125,
+    "venta_neta": 552806.1028137207,
+    "margen_bruto": 7589.994293212867,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-03",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 6.087600097656249,
+    "venta_neta": 1961.800006866455,
+    "margen_bruto": 218.60998892784136,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-03",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": 27.31319953918457,
+    "venta_neta": 11746.760305643082,
+    "margen_bruto": 4326.29021678865,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-03",
+    "brand": "KIRIN ICHIBAN",
+    "channel": "OFF TRADE",
+    "hl": 602.0031910705566,
+    "venta_neta": 152045.63549423218,
+    "margen_bruto": 24164.8440388441,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-03",
+    "brand": "KIRIN ICHIBAN",
+    "channel": "ON TRADE",
+    "hl": 562.987995300293,
+    "venta_neta": 184869.9931344986,
+    "margen_bruto": 73898.9287846405,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-03",
+    "brand": "MARK SPENCER",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": 408,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-03",
+    "brand": "NORTHERN MONK",
+    "channel": "ON TRADE",
+    "hl": 422.5728011703492,
+    "venta_neta": 125221.79584050179,
+    "margen_bruto": 21909.207864224907,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-03",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 850.1327932739258,
+    "venta_neta": 115604.18203735352,
+    "margen_bruto": -3664.6980547904973,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-03",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": 178.9344023513794,
+    "venta_neta": 35039.10792326927,
+    "margen_bruto": 23211.429882891476,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-03",
+    "brand": "SABOR",
+    "channel": "OFF TRADE",
+    "hl": 804.0384375,
+    "venta_neta": 159547.3424987793,
+    "margen_bruto": 18669.68795776368,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-03",
+    "brand": "SAN MARCOS",
+    "channel": "OFF TRADE",
+    "hl": 2583.1875,
+    "venta_neta": 494319.6493835449,
+    "margen_bruto": -25850.904571533192,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-03",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 253.12320190429688,
+    "venta_neta": 64040.96010398865,
+    "margen_bruto": -590.4202493429158,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-03",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": 294.54477745056147,
+    "venta_neta": 84750.90713304281,
+    "margen_bruto": 26072.900515154004,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-03",
+    "brand": "VICTORIA LOW",
+    "channel": "ON TRADE",
+    "hl": 729.3000000000001,
+    "venta_neta": 149034.02827453613,
+    "margen_bruto": 25161.17739287205,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-04",
+    "brand": "#",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -128600.72944521904,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-04",
+    "brand": "#",
+    "channel": "ON TRADE",
+    "hl": 0,
+    "venta_neta": 0,
+    "margen_bruto": -45736.861459815875,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-04",
+    "brand": "COMPLOT",
+    "channel": "OFF TRADE",
+    "hl": 5.068800048828125,
+    "venta_neta": 953.4899826049805,
+    "margen_bruto": -996.3500156402587,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-04",
+    "brand": "COMPLOT",
+    "channel": "ON TRADE",
+    "hl": 189.04560020446775,
+    "venta_neta": 60262.60129547119,
+    "margen_bruto": 24972.17057171836,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-04",
+    "brand": "CORELLI",
+    "channel": "OFF TRADE",
+    "hl": 222.39359375,
+    "venta_neta": 42956.759765625,
+    "margen_bruto": 1450.849868774414,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-04",
+    "brand": "DAMM LEMON",
+    "channel": "OFF TRADE",
+    "hl": 2272.6638523864744,
+    "venta_neta": 409957.2857608795,
+    "margen_bruto": 53024.85109639166,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-04",
+    "brand": "DAMM LEMON",
+    "channel": "ON TRADE",
+    "hl": 2722.963936004638,
+    "venta_neta": 633891.7116003036,
+    "margen_bruto": 384138.0239706766,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-04",
+    "brand": "DAURA",
+    "channel": "OFF TRADE",
+    "hl": 179.22959625244138,
+    "venta_neta": 51930.81060600281,
+    "margen_bruto": 912.8407728970074,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-04",
+    "brand": "DAURA",
+    "channel": "ON TRADE",
+    "hl": 1009.4039422988894,
+    "venta_neta": 361784.2116422653,
+    "margen_bruto": 128130.5563827306,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-04",
+    "brand": "Dummy",
+    "channel": "OFF TRADE",
+    "hl": 0,
+    "venta_neta": -672.9300231933594,
+    "margen_bruto": -672.9300231933594,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-04",
+    "brand": "ESTRELLA DAMM",
+    "channel": "OFF TRADE",
+    "hl": 18619.416342697143,
+    "venta_neta": 4576247.559327602,
+    "margen_bruto": 441320.5970387459,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-04",
+    "brand": "ESTRELLA DAMM",
+    "channel": "ON TRADE",
+    "hl": 20239.50459257126,
+    "venta_neta": 3741087.980312044,
+    "margen_bruto": 1146720.6860021257,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-04",
+    "brand": "ESTRELLA NON-ALCOHOLIC",
+    "channel": "OFF TRADE",
+    "hl": 1719.3527545166014,
+    "venta_neta": 269215.8039512634,
+    "margen_bruto": 85283.72626924516,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-04",
+    "brand": "ESTRELLA NON-ALCOHOLIC",
+    "channel": "ON TRADE",
+    "hl": 981.4551291656493,
+    "venta_neta": 178778.3045244217,
+    "margen_bruto": 164259.582559146,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-04",
+    "brand": "FREE DAMM",
+    "channel": "OFF TRADE",
+    "hl": 111.196796875,
+    "venta_neta": 25882.659912109375,
+    "margen_bruto": 14597.050285339357,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-04",
+    "brand": "FREE DAMM",
+    "channel": "ON TRADE",
+    "hl": 306.97919687271116,
+    "venta_neta": 61003.626876831055,
+    "margen_bruto": 41809.64738127589,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-04",
+    "brand": "GRANDE",
+    "channel": "OFF TRADE",
+    "hl": 2296.48328125,
+    "venta_neta": 426574.45904541016,
+    "margen_bruto": -39191.79351806638,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-04",
+    "brand": "INEDIT",
+    "channel": "OFF TRADE",
+    "hl": 12.81239990234375,
+    "venta_neta": 5106.660171508789,
+    "margen_bruto": 1238.330079078675,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-04",
+    "brand": "INEDIT",
+    "channel": "ON TRADE",
+    "hl": 1.3540007209777856,
+    "venta_neta": 1966.030238866806,
+    "margen_bruto": 1687.480112142861,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-04",
+    "brand": "INNIS & GUNN",
+    "channel": "ON TRADE",
+    "hl": 474.01201171875,
+    "venta_neta": 28013.029296875,
+    "margen_bruto": 5710.129699707032,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-04",
+    "brand": "KIRIN ICHIBAN",
+    "channel": "OFF TRADE",
+    "hl": 1600.3552136230467,
+    "venta_neta": 383163.3553466797,
+    "margen_bruto": 47748.939447164536,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-04",
+    "brand": "KIRIN ICHIBAN",
+    "channel": "ON TRADE",
+    "hl": 604.3520411872864,
+    "venta_neta": 180683.04614686966,
+    "margen_bruto": 72479.21410058066,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-04",
+    "brand": "MARK SPENCER",
+    "channel": "OFF TRADE",
+    "hl": 1293.13796875,
+    "venta_neta": 309479.0968017578,
+    "margen_bruto": 75212.4973564148,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-04",
+    "brand": "MILLENIUM",
+    "channel": "OFF TRADE",
+    "hl": 207.36,
+    "venta_neta": 9123.83984375,
+    "margen_bruto": 1553.5296630859375,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-04",
+    "brand": "NORTHERN MONK",
+    "channel": "ON TRADE",
+    "hl": 317.2824024963379,
+    "venta_neta": 71576.66811466217,
+    "margen_bruto": -9359.950105518103,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-04",
+    "brand": "ROSA BLANCA",
+    "channel": "OFF TRADE",
+    "hl": 196.17840148925782,
+    "venta_neta": 36567.729721069336,
+    "margen_bruto": 11294.189521789549,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-04",
+    "brand": "ROSA BLANCA",
+    "channel": "ON TRADE",
+    "hl": 59.19599893569944,
+    "venta_neta": 11261.408565282822,
+    "margen_bruto": 8560.698441093786,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-04",
+    "brand": "SABOR",
+    "channel": "OFF TRADE",
+    "hl": 1308.700859375,
+    "venta_neta": 258694.76623535162,
+    "margen_bruto": 24474.47692871097,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-04",
+    "brand": "SAN MARCOS",
+    "channel": "OFF TRADE",
+    "hl": 2591.74109375,
+    "venta_neta": 493897.859375,
+    "margen_bruto": -44753.30883789064,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-04",
+    "brand": "VICTORIA",
+    "channel": "OFF TRADE",
+    "hl": 230.07599609375,
+    "venta_neta": 59040.291580200195,
+    "margen_bruto": -2991.7587953805914,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-04",
+    "brand": "VICTORIA",
+    "channel": "ON TRADE",
+    "hl": -85.6943928909302,
+    "venta_neta": -19131.528796195984,
+    "margen_bruto": 5508.791061650961,
+    "mktg_fund": 0
+  },
+  {
+    "month": "2026-04",
+    "brand": "VICTORIA LOW",
+    "channel": "ON TRADE",
+    "hl": 1021.0000000000001,
+    "venta_neta": 235869.72536849976,
+    "margen_bruto": 79592.3957591448,
+    "mktg_fund": 0
+  }
+]

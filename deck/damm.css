@@ -1,0 +1,276 @@
+/* @theme damm
+ * Damm-branded Marp theme for MarketPulse UK pitch deck.
+ * Palette mirrors app/globals.css so the deck reads as one product
+ * with the cockpit:
+ *   --cream:    #FDFBF7  page surface
+ *   --charcoal: #1A1A1A  primary type
+ *   --crimson:  #E32819  Damm red accent
+ *   --gold:     #C5A059  secondary accent
+ * Tone: Apple-keynote minimal × McKinsey one-pager precision.
+ */
+
+@import 'default';
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Bebas+Neue&display=swap');
+
+:root {
+  --cream: #fdfbf7;
+  --charcoal: #1a1a1a;
+  --charcoal-soft: #2a2a2a;
+  --muted: #6b6b6b;
+  --crimson: #e32819;
+  --gold: #c5a059;
+  --hairline: #e8e1d0;
+}
+
+section {
+  background: var(--cream);
+  color: var(--charcoal);
+  font-family: 'Inter', 'Helvetica Neue', system-ui, -apple-system, sans-serif;
+  font-size: 21px;
+  line-height: 1.5;
+  letter-spacing: -0.005em;
+  padding: 60px 90px 72px;
+  font-weight: 400;
+}
+
+h1 {
+  font-family: 'Bebas Neue', 'Helvetica Neue', sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  letter-spacing: 0.015em;
+  line-height: 1.05;
+  color: var(--charcoal);
+  margin: 0 0 18px;
+  text-transform: none;
+}
+
+h2 {
+  font-family: 'Inter', sans-serif;
+  font-size: 36px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.15;
+  color: var(--charcoal);
+  margin: 0 0 18px;
+}
+
+h3 {
+  font-family: 'Inter', sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  color: var(--muted);
+  margin: 0 0 14px;
+  letter-spacing: -0.01em;
+}
+
+h4 {
+  font-family: 'Inter', sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--crimson);
+  margin: 0 0 18px;
+}
+
+p {
+  margin: 0 0 14px;
+  max-width: 62ch;
+}
+
+strong {
+  font-weight: 600;
+  color: var(--charcoal);
+}
+
+em {
+  font-style: italic;
+  color: var(--charcoal-soft);
+}
+
+ul, ol {
+  margin: 0 0 14px;
+  padding-left: 1.1em;
+}
+
+ul li, ol li {
+  margin-bottom: 6px;
+}
+
+ul li::marker {
+  color: var(--crimson);
+}
+
+blockquote {
+  border-left: 3px solid var(--crimson);
+  margin: 18px 0;
+  padding: 2px 0 2px 18px;
+  font-style: italic;
+  color: var(--charcoal-soft);
+  font-size: 19px;
+  line-height: 1.45;
+}
+
+code {
+  font-family: 'SF Mono', Monaco, Consolas, monospace;
+  font-size: 0.9em;
+  background: rgba(26, 26, 26, 0.06);
+  padding: 2px 6px;
+  border-radius: 4px;
+  color: var(--charcoal);
+}
+
+a {
+  color: var(--crimson);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(227, 40, 25, 0.3);
+}
+
+hr {
+  border: none;
+  border-top: 1px solid var(--hairline);
+  margin: 32px 0;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 24px 0;
+  font-size: 22px;
+}
+
+th {
+  text-align: left;
+  font-weight: 600;
+  border-bottom: 2px solid var(--charcoal);
+  padding: 8px 16px 8px 0;
+}
+
+td {
+  padding: 8px 16px 8px 0;
+  border-bottom: 1px solid var(--hairline);
+}
+
+/* Footer label visible on every slide except title (set via per-slide
+ * directives where unwanted). */
+footer {
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+  font-weight: 500;
+}
+
+/* Page number, top-right, tracked uppercase digit. */
+section::after {
+  font-family: 'Inter', sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  color: var(--muted);
+  content: attr(data-marpit-pagination) ' / ' attr(data-marpit-pagination-total);
+}
+
+/* === Special slide variants === */
+
+/* Title / cover slide: dark, dramatic, brand-red accent line */
+section.cover {
+  background: var(--charcoal);
+  color: var(--cream);
+  padding: 90px 100px 80px;
+}
+
+section.cover h1 {
+  font-size: 110px;
+  color: var(--cream);
+  letter-spacing: 0.01em;
+  margin-bottom: 28px;
+}
+
+section.cover h3 {
+  color: rgba(253, 251, 247, 0.7);
+  font-size: 26px;
+  font-weight: 400;
+  max-width: 24ch;
+  line-height: 1.3;
+  margin-bottom: 44px;
+}
+
+section.cover .meta {
+  margin-top: auto;
+  font-size: 14px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: rgba(253, 251, 247, 0.55);
+  font-weight: 500;
+}
+
+section.cover::before {
+  content: '';
+  display: block;
+  width: 80px;
+  height: 4px;
+  background: var(--crimson);
+  margin-bottom: 48px;
+}
+
+section.cover::after {
+  display: none;
+}
+
+/* Accent slides: cream background, big crimson stat number */
+section.accent {
+  background: var(--cream);
+  text-align: left;
+}
+
+section.accent .stat {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 200px;
+  line-height: 1;
+  color: var(--crimson);
+  letter-spacing: -0.01em;
+  margin: 24px 0;
+}
+
+/* Closing slide variant */
+section.closing {
+  background: var(--charcoal);
+  color: var(--cream);
+}
+
+section.closing h1 {
+  color: var(--cream);
+  font-size: 96px;
+}
+
+section.closing h3,
+section.closing p {
+  color: rgba(253, 251, 247, 0.75);
+}
+
+section.closing strong {
+  color: var(--cream);
+}
+
+section.closing a {
+  color: var(--crimson);
+  border-bottom-color: var(--crimson);
+}
+
+section.closing::after {
+  display: none;
+}
+
+/* Two-column layout: <div class="cols"> ... </div> */
+.cols {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 48px;
+  margin-top: 16px;
+}
+
+.cols h4 {
+  margin-bottom: 12px;
+}

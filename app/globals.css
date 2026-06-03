@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@theme {
+  --color-cream: #fdfbf7;
+  --color-charcoal: #1a1a1a;
+  --color-crimson: #e32819;
+  --color-gold: #c5a059;
+
+  --font-sans: var(--font-inter), "Helvetica Neue", system-ui, sans-serif;
+  --font-display: var(--font-bebas), "Helvetica Neue", system-ui, sans-serif;
+  --font-serif: var(--font-cormorant), Georgia, "Times New Roman", serif;
+}
+
+@utility shadow-warm {
+  box-shadow:
+    0 1px 2px rgba(26, 26, 26, 0.04),
+    0 6px 16px -4px rgba(195, 160, 89, 0.14);
+}
+
+:root {
+  color-scheme: light dark;
+}
+
+html,
+body {
+  height: 100%;
+}
